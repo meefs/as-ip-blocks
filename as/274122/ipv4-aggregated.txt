@@ -1,3 +1,4 @@
 # AS274122 (AQUATEL-NV)
 # Aquatel N.V.
 #
+38.18.232.0/22

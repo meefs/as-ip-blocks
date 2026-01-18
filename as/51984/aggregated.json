@@ -1,14 +1,17 @@
 {
-  "asn": 51984,
-  "metadata": {
-    "handle": "VERA-MEGATEL",
-    "description": "Gurbtec Iguana Telecom SL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 51984,
+  "metadata" : {
+    "handle" : "VERA-MEGATEL",
+    "description" : "Gurbtec Iguana Telecom SL",
+    "countryCode" : "ES",
+    "country" : "Spain",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "46.253.40.0/21",
+      "185.182.152.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

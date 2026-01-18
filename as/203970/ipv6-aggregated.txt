@@ -1,3 +1,3 @@
-# AS203970 (BOSCH-IOT-CLOUD)
-# Robert Bosch Gesellschaft mit Beschraenkter Haftung
+# AS203970 (WEILERABRASIVES)
+# WEILER Abrasives d.o.o.
 #

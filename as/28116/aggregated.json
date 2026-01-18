@@ -1,14 +1,14 @@
 {
-  "asn": 28116,
-  "metadata": {
-    "handle": "UNIVERSIDAD-ADOLFO-IBANEZ",
-    "description": "Universidad de Adolfo Iba\u00f1ez",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 28116,
+  "metadata" : {
+    "handle" : "UNIVERSIDAD-ADOLFO-IBANEZ",
+    "description" : "Universidad de Adolfo Ibañez",
+    "countryCode" : "CL",
+    "country" : "Chile",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

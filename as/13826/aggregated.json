@@ -1,0 +1,14 @@
+{
+  "asn" : 13826,
+  "metadata" : {
+    "handle" : "TERAGO-DATA-CENTER-VAUGHAN",
+    "description" : "TeraGo Networks Inc.",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn" : 2959,
+  "metadata" : {
+    "handle" : "SPRINT-MRN-BLOCK",
+    "description" : "U.S. Sprint",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

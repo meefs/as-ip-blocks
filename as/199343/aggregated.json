@@ -1,0 +1,18 @@
+{
+  "asn" : 199343,
+  "metadata" : {
+    "handle" : "LAOTRARED",
+    "description" : "Luis Fernando Mita Caceres",
+    "countryCode" : "BO",
+    "country" : "Bolivia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0a:6040:9800::/48",
+      "2a0a:6040:98f0::/48",
+      "2a0a:6040:98ff::/48"
+    ]
+  }
+}

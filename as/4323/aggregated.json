@@ -1,0 +1,14 @@
+{
+  "asn" : 4323,
+  "metadata" : {
+    "handle" : "CENTURYLINK-LEGACY-TWTC",
+    "description" : "Level 3 Parent LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

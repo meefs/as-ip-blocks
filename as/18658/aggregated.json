@@ -1,14 +1,16 @@
 {
-  "asn": 18658,
-  "metadata": {
-    "handle": "ECHD-AS1",
-    "description": "ECTOR COUNTY HOSPITAL DISTRICT",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 18658,
+  "metadata" : {
+    "handle" : "ECHD-AS1",
+    "description" : "ECTOR COUNTY HOSPITAL DISTRICT",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "208.67.136.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

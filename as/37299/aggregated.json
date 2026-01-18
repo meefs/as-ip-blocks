@@ -1,0 +1,14 @@
+{
+  "asn" : 37299,
+  "metadata" : {
+    "handle" : "LIXP",
+    "description" : "Internet Exchange Point Association of Lesotho",
+    "countryCode" : "LS",
+    "country" : "Lesotho",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

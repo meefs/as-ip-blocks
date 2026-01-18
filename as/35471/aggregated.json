@@ -1,14 +1,14 @@
 {
-  "asn": 35471,
-  "metadata": {
-    "handle": "D1",
-    "description": "D1 informacijske tehnologije d.o.o.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 35471,
+  "metadata" : {
+    "handle" : "D1",
+    "description" : "D1 informacijske tehnologije d.o.o.",
+    "countryCode" : "SI",
+    "country" : "Slovenia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

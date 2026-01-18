@@ -1,14 +1,14 @@
 {
-  "asn": 2111,
-  "metadata": {
-    "handle": "SKYNET-AS",
-    "description": "SkyNet Group Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 2111,
+  "metadata" : {
+    "handle" : "SKYNET-AS",
+    "description" : "SkyNet Group Ltd.",
+    "countryCode" : "BG",
+    "country" : "Bulgaria",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

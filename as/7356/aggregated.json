@@ -1,14 +1,14 @@
 {
-  "asn": 7356,
-  "metadata": {
-    "handle": "SIKLA",
-    "description": "Sikla Tech Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 7356,
+  "metadata" : {
+    "handle" : "SIKLA",
+    "description" : "Sikla Tech Limited",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

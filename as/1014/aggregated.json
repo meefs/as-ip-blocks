@@ -1,14 +1,14 @@
 {
-  "asn": 1014,
-  "metadata": {
-    "handle": "GLOBAL-ISP",
-    "description": "NetLab Global",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 1014,
+  "metadata" : {
+    "handle" : "GLOBAL-ISP",
+    "description" : "NetLab Global",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

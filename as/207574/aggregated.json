@@ -1,14 +1,16 @@
 {
-  "asn": 207574,
-  "metadata": {
-    "handle": "MIKENETWORKS-UK-AS",
-    "description": "MikeNetworks S.a r.l.-S.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 207574,
+  "metadata" : {
+    "handle" : "MIKENETWORKS-UK-AS",
+    "description" : "MikeNetworks S.a r.l.-S.",
+    "countryCode" : "LU",
+    "country" : "Luxembourg",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a12:4946:46::/48"
+    ]
   }
 }

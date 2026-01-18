@@ -1,14 +1,14 @@
 {
-  "asn": 398811,
-  "metadata": {
-    "handle": "EQUINIX-EC-BO",
-    "description": "Equinix Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 398811,
+  "metadata" : {
+    "handle" : "EQUINIX-EC-BO",
+    "description" : "Equinix Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

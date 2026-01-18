@@ -1,0 +1,14 @@
+{
+  "asn" : 208374,
+  "metadata" : {
+    "handle" : "LU-CIX-2",
+    "description" : "LU-CIX Management G.I.E.",
+    "countryCode" : "LU",
+    "country" : "Luxembourg",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "asn": 140317,
-  "metadata": {
-    "handle": "CHINATELECOM-GUANGDONG-SHAOGUAN-5G-NETWORK",
-    "description": "China Telecom",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 140317,
+  "metadata" : {
+    "handle" : "CHINATELECOM-GUANGDONG-SHAOGUAN-5G-NETWORK",
+    "description" : "China Telecom",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

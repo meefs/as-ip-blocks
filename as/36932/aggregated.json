@@ -1,14 +1,14 @@
 {
-  "asn": 36932,
-  "metadata": {
-    "handle": "IXPN",
-    "description": "Internet Exchange Point of Nigeria",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 36932,
+  "metadata" : {
+    "handle" : "IXPN-AS",
+    "description" : "Internet Exchange Point of Nigeria",
+    "countryCode" : "NG",
+    "country" : "Nigeria",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

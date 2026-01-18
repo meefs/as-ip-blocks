@@ -1,0 +1,14 @@
+{
+  "asn" : 206345,
+  "metadata" : {
+    "handle" : "AAK-AS",
+    "description" : "Ayandeh Afzayeh Karaneh Co PJS",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

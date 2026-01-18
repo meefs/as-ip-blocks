@@ -1,14 +1,14 @@
 {
-  "asn": 136205,
-  "metadata": {
-    "handle": "LINNITSOLUTION-AP",
-    "description": "Linn IT Solution Company Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 136205,
+  "metadata" : {
+    "handle" : "LINNITSOLUTION-AS-AP",
+    "description" : "Linn IT Solution Company Limited",
+    "countryCode" : "MM",
+    "country" : "Myanmar (Burma)",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

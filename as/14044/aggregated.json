@@ -1,0 +1,14 @@
+{
+  "asn" : 14044,
+  "metadata" : {
+    "handle" : "RICOH-USA-IT-SERVICES-MINNESOTA",
+    "description" : "Ricoh USA Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

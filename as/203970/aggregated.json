@@ -1,14 +1,16 @@
 {
-  "asn": 203970,
-  "metadata": {
-    "handle": "BOSCH-IOT-CLOUD",
-    "description": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 203970,
+  "metadata" : {
+    "handle" : "WEILERABRASIVES",
+    "description" : "WEILER Abrasives d.o.o.",
+    "countryCode" : "SI",
+    "country" : "Slovenia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "91.223.26.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

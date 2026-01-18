@@ -1,0 +1,16 @@
+{
+  "asn" : 65571,
+  "metadata" : {
+    "handle" : "SAUDI-TELECOM-COMPANY-JSC",
+    "description" : "Saudi Telecom Company JSC",
+    "countryCode" : "SA",
+    "country" : "Saudi Arabia",
+    "origin" : "inferred"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "37.25.82.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

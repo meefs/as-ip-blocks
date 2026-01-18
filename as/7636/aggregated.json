@@ -1,0 +1,14 @@
+{
+  "asn" : 7636,
+  "metadata" : {
+    "handle" : "FAREAST-AS-AP",
+    "description" : "Milcom Systems Co. Ltd.",
+    "countryCode" : "TH",
+    "country" : "Thailand",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

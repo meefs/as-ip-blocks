@@ -1,0 +1,14 @@
+{
+  "asn" : 16265,
+  "metadata" : {
+    "handle" : "LEASEWEB-NETWORK",
+    "description" : "LeaseWeb Network B.V.",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,17 @@
 {
-  "asn": 135884,
-  "metadata": {
-    "handle": "MBSTPL-AP",
-    "description": "MAGNET BRAINS SOFTWARE TECHNOLOGY PRIVATE LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 135884,
+  "metadata" : {
+    "handle" : "MBSTPL-AS-AP",
+    "description" : "MAGNET BRAINS SOFTWARE TECHNOLOGY PRIVATE LIMITED",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "103.79.1.0/24",
+      "103.79.2.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

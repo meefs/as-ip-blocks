@@ -1,0 +1,14 @@
+{
+  "asn" : 205698,
+  "metadata" : {
+    "handle" : "WAXX",
+    "description" : "Waxx SAS",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

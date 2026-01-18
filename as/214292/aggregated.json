@@ -1,0 +1,14 @@
+{
+  "asn" : 214292,
+  "metadata" : {
+    "handle" : "DECIX-L3-SERVICES",
+    "description" : "DE-CIX Management GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

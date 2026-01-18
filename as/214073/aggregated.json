@@ -1,0 +1,14 @@
+{
+  "asn" : 214073,
+  "metadata" : {
+    "handle" : "HEART-INTERNET-UK",
+    "description" : "Heart Internet limited",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

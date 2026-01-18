@@ -1,0 +1,14 @@
+{
+  "asn" : 206144,
+  "metadata" : {
+    "handle" : "NA-TRANSIT",
+    "description" : "Clouvider Limited",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

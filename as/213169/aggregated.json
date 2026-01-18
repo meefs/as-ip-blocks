@@ -1,14 +1,16 @@
 {
-  "asn": 213169,
-  "metadata": {
-    "handle": "AS-CATIXS-AKA",
-    "description": "Catixs Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 213169,
+  "metadata" : {
+    "handle" : "CATIXS-EDGE",
+    "description" : "Catixs Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0e:da40:3000::/36"
+    ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 22850,
+  "metadata" : {
+    "handle" : "PIT-US",
+    "description" : "PIT US",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

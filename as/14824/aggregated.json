@@ -1,0 +1,14 @@
+{
+  "asn" : 14824,
+  "metadata" : {
+    "handle" : "ZYNGA-01",
+    "description" : "TAKE-TWO INTERACTIVE SOFTWARE INC.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

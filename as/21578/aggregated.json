@@ -1,14 +1,14 @@
 {
-  "asn": 21578,
-  "metadata": {
-    "handle": "UNIVERSIDAD-AUTONOMA-BUCARAMANGA",
-    "description": "Universidad autonoma de Bucaramanga",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 21578,
+  "metadata" : {
+    "handle" : "UNIVERSIDAD-AUTONOMA-BUCARAMANGA",
+    "description" : "Universidad autonoma de Bucaramanga",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

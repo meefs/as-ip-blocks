@@ -1,14 +1,19 @@
 {
-  "asn": 20111,
-  "metadata": {
-    "handle": "LENOVO-NET",
-    "description": "Lenovo (United States) Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 20111,
+  "metadata" : {
+    "handle" : "LENOVO-NET",
+    "description" : "Lenovo (United States) Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "104.232.224.0/23",
+      "104.232.228.0/24",
+      "144.188.129.0/24",
+      "144.188.134.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

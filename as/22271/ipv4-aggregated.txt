@@ -1,4 +1,4 @@
-# AS22271 (CABLEVISION-SYSTEMS-CORP)
-# Cablevision Systems Corp.
+# AS22271 (CABLEVISION-LIGHTPATH-LLC)
+# Cablevision Lightpath LLC
 #
 47.19.86.0/24

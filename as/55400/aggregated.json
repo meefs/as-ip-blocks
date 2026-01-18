@@ -1,14 +1,16 @@
 {
-  "asn": 55400,
-  "metadata": {
-    "handle": "INFOXCHANGE-AP",
-    "description": "Infoxchange Australia",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 55400,
+  "metadata" : {
+    "handle" : "INFOXCHANGE-AS-AP",
+    "description" : "Infoxchange Australia",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "203.15.70.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

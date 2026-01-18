@@ -1,14 +1,16 @@
 {
-  "asn": 400057,
-  "metadata": {
-    "handle": "UPSTATE-NIAGARA-COOP-2021",
-    "description": "Upstate Niagara Cooperatives",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 400057,
+  "metadata" : {
+    "handle" : "UPSTATE-NIAGARA-COOP-2021",
+    "description" : "Upstate Niagara Cooperatives",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "66.193.23.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

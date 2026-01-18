@@ -1,0 +1,14 @@
+{
+  "asn" : 3204,
+  "metadata" : {
+    "handle" : "XTOM-V-PS",
+    "description" : "xTom OU",
+    "countryCode" : "EE",
+    "country" : "Estonia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

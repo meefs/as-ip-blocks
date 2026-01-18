@@ -1,14 +1,17 @@
 {
-  "asn": 11324,
-  "metadata": {
-    "handle": "AS11324",
-    "description": "BRFHH SHREVEPORT L.L.C.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 11324,
+  "metadata" : {
+    "handle" : "AS11324",
+    "description" : "BRFHH SHREVEPORT L.L.C.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "104.153.252.0/24",
+      "104.153.254.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

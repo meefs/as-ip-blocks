@@ -1,5 +1,4 @@
 # AS135481 (IDNIC-UNM-AS-ID)
 # Universitas Negeri Makassar
 #
-103.31.47.0/24
 103.76.50.0/24

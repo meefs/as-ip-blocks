@@ -1,0 +1,14 @@
+{
+  "asn" : 24115,
+  "metadata" : {
+    "handle" : "ASN-EQIX-MLPE",
+    "description" : "Equinix Asia Pacific Pte Ltd",
+    "countryCode" : "SG",
+    "country" : "Singapore",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

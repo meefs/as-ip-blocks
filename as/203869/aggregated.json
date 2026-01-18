@@ -1,0 +1,14 @@
+{
+  "asn" : 203869,
+  "metadata" : {
+    "handle" : "RAZVITIE-AS",
+    "description" : "Razvitie JSC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

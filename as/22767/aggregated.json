@@ -1,0 +1,16 @@
+{
+  "asn" : 22767,
+  "metadata" : {
+    "handle" : "AS22767",
+    "description" : "National Aeronautics and Space Administration",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2001:4d0:241b::/48"
+    ]
+  }
+}

@@ -1,14 +1,19 @@
 {
-  "asn": 948,
-  "metadata": {
-    "handle": "JANTECHCS-AS",
-    "description": "JanTech Computer Services",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 948,
+  "metadata" : {
+    "handle" : "JANTECHCS-AS",
+    "description" : "JanTech Computer Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "23.152.168.0/24",
+      "206.80.236.0/24"
+    ],
+    "ipv6" : [
+      "2602:2cc::/36"
+    ]
   }
 }

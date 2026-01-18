@@ -1,0 +1,14 @@
+{
+  "asn" : 207436,
+  "metadata" : {
+    "handle" : "MAINSPEED",
+    "description" : "Greenfiber Internet & Dienste GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

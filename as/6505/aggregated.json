@@ -1,14 +1,14 @@
 {
-  "asn": 6505,
-  "metadata": {
-    "handle": "EQUANT-BRASIL",
-    "description": "EQUANT BRASIL LTDA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 6505,
+  "metadata" : {
+    "handle" : "EQUANT-BRASIL",
+    "description" : "EQUANT BRASIL LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

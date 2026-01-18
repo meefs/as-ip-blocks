@@ -1,0 +1,14 @@
+{
+  "asn" : 213973,
+  "metadata" : {
+    "handle" : "BCIX-OUTREACH",
+    "description" : "BCIX Management GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,16 @@
 {
-  "asn": 36822,
-  "metadata": {
-    "handle": "NYMEX-EXTRANET",
-    "description": "NEW YORK MERCANTILE EXCHANGE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 36822,
+  "metadata" : {
+    "handle" : "NYMEX-EXTRANET",
+    "description" : "NEW YORK MERCANTILE EXCHANGE",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "204.77.88.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

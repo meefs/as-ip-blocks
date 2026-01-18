@@ -1,14 +1,17 @@
 {
-  "asn": 62452,
-  "metadata": {
-    "handle": "IMIU",
-    "description": "Al-Imam Muhammad Ibn Saud Islamic University",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 62452,
+  "metadata" : {
+    "handle" : "IMIU",
+    "description" : "Al-Imam Muhammad Ibn Saud Islamic University",
+    "countryCode" : "SA",
+    "country" : "Saudi Arabia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "194.33.68.0/24",
+      "194.33.70.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

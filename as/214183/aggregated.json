@@ -1,0 +1,14 @@
+{
+  "asn" : 214183,
+  "metadata" : {
+    "handle" : "LAYER7",
+    "description" : "Layer7 Technologies Inc",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

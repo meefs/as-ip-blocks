@@ -1,14 +1,14 @@
 {
-  "asn": 269752,
-  "metadata": {
-    "handle": "COLSECOR-COOPERATIVA-LIMITADA",
-    "description": "Colsecor Cooperativa Limitada",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 269752,
+  "metadata" : {
+    "handle" : "COLSECOR-COOPERATIVA-LIMITADA",
+    "description" : "Colsecor Cooperativa Limitada",
+    "countryCode" : "AR",
+    "country" : "Argentina",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

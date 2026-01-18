@@ -1,16 +1,20 @@
 {
   "asn" : 262493,
   "metadata" : {
-    "handle" : "ALARES-CABO-SERVICOS",
-    "description" : "Alares Cabo Servicos de Telecomunicacoes S.A.",
+    "handle" : "SKY-SERVICOS-DE",
+    "description" : "SKY SERVIÇOS DE BANDA LARGA LTDA",
     "countryCode" : "BR",
     "country" : "Brazil",
     "origin" : "inferred"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [
+      "177.8.48.0/21",
+      "177.55.48.0/20"
+    ],
     "ipv6" : [
-      "2804:fec::/32"
+      "2804:fec::/32",
+      "2804:3258:8134::/48"
     ]
   }
 }

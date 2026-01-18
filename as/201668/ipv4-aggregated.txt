@@ -1,5 +1,7 @@
 # AS201668 (SAMAMADINATY)
 # Sama Madeniti for Communication & Internet Ltd.
 #
+151.236.182.0/24
+151.236.190.0/24
 185.65.252.0/23
 185.65.254.0/24

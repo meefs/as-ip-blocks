@@ -1,14 +1,16 @@
 {
-  "asn": 200021,
-  "metadata": {
-    "handle": "PTH-AS",
-    "description": "Tianhong Peng",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 200021,
+  "metadata" : {
+    "handle" : "PTH-AS",
+    "description" : "Tianhong Peng",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0e:aa07:e060::/48"
+    ]
   }
 }

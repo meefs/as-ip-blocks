@@ -1,14 +1,14 @@
 {
-  "asn": 24590,
-  "metadata": {
-    "handle": "COMPLETE",
-    "description": "RelAix Networks GmbH",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 24590,
+  "metadata" : {
+    "handle" : "COMPLETE",
+    "description" : "RelAix Networks GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

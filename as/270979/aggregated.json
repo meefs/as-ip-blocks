@@ -1,0 +1,16 @@
+{
+  "asn" : 270979,
+  "metadata" : {
+    "handle" : "UNIFIQUE-TELECOMUNICACOES-SA",
+    "description" : "UNIFIQUE TELECOMUNICACOES S/A",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "inferred"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "170.150.144.0/22"
+    ],
+    "ipv6" : [ ]
+  }
+}

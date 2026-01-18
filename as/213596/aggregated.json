@@ -1,14 +1,17 @@
 {
-  "asn": 213596,
-  "metadata": {
-    "handle": "FSEC",
-    "description": "FSEC Teknoloji Ltd. Sti.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 213596,
+  "metadata" : {
+    "handle" : "FSEC",
+    "description" : "FSEC Teknoloji Ltd. Sti.",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "77.239.126.0/24",
+      "193.23.222.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

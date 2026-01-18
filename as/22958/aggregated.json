@@ -1,14 +1,14 @@
 {
-  "asn": 22958,
-  "metadata": {
-    "handle": "FIDELITY-001",
-    "description": "Fusion, LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 22958,
+  "metadata" : {
+    "handle" : "FIDELITY-001",
+    "description" : "Fusion LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

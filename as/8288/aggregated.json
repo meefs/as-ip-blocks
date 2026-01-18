@@ -1,14 +1,14 @@
 {
-  "asn": 8288,
-  "metadata": {
-    "handle": "BENESTRA-NEXTRA",
-    "description": "SWAN, a.s.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 8288,
+  "metadata" : {
+    "handle" : "AS-BENESTRA-NEXTRA",
+    "description" : "SWAN a.s.",
+    "countryCode" : "SK",
+    "country" : "Slovakia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

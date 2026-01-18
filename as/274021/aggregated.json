@@ -1,0 +1,16 @@
+{
+  "asn" : 274021,
+  "metadata" : {
+    "handle" : "MEDIA-LINK",
+    "description" : "MEDIA LINK S.A.S",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2803:8cd0::/32"
+    ]
+  }
+}

@@ -1,14 +1,18 @@
 {
-  "asn": 6921,
-  "metadata": {
-    "handle": "ARACHNITEC",
-    "description": "Arachnitec INC.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 6921,
+  "metadata" : {
+    "handle" : "ARACHNITEC",
+    "description" : "Arachnitec INC.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "69.85.87.0/24",
+      "69.85.88.0/23",
+      "69.85.93.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 4743,
+  "metadata" : {
+    "handle" : "ISIF-AS-AP",
+    "description" : "77689388",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

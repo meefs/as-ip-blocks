@@ -2,3 +2,4 @@
 # Algonquin Fiber Incorporated
 #
 38.191.120.0/23
+199.202.228.0/24

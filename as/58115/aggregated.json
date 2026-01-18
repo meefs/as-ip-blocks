@@ -1,0 +1,14 @@
+{
+  "asn" : 58115,
+  "metadata" : {
+    "handle" : "SWISSIX-OUTREACH",
+    "description" : "SwissIX Internet Exchange",
+    "countryCode" : "CH",
+    "country" : "Switzerland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

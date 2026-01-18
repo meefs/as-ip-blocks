@@ -1,14 +1,14 @@
 {
-  "asn": 10282,
-  "metadata": {
-    "handle": "DIALIP-PR",
-    "description": "GLOBAL ONE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 10282,
+  "metadata" : {
+    "handle" : "DIALIP-PR",
+    "description" : "GLOBAL ONE",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

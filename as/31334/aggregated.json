@@ -1,14 +1,17 @@
 {
-  "asn": 31334,
-  "metadata": {
-    "handle": "KABELDEUTSCHLAND",
-    "description": "Vodafone Deutschland GmbH",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 31334,
+  "metadata" : {
+    "handle" : "KABELDEUTSCHLAND-AS",
+    "description" : "Vodafone GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "62.95.128.0/17",
+      "81.11.0.0/17"
+    ],
+    "ipv6" : [ ]
   }
 }

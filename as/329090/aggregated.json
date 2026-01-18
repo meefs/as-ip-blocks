@@ -1,0 +1,14 @@
+{
+  "asn" : 329090,
+  "metadata" : {
+    "handle" : "ALHADATHA-ALALAMIYA",
+    "description" : "Alhadatha Alalamiya for telecommunications and information technology L.L.C",
+    "countryCode" : "LY",
+    "country" : "Libya",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn" : 395727,
+  "metadata" : {
+    "handle" : "ASN-INTELLIC",
+    "description" : "Intellicom Computer Consulting Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

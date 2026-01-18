@@ -2,3 +2,4 @@
 # Lexington Medical Center
 #
 204.52.167.0/24
+208.104.34.0/24

@@ -1,0 +1,16 @@
+{
+  "asn" : 131151,
+  "metadata" : {
+    "handle" : "IMCLOUD",
+    "description" : "Imcloud Technology Co. Ltd.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "103.123.132.0/22"
+    ],
+    "ipv6" : [ ]
+  }
+}

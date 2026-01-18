@@ -1,0 +1,14 @@
+{
+  "asn" : 43100,
+  "metadata" : {
+    "handle" : "FRANCE-IX-LYN-RS",
+    "description" : "France IX Services SASU",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

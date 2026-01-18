@@ -1,14 +1,14 @@
 {
-  "asn": 142505,
-  "metadata": {
-    "handle": "LTDIN-IN",
-    "description": "LIGHTSTORM DATA CENTERS PVT LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 142505,
+  "metadata" : {
+    "handle" : "LTDIN-AS-IN",
+    "description" : "LIGHTSTORM DATA CENTERS PVT LTD",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

@@ -1,14 +1,14 @@
 {
-  "asn": 38790,
-  "metadata": {
-    "handle": "SPIRIT-TELECOM",
-    "description": "Spirit Telecom (Australia) Pty Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 38790,
+  "metadata" : {
+    "handle" : "XYZTELECOM-AS-AP",
+    "description" : "XYZ Telecom Pty Ltd",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

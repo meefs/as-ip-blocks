@@ -1,0 +1,17 @@
+{
+  "asn" : 65656,
+  "metadata" : {
+    "handle" : "AS65656",
+    "description" : "Unknown AS 65656",
+    "countryCode" : null,
+    "country" : null,
+    "origin" : "none"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "41.149.69.0/24",
+      "41.149.75.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

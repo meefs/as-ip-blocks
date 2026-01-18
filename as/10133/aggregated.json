@@ -1,0 +1,14 @@
+{
+  "asn" : 10133,
+  "metadata" : {
+    "handle" : "TPIX-AS-TW",
+    "description" : "Chief Telecom Inc.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

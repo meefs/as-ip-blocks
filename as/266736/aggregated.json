@@ -1,14 +1,16 @@
 {
-  "asn": 266736,
-  "metadata": {
-    "handle": "UNIVERSIDAD-TECNOLOGICA-PEREIRA",
-    "description": "Universidad Tecnologica de Pereira",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 266736,
+  "metadata" : {
+    "handle" : "UNIVERSIDAD-TECNOLOGICA-PEREIRA",
+    "description" : "Universidad Tecnologica de Pereira",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "201.131.90.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

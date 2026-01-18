@@ -1,14 +1,14 @@
 {
-  "asn": 22637,
-  "metadata": {
-    "handle": "C-R-T",
-    "description": "Arialink",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 22637,
+  "metadata" : {
+    "handle" : "C-R-T",
+    "description" : "Zayo Bandwidth",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

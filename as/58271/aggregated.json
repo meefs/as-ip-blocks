@@ -1,14 +1,14 @@
 {
-  "asn": 58271,
-  "metadata": {
-    "handle": "GLP",
-    "description": "Tyatkova Oksana Valerievna",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 58271,
+  "metadata" : {
+    "handle" : "GLP-AS",
+    "description" : "Tyatkova Oksana Valerievna",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

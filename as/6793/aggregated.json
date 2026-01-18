@@ -1,0 +1,14 @@
+{
+  "asn" : 6793,
+  "metadata" : {
+    "handle" : "TELIVO-AS",
+    "description" : "DNA Oyj",
+    "countryCode" : "FI",
+    "country" : "Finland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

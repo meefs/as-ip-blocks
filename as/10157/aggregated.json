@@ -1,14 +1,16 @@
 {
-  "asn": 10157,
-  "metadata": {
-    "handle": "NHNBUGS",
-    "description": "NHN Bugs",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 10157,
+  "metadata" : {
+    "handle" : "NHNBUGS-AS",
+    "description" : "NHN Bugs",
+    "countryCode" : "KR",
+    "country" : "South Korea",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "103.132.32.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

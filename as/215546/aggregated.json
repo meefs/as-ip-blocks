@@ -1,14 +1,14 @@
 {
-  "asn": 215546,
-  "metadata": {
-    "handle": "TELECOM1-IXP01",
-    "description": "Telecom 1 LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 215546,
+  "metadata" : {
+    "handle" : "TELECOM1-IXP01",
+    "description" : "Telecom 1 LLC",
+    "countryCode" : "GE",
+    "country" : "Georgia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

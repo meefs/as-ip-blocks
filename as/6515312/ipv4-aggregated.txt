@@ -1,0 +1,4 @@
+# AS6515312 (PJSC-ROSTELECOM)
+# PJSC Rostelecom
+#
+83.239.47.0/24

@@ -1,3 +1,7 @@
 # AS134765 (CHINANET-YUNNAN-IDC1)
 # CHINANET Yunnan province IDC1 network
 #
+240e:94c::/36
+240e:94c:8000::/37
+240e:94c:c000::/38
+240e:94c:e000::/38

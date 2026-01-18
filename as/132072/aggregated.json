@@ -1,0 +1,14 @@
+{
+  "asn" : 132072,
+  "metadata" : {
+    "handle" : "ANYCAST-AS-AP",
+    "description" : "Anycast Pty Ltd",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

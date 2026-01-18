@@ -1,14 +1,14 @@
 {
-  "asn": 394445,
-  "metadata": {
-    "handle": "BOREAL-DDOS-PROTECTION",
-    "description": "Sucura Networks Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 394445,
+  "metadata" : {
+    "handle" : "BOREAL-DDOS-PROTECTION",
+    "description" : "Sucura Networks Inc",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

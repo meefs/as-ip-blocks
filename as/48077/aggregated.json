@@ -1,14 +1,14 @@
 {
-  "asn": 48077,
-  "metadata": {
-    "handle": "ZIXCORP-EU",
-    "description": "Zix Corporation",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 48077,
+  "metadata" : {
+    "handle" : "ZIXCORP-EU-ASN",
+    "description" : "Zix Corporation",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

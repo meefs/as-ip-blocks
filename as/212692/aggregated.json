@@ -1,14 +1,14 @@
 {
-  "asn": 212692,
-  "metadata": {
-    "handle": "SCOPESKY-INT",
-    "description": "ScopeSky for communications internet and technology services LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 212692,
+  "metadata" : {
+    "handle" : "SCOPESKY-INT",
+    "description" : "ScopeSky for communications internet and technology services LLC",
+    "countryCode" : "IQ",
+    "country" : "Iraq",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

@@ -1,14 +1,17 @@
 {
-  "asn": 399706,
-  "metadata": {
-    "handle": "ASMOKC",
-    "description": "SMG Holdings LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 399706,
+  "metadata" : {
+    "handle" : "ASMOKC",
+    "description" : "SMG Holdings LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "66.210.80.0/24",
+      "66.210.180.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

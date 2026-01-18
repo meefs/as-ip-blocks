@@ -1,0 +1,14 @@
+{
+  "asn" : 4571,
+  "metadata" : {
+    "handle" : "UUNET-SA",
+    "description" : "MTN SA",
+    "countryCode" : "ZA",
+    "country" : "South Africa",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

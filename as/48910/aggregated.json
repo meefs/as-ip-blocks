@@ -1,14 +1,14 @@
 {
-  "asn": 48910,
-  "metadata": {
-    "handle": "INAP-FRA",
-    "description": "PACKETFABRIC (UK) LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 48910,
+  "metadata" : {
+    "handle" : "INAP-FRA",
+    "description" : "PACKETFABRIC (UK) LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

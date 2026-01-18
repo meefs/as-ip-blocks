@@ -1,0 +1,14 @@
+{
+  "asn" : 19271,
+  "metadata" : {
+    "handle" : "PEAK10",
+    "description" : "Flexential Corp.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

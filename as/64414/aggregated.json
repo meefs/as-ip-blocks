@@ -1,14 +1,14 @@
 {
-  "asn": 64414,
-  "metadata": {
-    "handle": "IRASANEH",
-    "description": "Rasaneh Ayandeh Iranian Co PJS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 64414,
+  "metadata" : {
+    "handle" : "IRASANEH",
+    "description" : "Rasaneh Ayandeh Iranian Co PJS",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

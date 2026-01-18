@@ -1,4 +1,5 @@
 # AS21959 (RMI-NETWORK-ATLANTA)
 # Railcar Management Inc
 #
+204.10.20.0/22
 208.67.24.0/23

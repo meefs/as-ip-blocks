@@ -1,14 +1,14 @@
 {
-  "asn": 10241,
-  "metadata": {
-    "handle": "OCI",
-    "description": "Options & Choices, Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 10241,
+  "metadata" : {
+    "handle" : "OCI",
+    "description" : "Options & Choices Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

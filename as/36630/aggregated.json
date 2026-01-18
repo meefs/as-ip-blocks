@@ -1,0 +1,18 @@
+{
+  "asn" : 36630,
+  "metadata" : {
+    "handle" : "YGTLD",
+    "description" : "VeriSign Global Registry Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "81.19.195.0/24"
+    ],
+    "ipv6" : [
+      "2620:74:2a::/48"
+    ]
+  }
+}

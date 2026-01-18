@@ -1,0 +1,14 @@
+{
+  "asn" : 6778,
+  "metadata" : {
+    "handle" : "AS-EXATEL",
+    "description" : "Exatel S.A.",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

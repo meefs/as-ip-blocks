@@ -1,4 +1,3 @@
 # AS153125 (IDNIC-SATKOMEDIYASA-AS-ID)
 # PT Satkomindo Mediyasa
 #
-160.187.71.0/24

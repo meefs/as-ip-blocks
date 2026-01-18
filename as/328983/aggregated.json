@@ -1,14 +1,14 @@
 {
-  "asn": 328983,
-  "metadata": {
-    "handle": "GROUPE-COMSYS-LIMITED",
-    "description": "Comsys (GH) Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 328983,
+  "metadata" : {
+    "handle" : "GROUPE-COMSYS-LIMITED-AS",
+    "description" : "Comsys (GH) Limited",
+    "countryCode" : "GH",
+    "country" : "Ghana",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

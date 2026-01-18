@@ -1,0 +1,14 @@
+{
+  "asn" : 5583,
+  "metadata" : {
+    "handle" : "ORANGE-BUSINESS-SERVICES-BENELUX",
+    "description" : "Orange S.A.",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS396739 (VRSN-AC50-340)
+# VeriSign Global Registry Services
+#
+2001:503:a83e::/48

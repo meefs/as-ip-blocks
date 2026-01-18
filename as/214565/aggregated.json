@@ -1,14 +1,14 @@
 {
-  "asn": 214565,
-  "metadata": {
-    "handle": "KPL",
-    "description": "Keiran's Productions Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 214565,
+  "metadata" : {
+    "handle" : "EMPEIRIA-AI-TRANSIT",
+    "description" : "EMPEIRIA AI LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

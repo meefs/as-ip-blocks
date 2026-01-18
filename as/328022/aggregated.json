@@ -1,0 +1,14 @@
+{
+  "asn" : 328022,
+  "metadata" : {
+    "handle" : "MWANXA-IXP-MGMNT",
+    "description" : "TISPA - Tanzania Internet Service Providers Association",
+    "countryCode" : "TZ",
+    "country" : "Tanzania",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

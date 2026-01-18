@@ -2,3 +2,4 @@
 # Aurora Development LLC
 #
 2602:fc41::/39
+2602:fc41:300::/40

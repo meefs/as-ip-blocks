@@ -1,0 +1,14 @@
+{
+  "asn" : 154011,
+  "metadata" : {
+    "handle" : "IRINN-INICIN-AS-IN",
+    "description" : "INIC COMMUNICATIONS PRIVATE LIMITED",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

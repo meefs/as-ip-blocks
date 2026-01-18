@@ -1,0 +1,17 @@
+{
+  "asn" : 19448,
+  "metadata" : {
+    "handle" : "GOOGLE-FIBER",
+    "description" : "Google Fiber Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "136.104.0.0/15",
+      "136.106.0.0/16"
+    ],
+    "ipv6" : [ ]
+  }
+}

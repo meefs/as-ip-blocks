@@ -1,0 +1,17 @@
+{
+  "asn" : 9401,
+  "metadata" : {
+    "handle" : "NLC-CN-AS",
+    "description" : "National Library of China",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "202.106.125.0/24",
+      "202.106.126.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

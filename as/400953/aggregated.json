@@ -1,0 +1,17 @@
+{
+  "asn" : 400953,
+  "metadata" : {
+    "handle" : "OPTOBER",
+    "description" : "Optober Investments III LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "68.66.1.0/24",
+      "68.66.2.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

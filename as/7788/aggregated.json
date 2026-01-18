@@ -1,14 +1,14 @@
 {
-  "asn": 7788,
-  "metadata": {
-    "handle": "MAGMA-COMM",
-    "description": "Magma Communications Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 7788,
+  "metadata" : {
+    "handle" : "MAGMA-COMM",
+    "description" : "Magma Communications Ltd.",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

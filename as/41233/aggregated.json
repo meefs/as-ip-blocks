@@ -1,0 +1,14 @@
+{
+  "asn" : 41233,
+  "metadata" : {
+    "handle" : "WORLDLINE",
+    "description" : "Worldline SA",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

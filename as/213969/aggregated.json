@@ -1,0 +1,14 @@
+{
+  "asn" : 213969,
+  "metadata" : {
+    "handle" : "SAMANTECH",
+    "description" : "Rayanesh Pardis Saman PJSC",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

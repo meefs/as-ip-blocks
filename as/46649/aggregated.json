@@ -1,0 +1,16 @@
+{
+  "asn" : 46649,
+  "metadata" : {
+    "handle" : "VEGANEXT",
+    "description" : "SonetX.com",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2600:40f1:101::/48"
+    ]
+  }
+}

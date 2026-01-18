@@ -1,0 +1,14 @@
+{
+  "asn" : 61526,
+  "metadata" : {
+    "handle" : "PIT-CHILE-SP",
+    "description" : "PIT CHILE SP",
+    "countryCode" : "CL",
+    "country" : "Chile",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "asn": 139281,
-  "metadata": {
-    "handle": "EQUINIX-AP",
-    "description": "Equinix Korea LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 139281,
+  "metadata" : {
+    "handle" : "EQUINIX-AS-AP",
+    "description" : "Equinix Korea LLC",
+    "countryCode" : "KR",
+    "country" : "South Korea",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

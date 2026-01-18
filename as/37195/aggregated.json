@@ -1,0 +1,14 @@
+{
+  "asn" : 37195,
+  "metadata" : {
+    "handle" : "NAPAFRICA",
+    "description" : "NAPAfrica",
+    "countryCode" : "ZA",
+    "country" : "South Africa",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

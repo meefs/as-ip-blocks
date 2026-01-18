@@ -1,0 +1,14 @@
+{
+  "asn" : 2767,
+  "metadata" : {
+    "handle" : "ZAYO-CAN-2767",
+    "description" : "Zayo Bandwidth",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

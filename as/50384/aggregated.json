@@ -1,0 +1,14 @@
+{
+  "asn" : 50384,
+  "metadata" : {
+    "handle" : "W-IX-LTD",
+    "description" : "iHome LLC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

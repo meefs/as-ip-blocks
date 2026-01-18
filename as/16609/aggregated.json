@@ -1,14 +1,14 @@
 {
-  "asn": 16609,
-  "metadata": {
-    "handle": "THE-AERO-GROUP",
-    "description": "The Aero Group, Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 16609,
+  "metadata" : {
+    "handle" : "THE-AERO-GROUP-AS16609",
+    "description" : "The Aero Group Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

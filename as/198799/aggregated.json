@@ -1,0 +1,14 @@
+{
+  "asn" : 198799,
+  "metadata" : {
+    "handle" : "UMNIAH",
+    "description" : "Umniah Lil-Hawatef Al-Mutanaqelah Co.",
+    "countryCode" : "JO",
+    "country" : "Jordan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

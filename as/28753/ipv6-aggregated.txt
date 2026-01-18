@@ -1,6 +1,7 @@
 # AS28753 (LEASEWEB-DE-FRA-10)
 # Leaseweb Deutschland GmbH
 #
+2607:f5b5::/46
 2a00:c98::/32
 2a00:9d20:49::/48
 2a03:ce40::/29

@@ -1,14 +1,17 @@
 {
-  "asn": 54454,
-  "metadata": {
-    "handle": "NLIS",
-    "description": "VOI NET INC.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 54454,
+  "metadata" : {
+    "handle" : "NLIS-ASN",
+    "description" : "VOI NET INC.",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "192.253.208.0/24",
+      "192.253.210.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

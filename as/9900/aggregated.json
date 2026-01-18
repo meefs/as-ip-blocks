@@ -1,0 +1,14 @@
+{
+  "asn" : 9900,
+  "metadata" : {
+    "handle" : "COGETEL-AS-AP",
+    "description" : "COGETEL LTD.",
+    "countryCode" : "KH",
+    "country" : "Cambodia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

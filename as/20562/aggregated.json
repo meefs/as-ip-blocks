@@ -1,14 +1,14 @@
 {
-  "asn": 20562,
-  "metadata": {
-    "handle": "OPEN-PEERING",
-    "description": "Broadband Hosting B.V",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 20562,
+  "metadata" : {
+    "handle" : "OPEN-PEERING-AS",
+    "description" : "Broadband Hosting B.V.",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

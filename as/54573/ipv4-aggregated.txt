@@ -1,5 +1,5 @@
 # AS54573 (GTECH-PRODUCTION)
-# GTECH Corporation
+# Brightstar Global Solutions Corporation
 #
 63.232.206.0/24
 144.121.4.0/24

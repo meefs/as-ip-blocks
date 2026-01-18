@@ -1,14 +1,16 @@
 {
-  "asn": 394035,
-  "metadata": {
-    "handle": "PAC12",
-    "description": "Pac-12 Conferences",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 394035,
+  "metadata" : {
+    "handle" : "PAC12",
+    "description" : "Pac-12 Conferences",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "192.149.234.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

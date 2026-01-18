@@ -1,14 +1,14 @@
 {
-  "asn": 3770,
-  "metadata": {
-    "handle": "FIRSTLIGHT",
-    "description": "First Light Fiber",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 3770,
+  "metadata" : {
+    "handle" : "FIRSTLIGHT-AS-3770",
+    "description" : "FirstLight Fiber Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

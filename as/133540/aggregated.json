@@ -1,14 +1,14 @@
 {
-  "asn": 133540,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "APNIC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 133540,
+  "metadata" : {
+    "handle" : "KIRZ-AS-AP",
+    "description" : "KIRZ Company Limited",
+    "countryCode" : "TH",
+    "country" : "Thailand",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

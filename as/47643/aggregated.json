@@ -1,0 +1,14 @@
+{
+  "asn" : 47643,
+  "metadata" : {
+    "handle" : "BORHANMOBINDEV",
+    "description" : "Khallagh Borhan Market Development for Creative Industries Co",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

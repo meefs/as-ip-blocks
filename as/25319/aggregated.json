@@ -1,14 +1,14 @@
 {
-  "asn": 25319,
-  "metadata": {
-    "handle": "CTS",
-    "description": "Information Technology and Cyber Security Service P.I.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 25319,
+  "metadata" : {
+    "handle" : "ASN-CTS",
+    "description" : "Information Technology and Cyber Security Service",
+    "countryCode" : "MD",
+    "country" : "Moldova",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

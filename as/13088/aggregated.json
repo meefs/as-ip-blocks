@@ -1,0 +1,14 @@
+{
+  "asn" : 13088,
+  "metadata" : {
+    "handle" : "AS-ADTS-BE",
+    "description" : "Proximus Luxembourg S.A.",
+    "countryCode" : "LU",
+    "country" : "Luxembourg",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

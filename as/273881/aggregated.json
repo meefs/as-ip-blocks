@@ -1,0 +1,14 @@
+{
+  "asn" : 273881,
+  "metadata" : {
+    "handle" : "ISP-PERU-IX-EIRL",
+    "description" : "ISP PERU IX E.I.R.L.",
+    "countryCode" : "PE",
+    "country" : "Peru",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

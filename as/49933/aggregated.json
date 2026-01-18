@@ -1,14 +1,16 @@
 {
-  "asn": 49933,
-  "metadata": {
-    "handle": "AKARL-NET",
-    "description": "Alexander Karl",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 49933,
+  "metadata" : {
+    "handle" : "AKARL-NET",
+    "description" : "Alexander Karl",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0e:8f00:f100::/48"
+    ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 274556,
+  "metadata" : {
+    "handle" : "CENTRO-TELECOMUNICACAO",
+    "description" : "CENTRO TELECOMUNICACAO LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

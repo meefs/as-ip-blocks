@@ -1,0 +1,14 @@
+{
+  "asn" : 15029,
+  "metadata" : {
+    "handle" : "TIC-USDHHS",
+    "description" : "U.S. Department of Health & Human Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

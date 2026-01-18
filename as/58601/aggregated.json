@@ -1,14 +1,14 @@
 {
-  "asn": 58601,
-  "metadata": {
-    "handle": "AAMRA-ATL-BD",
-    "description": "Aamra technologies limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 58601,
+  "metadata" : {
+    "handle" : "AAMRA-ATL-BD",
+    "description" : "Aamra technologies limited",
+    "countryCode" : "BD",
+    "country" : "Bangladesh",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

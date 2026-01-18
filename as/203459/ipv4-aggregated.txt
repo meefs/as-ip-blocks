@@ -2,3 +2,4 @@
 # Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC
 #
 185.133.224.0/23
+185.133.226.0/24

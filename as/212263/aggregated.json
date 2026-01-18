@@ -1,14 +1,14 @@
 {
-  "asn": 212263,
-  "metadata": {
-    "handle": "AS-ROCKETFIBRE",
-    "description": "Rocket Fibre Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 212263,
+  "metadata" : {
+    "handle" : "AS-ROCKETFIBRE",
+    "description" : "Rocket Fibre Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

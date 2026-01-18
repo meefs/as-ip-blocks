@@ -1,14 +1,18 @@
 {
-  "asn": 6877,
-  "metadata": {
-    "handle": "AS6877",
-    "description": "JSC Ukrtelecom",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 6877,
+  "metadata" : {
+    "handle" : "AS6877",
+    "description" : "JSC Ukrtelecom",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "37.52.0.0/14",
+      "94.178.0.0/15",
+      "213.186.96.0/19"
+    ],
+    "ipv6" : [ ]
   }
 }

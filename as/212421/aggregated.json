@@ -1,0 +1,14 @@
+{
+  "asn" : 212421,
+  "metadata" : {
+    "handle" : "CORE-AS",
+    "description" : "IT-Yaroslavl Ltd.",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

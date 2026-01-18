@@ -1,14 +1,14 @@
 {
-  "asn": 24778,
-  "metadata": {
-    "handle": "DATAPIPE-UK",
-    "description": "Datapipe Europe Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 24778,
+  "metadata" : {
+    "handle" : "DATAPIPE-UK",
+    "description" : "Datapipe Europe Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

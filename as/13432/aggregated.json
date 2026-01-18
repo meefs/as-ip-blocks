@@ -1,0 +1,14 @@
+{
+  "asn" : 13432,
+  "metadata" : {
+    "handle" : "ASN-CXA-LV-13432-CBS",
+    "description" : "Cox Communications Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

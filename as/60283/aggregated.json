@@ -1,14 +1,17 @@
 {
-  "asn": 60283,
-  "metadata": {
-    "handle": "START",
-    "description": "Start.Ru LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 60283,
+  "metadata" : {
+    "handle" : "START-AS",
+    "description" : "Start.Ru LLC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "185.243.84.0/22",
+      "193.200.250.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

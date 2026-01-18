@@ -1,14 +1,24 @@
 {
-  "asn": 26762,
-  "metadata": {
-    "handle": "CNVR-US-EAST",
-    "description": "Conversant, LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 26762,
+  "metadata" : {
+    "handle" : "CNVR-US-EAST",
+    "description" : "Conversant LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "8.18.45.0/24",
+      "67.72.99.0/24",
+      "159.127.42.0/23",
+      "205.180.85.0/24",
+      "216.34.207.0/24",
+      "216.48.66.0/24"
+    ],
+    "ipv6" : [
+      "2606:ae80:1450::/44",
+      "2606:ae80:1470::/44"
+    ]
   }
 }

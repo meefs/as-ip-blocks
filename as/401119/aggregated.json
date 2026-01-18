@@ -1,14 +1,18 @@
 {
-  "asn": 401119,
-  "metadata": {
-    "handle": "MARRINERTECH",
-    "description": "Marriner Technology Solutions",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 401119,
+  "metadata" : {
+    "handle" : "MARRINERTECH",
+    "description" : "Marriner Technology Solutions",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "23.180.24.0/24"
+    ],
+    "ipv6" : [
+      "2602:f8d3::/40"
+    ]
   }
 }

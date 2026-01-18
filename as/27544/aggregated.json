@@ -1,0 +1,19 @@
+{
+  "asn" : 27544,
+  "metadata" : {
+    "handle" : "VGRS-AC21",
+    "description" : "VeriSign Global Registry Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "192.5.6.0/24",
+      "192.12.94.0/24",
+      "192.26.92.0/24",
+      "192.31.80.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

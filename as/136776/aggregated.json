@@ -1,0 +1,14 @@
+{
+  "asn" : 136776,
+  "metadata" : {
+    "handle" : "CLASSIC-AS-AP",
+    "description" : "Classic Tech Pvt. Ltd.",
+    "countryCode" : "NP",
+    "country" : "Nepal",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

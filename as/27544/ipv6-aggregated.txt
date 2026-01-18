@@ -1,0 +1,3 @@
+# AS27544 (VGRS-AC21)
+# VeriSign Global Registry Services
+#

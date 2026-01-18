@@ -1,14 +1,16 @@
 {
-  "asn": 62505,
-  "metadata": {
-    "handle": "PHX",
-    "description": "Noble Systems Corporation",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 62505,
+  "metadata" : {
+    "handle" : "AS-PHX",
+    "description" : "Noble Systems Corporation",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "192.210.46.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

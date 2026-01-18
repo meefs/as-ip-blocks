@@ -1,0 +1,14 @@
+{
+  "asn" : 45157,
+  "metadata" : {
+    "handle" : "MERCANTILE-INTERNATIONAL-TRANSIT-AS-AP",
+    "description" : "Mercantile Communications Pvt Ltd",
+    "countryCode" : "NP",
+    "country" : "Nepal",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

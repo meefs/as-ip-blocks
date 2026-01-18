@@ -1,14 +1,18 @@
 {
-  "asn": 398862,
-  "metadata": {
-    "handle": "AMBULATORYCLAM",
-    "description": "AMBULATORY CLAM NETWORK",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 398862,
+  "metadata" : {
+    "handle" : "AMBULATORYCLAM",
+    "description" : "AMBULATORY CLAM NETWORK",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "23.135.196.0/24"
+    ],
+    "ipv6" : [
+      "2602:f98e::/48"
+    ]
   }
 }

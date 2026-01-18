@@ -1,0 +1,17 @@
+{
+  "asn" : 399170,
+  "metadata" : {
+    "handle" : "SECURITYSERVICES",
+    "description" : "Vercara LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2610:a1:3100::/40",
+      "2610:a1:3200::/40"
+    ]
+  }
+}

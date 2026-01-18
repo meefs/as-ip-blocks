@@ -1,14 +1,21 @@
 {
-  "asn": 63641,
-  "metadata": {
-    "handle": "MVNET",
-    "description": "Mega Vantage Information Consulting Co. Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 63641,
+  "metadata" : {
+    "handle" : "MVNET",
+    "description" : "Mega Vantage Information Consulting Co. Ltd.",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "123.49.231.0/24",
+      "123.49.240.0/24",
+      "123.49.242.0/23"
+    ],
+    "ipv6" : [
+      "2405:6c0:2::/48",
+      "2405:6c0:4::/48"
+    ]
   }
 }

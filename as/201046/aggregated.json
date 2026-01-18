@@ -1,0 +1,16 @@
+{
+  "asn" : 201046,
+  "metadata" : {
+    "handle" : "TRAFCOM-NET",
+    "description" : "Trafcom Sp. z o.o.",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "31.179.204.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

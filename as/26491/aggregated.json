@@ -1,0 +1,18 @@
+{
+  "asn" : 26491,
+  "metadata" : {
+    "handle" : "GEEKSTORAGE",
+    "description" : "GEEKSTORAGE.COM LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "138.97.188.0/22"
+    ],
+    "ipv6" : [
+      "2804:23e4::/32"
+    ]
+  }
+}

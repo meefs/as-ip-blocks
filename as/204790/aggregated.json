@@ -1,14 +1,20 @@
 {
-  "asn": 204790,
-  "metadata": {
-    "handle": "FLOCCUS",
-    "description": "Falco ISP Services B.V.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 204790,
+  "metadata" : {
+    "handle" : "FLOCCUS",
+    "description" : "Falco ISP Services B.V.",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a11:3000::/29",
+      "2a12::/29",
+      "2a12:f00::/29",
+      "2a12:2000::/29",
+      "2a12:fc00::/29"
+    ]
   }
 }

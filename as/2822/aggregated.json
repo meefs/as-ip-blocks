@@ -1,14 +1,14 @@
 {
-  "asn": 2822,
-  "metadata": {
-    "handle": "HENRY-SCHAEFER",
-    "description": "Henry Schaefer",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 2822,
+  "metadata" : {
+    "handle" : "HENRY-SCHAEFER",
+    "description" : "Henry Schaefer",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

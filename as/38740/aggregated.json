@@ -1,0 +1,14 @@
+{
+  "asn" : 38740,
+  "metadata" : {
+    "handle" : "TASHICELL-TRANSIT-AS",
+    "description" : "Tashi InfoComm Limited",
+    "countryCode" : "BT",
+    "country" : "Bhutan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,3 +1,5 @@
 # AS3754 (NYSERNET3-AS)
 # NYSERNet
 #
+2620:f::/48
+2620:f:6::/48

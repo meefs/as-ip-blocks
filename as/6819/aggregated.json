@@ -1,14 +1,14 @@
 {
-  "asn": 6819,
-  "metadata": {
-    "handle": "QIICT",
-    "description": "KPN B.V.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 6819,
+  "metadata" : {
+    "handle" : "QIICT",
+    "description" : "KPN B.V.",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

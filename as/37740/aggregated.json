@@ -1,0 +1,14 @@
+{
+  "asn" : 37740,
+  "metadata" : {
+    "handle" : "AS-IPTP",
+    "description" : "IPTP Inc",
+    "countryCode" : "SC",
+    "country" : "Seychelles",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn" : 48331,
+  "metadata" : {
+    "handle" : "GLOBNET-AS",
+    "description" : "ORANGE MOLDOVA S.A.",
+    "countryCode" : "MD",
+    "country" : "Moldova",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn" : 47756,
+  "metadata" : {
+    "handle" : "UNICABLE-ASN",
+    "description" : "UNICABLE TELECOMUNICACIONES A.I.E",
+    "countryCode" : "ES",
+    "country" : "Spain",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

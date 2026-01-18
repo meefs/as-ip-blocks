@@ -1,0 +1,14 @@
+{
+  "asn" : 52185,
+  "metadata" : {
+    "handle" : "INOTEL-FOREIGN-AS",
+    "description" : "INEA sp. z o.o.",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

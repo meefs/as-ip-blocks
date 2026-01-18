@@ -1,14 +1,16 @@
 {
-  "asn": 55962,
-  "metadata": {
-    "handle": "KUAISHOU-KJ-NET",
-    "description": "Beijing Kuaishou Technology Co., Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 55962,
+  "metadata" : {
+    "handle" : "KUAISHOU-KJ-NET",
+    "description" : "Beijing Kuaishou Technology Co. Ltd.",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2402:5ec0::/32"
+    ]
   }
 }

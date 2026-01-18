@@ -1,0 +1,14 @@
+{
+  "asn" : 19338,
+  "metadata" : {
+    "handle" : "TELMEX-CHILE-INTERNET",
+    "description" : "Telmex Chile Internet S.A.",
+    "countryCode" : "CL",
+    "country" : "Chile",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

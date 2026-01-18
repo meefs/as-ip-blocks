@@ -1,14 +1,14 @@
 {
-  "asn": 48517,
-  "metadata": {
-    "handle": "DESTINY-BACKBONE",
-    "description": "Destiny N.V",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 48517,
+  "metadata" : {
+    "handle" : "DESTINY-BACKBONE",
+    "description" : "Dstny BE N.V.",
+    "countryCode" : "BE",
+    "country" : "Belgium",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

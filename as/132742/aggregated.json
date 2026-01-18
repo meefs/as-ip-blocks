@@ -1,14 +1,14 @@
 {
-  "asn": 132742,
-  "metadata": {
-    "handle": "GGL-AS-AP",
-    "description": "Guochao Group limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 132742,
+  "metadata" : {
+    "handle" : "GGL-AS-AP",
+    "description" : "Guochao Group limited",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

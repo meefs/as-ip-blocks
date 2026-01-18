@@ -1,14 +1,14 @@
 {
-  "asn": 44257,
-  "metadata": {
-    "handle": "TNGS-SOUTH",
-    "description": "MTS PJSC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 44257,
+  "metadata" : {
+    "handle" : "TNGS-SOUTH",
+    "description" : "MTS PJSC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

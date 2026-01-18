@@ -1,14 +1,14 @@
 {
-  "asn": 26198,
-  "metadata": {
-    "handle": "QUEBE-104-26198",
-    "description": "PMENN5",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 26198,
+  "metadata" : {
+    "handle" : "QUEBE-104-26198",
+    "description" : "PMENN5",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

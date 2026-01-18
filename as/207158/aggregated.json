@@ -1,14 +1,14 @@
 {
-  "asn": 207158,
-  "metadata": {
-    "handle": "WORLDCDN",
-    "description": "Clouvider Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 207158,
+  "metadata" : {
+    "handle" : "WORLDCDN",
+    "description" : "Clouvider Limited",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

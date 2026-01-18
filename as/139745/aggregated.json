@@ -1,0 +1,14 @@
+{
+  "asn" : 139745,
+  "metadata" : {
+    "handle" : "DOWNERGROUP-AS-AP",
+    "description" : "Downer EDI Limited",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "asn": 132292,
-  "metadata": {
-    "handle": "TELSTRA-03",
-    "description": "Telstra Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 132292,
+  "metadata" : {
+    "handle" : "ASN-TELSTRA-03",
+    "description" : "Telstra Limited",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

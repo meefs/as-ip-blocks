@@ -1,0 +1,14 @@
+{
+  "asn" : 24990,
+  "metadata" : {
+    "handle" : "EQUINIX-FR-ASN",
+    "description" : "Equinix France SAS",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

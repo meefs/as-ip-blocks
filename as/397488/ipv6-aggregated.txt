@@ -2,4 +2,4 @@
 # New Albany-Plain Local School District
 #
 2602:fdd0::/36
-2607:f7a8:606::/48
+2607:f7a8:600::/39

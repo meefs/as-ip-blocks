@@ -1,0 +1,14 @@
+{
+  "asn" : 3211,
+  "metadata" : {
+    "handle" : "VODAFONE-GMBH",
+    "description" : "Vodafone GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

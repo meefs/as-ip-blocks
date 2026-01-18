@@ -1,3 +1,4 @@
 # AS12244 (SECURITAS-ELECTRONIC-SECURITY-SUPREME)
 # Securitas Electronic Security Inc.
 #
+161.36.112.0/24

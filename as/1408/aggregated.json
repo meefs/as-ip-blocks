@@ -1,0 +1,14 @@
+{
+  "asn" : 1408,
+  "metadata" : {
+    "handle" : "CCB-AS",
+    "description" : "CCBill",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

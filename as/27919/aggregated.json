@@ -1,14 +1,14 @@
 {
-  "asn": 27919,
-  "metadata": {
-    "handle": "IXP-ECUADOR",
-    "description": "IXP ECUADOR",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 27919,
+  "metadata" : {
+    "handle" : "IXP-ECUADOR",
+    "description" : "IXP ECUADOR",
+    "countryCode" : "EC",
+    "country" : "Ecuador",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

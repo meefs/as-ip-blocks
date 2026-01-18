@@ -1,0 +1,14 @@
+{
+  "asn" : 17824,
+  "metadata" : {
+    "handle" : "PACIFICONENET-HK-AP",
+    "description" : "Pacific One Net Ltd",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

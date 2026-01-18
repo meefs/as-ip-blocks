@@ -1,14 +1,18 @@
 {
-  "asn": 132834,
-  "metadata": {
-    "handle": "VOCPHONE-AS-AP",
-    "description": "VOCPHONE PTY LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 132834,
+  "metadata" : {
+    "handle" : "VOCPHONE-AS-AP",
+    "description" : "VOCPHONE PTY LTD",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "103.135.84.0/23",
+      "103.135.86.0/24",
+      "180.94.238.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 7617,
+  "metadata" : {
+    "handle" : "CTM-HK",
+    "description" : "Companhia de Telecomunicacoes de Macau",
+    "countryCode" : "MO",
+    "country" : "Macao SAR China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

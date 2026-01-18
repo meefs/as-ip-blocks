@@ -1,0 +1,17 @@
+{
+  "asn" : 31519,
+  "metadata" : {
+    "handle" : "SERTEX2-AS",
+    "description" : "SERTEX SIA",
+    "countryCode" : "LV",
+    "country" : "Latvia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "2.58.16.0/22",
+      "195.26.20.0/23"
+    ],
+    "ipv6" : [ ]
+  }
+}

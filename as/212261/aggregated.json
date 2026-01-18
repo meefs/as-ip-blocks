@@ -1,0 +1,14 @@
+{
+  "asn" : 212261,
+  "metadata" : {
+    "handle" : "EPIX-POZ-GLOBALMIX",
+    "description" : "Stowarzyszenie e-Poludnie",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

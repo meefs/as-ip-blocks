@@ -1,14 +1,17 @@
 {
-  "asn": 395442,
-  "metadata": {
-    "handle": "HERITAGEBANK",
-    "description": "Heritage Bank",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 395442,
+  "metadata" : {
+    "handle" : "HERITAGEBANK",
+    "description" : "Heritage Bank",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "76.191.66.0/24",
+      "76.191.89.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

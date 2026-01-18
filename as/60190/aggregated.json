@@ -1,14 +1,16 @@
 {
-  "asn": 60190,
-  "metadata": {
-    "handle": "EASTMETALSAG-AS",
-    "description": "East Metals AG in Liquidation",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 60190,
+  "metadata" : {
+    "handle" : "EASTMETALSAG-AS",
+    "description" : "East Metals AG in Liquidation",
+    "countryCode" : "CH",
+    "country" : "Switzerland",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "212.243.120.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

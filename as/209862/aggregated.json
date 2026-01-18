@@ -1,14 +1,16 @@
 {
-  "asn": 209862,
-  "metadata": {
-    "handle": "SKBKI-AS",
-    "description": "Michal Skibicki",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 209862,
+  "metadata" : {
+    "handle" : "SKBKI-AS",
+    "description" : "Michal Skibicki",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0b:b87:ff17::/48"
+    ]
   }
 }

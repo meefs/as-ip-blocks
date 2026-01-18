@@ -1,14 +1,16 @@
 {
-  "asn": 33762,
-  "metadata": {
-    "handle": "RAIN-GROUP-HOLDINGS",
-    "description": "RAIN GROUP HOLDINGS (PTY) LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 33762,
+  "metadata" : {
+    "handle" : "RAIN-GROUP-HOLDINGS",
+    "description" : "RAIN GROUP HOLDINGS (PTY) LTD",
+    "countryCode" : "ZA",
+    "country" : "South Africa",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "41.213.80.0/20"
+    ],
+    "ipv6" : [ ]
   }
 }

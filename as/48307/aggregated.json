@@ -1,14 +1,16 @@
 {
-  "asn": 48307,
-  "metadata": {
-    "handle": "NESPRESSO",
-    "description": "Nestle Nespresso S.A.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 48307,
+  "metadata" : {
+    "handle" : "NESPRESSO-AS",
+    "description" : "Nestle Nespresso SA",
+    "countryCode" : "CH",
+    "country" : "Switzerland",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "91.209.84.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 60004,
+  "metadata" : {
+    "handle" : "FF-COLO",
+    "description" : "ShaneMcC Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

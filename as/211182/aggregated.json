@@ -1,0 +1,14 @@
+{
+  "asn" : 211182,
+  "metadata" : {
+    "handle" : "AS-TVSSA",
+    "description" : "Television Sierre SA",
+    "countryCode" : "CH",
+    "country" : "Switzerland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

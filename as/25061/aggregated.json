@@ -1,14 +1,14 @@
 {
-  "asn": 25061,
-  "metadata": {
-    "handle": "ANLX-UK",
-    "description": "Associated Networks (UK) Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 25061,
+  "metadata" : {
+    "handle" : "ANLX-UK",
+    "description" : "Associated Networks (UK) Limited",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

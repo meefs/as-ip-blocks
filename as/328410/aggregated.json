@@ -1,14 +1,16 @@
 {
-  "asn": 328410,
-  "metadata": {
-    "handle": "FROGFOOT-AS",
-    "description": "Frogfoot Networks",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 328410,
+  "metadata" : {
+    "handle" : "FROGFOOT-AS",
+    "description" : "Frogfoot Networks",
+    "countryCode" : "ZA",
+    "country" : "South Africa",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "41.85.127.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

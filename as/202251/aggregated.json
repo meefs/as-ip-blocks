@@ -1,14 +1,14 @@
 {
-  "asn": 202251,
-  "metadata": {
-    "handle": "PADIZ-DADERESAN-COMPANY",
-    "description": "Padiz-Daderesan-Company",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 202251,
+  "metadata" : {
+    "handle" : "PADIZ-DADERESAN-COMPANY",
+    "description" : "Padiz-Daderesan-Company",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

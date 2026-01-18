@@ -1,0 +1,14 @@
+{
+  "asn" : 56861,
+  "metadata" : {
+    "handle" : "IRITCO",
+    "description" : "Iranian Information Technology Company PLC",
+    "countryCode" : "IR",
+    "country" : "Iran",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

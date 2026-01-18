@@ -1,0 +1,14 @@
+{
+  "asn" : 4635,
+  "metadata" : {
+    "handle" : "HKIX-RS1",
+    "description" : "The Hong Kong Internet Exchange Limited",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

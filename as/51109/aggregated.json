@@ -1,0 +1,14 @@
+{
+  "asn" : 51109,
+  "metadata" : {
+    "handle" : "CAMELHOST-AS",
+    "description" : "Sia Nano IT",
+    "countryCode" : "LV",
+    "country" : "Latvia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

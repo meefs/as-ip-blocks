@@ -1,14 +1,14 @@
 {
-  "asn": 59605,
-  "metadata": {
-    "handle": "ZAINGP-AS",
-    "description": "Zain Omantel International FZ-LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 59605,
+  "metadata" : {
+    "handle" : "ZAINGP-AS",
+    "description" : "Zain Omantel International FZ-LLC",
+    "countryCode" : "AE",
+    "country" : "United Arab Emirates",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

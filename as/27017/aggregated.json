@@ -1,14 +1,14 @@
 {
-  "asn": 27017,
-  "metadata": {
-    "handle": "ZIPLY-FIBER-LEGACY",
-    "description": "Ziply Fiber",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 27017,
+  "metadata" : {
+    "handle" : "ZIPLY-FIBER-LEGACY-ASN",
+    "description" : "Ziply Fiber",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

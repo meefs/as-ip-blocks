@@ -1,0 +1,14 @@
+{
+  "asn" : 21229,
+  "metadata" : {
+    "handle" : "DRAVANET-AS",
+    "description" : "Dravanet Co Ltd.",
+    "countryCode" : "HU",
+    "country" : "Hungary",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn" : 16338,
+  "metadata" : {
+    "handle" : "ONO-AS2",
+    "description" : "VODAFONE ONO S.A.",
+    "countryCode" : "ES",
+    "country" : "Spain",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

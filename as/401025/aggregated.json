@@ -1,0 +1,14 @@
+{
+  "asn" : 401025,
+  "metadata" : {
+    "handle" : "EOS-A001",
+    "description" : "Excel Orthopaedic Specialists",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

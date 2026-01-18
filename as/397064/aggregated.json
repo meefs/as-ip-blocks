@@ -1,14 +1,14 @@
 {
-  "asn": 397064,
-  "metadata": {
-    "handle": "BAYFIELD-WIRELESS",
-    "description": "Bayfield Wireless",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 397064,
+  "metadata" : {
+    "handle" : "BAYFIELD-WIRELESS",
+    "description" : "Bayfield Wireless",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

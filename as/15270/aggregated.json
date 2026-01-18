@@ -1,0 +1,14 @@
+{
+  "asn" : 15270,
+  "metadata" : {
+    "handle" : "AS-PAETEC-NET",
+    "description" : "Windstream Communications LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "asn": 38976,
-  "metadata": {
-    "handle": "RU-ATVC",
-    "description": "PJSC Rostelecom",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 38976,
+  "metadata" : {
+    "handle" : "RU-ATVC-AS",
+    "description" : "PJSC Rostelecom",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 18839,
+  "metadata" : {
+    "handle" : "2000FISHERISSS",
+    "description" : "Fisher Scientific",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

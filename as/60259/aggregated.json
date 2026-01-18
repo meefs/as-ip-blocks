@@ -1,0 +1,14 @@
+{
+  "asn" : 60259,
+  "metadata" : {
+    "handle" : "SIMAFELAGID-ASN",
+    "description" : "Nova hf",
+    "countryCode" : "IS",
+    "country" : "Iceland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

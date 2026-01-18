@@ -2,4 +2,3 @@
 # Custom Solutions Business Trust
 #
 154.73.17.0/24
-154.73.19.0/24

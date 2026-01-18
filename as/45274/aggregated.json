@@ -1,14 +1,14 @@
 {
-  "asn": 45274,
-  "metadata": {
-    "handle": "WORLDLINK-INTERNATIONAL-TRANSIT-AP",
-    "description": "WorldLink Communications",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 45274,
+  "metadata" : {
+    "handle" : "WORLDLINK-INTERNATIONAL-TRANSIT-AS-AP",
+    "description" : "WorldLink Communications",
+    "countryCode" : "NP",
+    "country" : "Nepal",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

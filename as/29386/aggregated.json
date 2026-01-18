@@ -1,0 +1,14 @@
+{
+  "asn" : 29386,
+  "metadata" : {
+    "handle" : "EXT-PDN-STE-AS",
+    "description" : "Syrian Telecommunication Private Closed Joint Stock Company",
+    "countryCode" : "SY",
+    "country" : "Syria",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

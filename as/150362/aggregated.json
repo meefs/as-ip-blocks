@@ -1,14 +1,14 @@
 {
-  "asn": 150362,
-  "metadata": {
-    "handle": "KURIYAMA-NETWORK",
-    "description": "Kuriyama-Network",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 150362,
+  "metadata" : {
+    "handle" : "KURIYAMA-NET",
+    "description" : "Mamireimu Net Work's",
+    "countryCode" : "JP",
+    "country" : "Japan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

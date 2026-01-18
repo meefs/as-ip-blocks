@@ -1,0 +1,14 @@
+{
+  "asn" : 140132,
+  "metadata" : {
+    "handle" : "DLISPL-AS-IN",
+    "description" : "Dm Lot Infotech Solutions Private Limited",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

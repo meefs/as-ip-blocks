@@ -1,14 +1,14 @@
 {
-  "asn": 9874,
-  "metadata": {
-    "handle": "STARHUB-MOBILE",
-    "description": "Starhub Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 9874,
+  "metadata" : {
+    "handle" : "STARHUB-MOBILE",
+    "description" : "Starhub Ltd.",
+    "countryCode" : "SG",
+    "country" : "Singapore",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

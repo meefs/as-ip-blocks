@@ -1,14 +1,14 @@
 {
-  "asn": 30607,
-  "metadata": {
-    "handle": "302-DIRECT-MEDIA-ASN",
-    "description": "Cisco OpenDNS LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 30607,
+  "metadata" : {
+    "handle" : "302-DIRECT-MEDIA-ASN",
+    "description" : "Cisco OpenDNS LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,4 @@
+# AS65571 (SAUDI-TELECOM-COMPANY-JSC)
+# Saudi Telecom Company JSC
+#
+37.25.82.0/24

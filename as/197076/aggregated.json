@@ -1,14 +1,18 @@
 {
-  "asn": 197076,
-  "metadata": {
-    "handle": "TUTOR",
-    "description": "Covage Infra SASU",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 197076,
+  "metadata" : {
+    "handle" : "TUTOR-AS",
+    "description" : "Covage Infra SASU",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "80.75.144.0/21",
+      "178.19.128.0/20",
+      "185.6.212.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 1936,
+  "metadata" : {
+    "handle" : "FR-RENATER-PICARDIE",
+    "description" : "Renater",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

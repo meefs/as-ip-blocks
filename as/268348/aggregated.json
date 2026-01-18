@@ -1,14 +1,14 @@
 {
-  "asn": 268348,
-  "metadata": {
-    "handle": "NETWORK-INTERNET-SERVICO",
-    "description": "Network Internet Servi\u00e7o Provedor",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 268348,
+  "metadata" : {
+    "handle" : "NETWORK-INTERNET-SERVICO",
+    "description" : "Network Internet Serviço Provedor",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

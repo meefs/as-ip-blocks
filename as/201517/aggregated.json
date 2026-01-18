@@ -1,16 +1,16 @@
 {
-  "asn": 201517,
-  "metadata": {
-    "handle": "TAWHERO-TECH",
-    "description": "Tawhero Technology Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 201517,
+  "metadata" : {
+    "handle" : "TAWHERO-TECH-AS",
+    "description" : "Tawhero Technology Limited",
+    "countryCode" : "NZ",
+    "country" : "New Zealand",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": [
-      "2a0a:6040:fd00::/40"
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0a:6040:fd02::/48"
     ]
   }
 }

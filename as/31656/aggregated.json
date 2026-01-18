@@ -1,16 +1,14 @@
 {
-  "asn": 31656,
-  "metadata": {
-    "handle": "EMNET",
-    "description": "EmNet Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 31656,
+  "metadata" : {
+    "handle" : "EMNET",
+    "description" : "EmNet Ltd",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [
-      "195.69.158.0/24"
-    ],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

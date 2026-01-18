@@ -1,0 +1,3 @@
+# AS24990 (EQUINIX-FR-ASN)
+# Equinix France SAS
+#

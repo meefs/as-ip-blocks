@@ -1,0 +1,14 @@
+{
+  "asn" : 131744,
+  "metadata" : {
+    "handle" : "IDNIC-CYBERDC-AS-ID",
+    "description" : "PT. MEDIA NUSANTARA GLOBAL DATA",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

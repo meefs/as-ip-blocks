@@ -1,14 +1,18 @@
 {
-  "asn": 44922,
-  "metadata": {
-    "handle": "MEDYABIM",
-    "description": "Emre Erim trading as Medyabim Datacenter",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 44922,
+  "metadata" : {
+    "handle" : "MEDYABIM-AS",
+    "description" : "Emre Erim trading as Medyabim Datacenter",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "37.247.116.0/23"
+    ],
+    "ipv6" : [
+      "2a03:400::/32"
+    ]
   }
 }

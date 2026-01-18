@@ -1,0 +1,14 @@
+{
+  "asn" : 45531,
+  "metadata" : {
+    "handle" : "MAXSUN-PH-AS-AP",
+    "description" : "Maxsun Int'l Inc",
+    "countryCode" : "PH",
+    "country" : "Philippines",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

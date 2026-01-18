@@ -1,0 +1,18 @@
+{
+  "asn" : 64302,
+  "metadata" : {
+    "handle" : "IDNIC-IDREN-AS-ID",
+    "description" : "IDREN - Indonesia Research and Education Network",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "103.78.232.0/22"
+    ],
+    "ipv6" : [
+      "2001:df6:5a00::/48"
+    ]
+  }
+}

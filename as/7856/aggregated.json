@@ -1,14 +1,20 @@
 {
-  "asn": 7856,
-  "metadata": {
-    "handle": "EPPROACH-0",
-    "description": "Epproach Communications LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 7856,
+  "metadata" : {
+    "handle" : "EPPROACH-0",
+    "description" : "Epproach Communications LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "64.192.52.0/23",
+      "64.192.54.0/24",
+      "64.192.56.0/24",
+      "64.192.232.0/22",
+      "64.192.236.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

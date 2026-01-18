@@ -1,14 +1,16 @@
 {
-  "asn": 198310,
-  "metadata": {
-    "handle": "OOO-MOLNIYA",
-    "description": "OOO Molniya",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 198310,
+  "metadata" : {
+    "handle" : "OOO-MOLNIYA",
+    "description" : "OOO Molniya",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "45.152.27.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

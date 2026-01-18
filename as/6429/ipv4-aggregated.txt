@@ -1,6 +1,7 @@
 # AS6429 (TELMEX-CHILE-INTERNET)
 # Telmex Chile Internet S.A.
 #
+165.182.0.0/16
 190.54.0.0/16
 190.208.0.0/16
 200.0.66.0/24

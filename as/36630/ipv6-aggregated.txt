@@ -1,0 +1,4 @@
+# AS36630 (YGTLD)
+# VeriSign Global Registry Services
+#
+2620:74:2a::/48

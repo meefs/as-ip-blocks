@@ -1,14 +1,17 @@
 {
-  "asn": 8029,
-  "metadata": {
-    "handle": "MSERVE-AS",
-    "description": "Microserve Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 8029,
+  "metadata" : {
+    "handle" : "MSERVE-AS",
+    "description" : "Microserve Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "204.141.20.0/22",
+      "204.141.116.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

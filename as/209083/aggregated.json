@@ -1,14 +1,16 @@
 {
-  "asn": 209083,
-  "metadata": {
-    "handle": "ORMILON",
-    "description": "Ormilon B.V.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 209083,
+  "metadata" : {
+    "handle" : "ORMILON",
+    "description" : "Ormilon B.V.",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "128.204.193.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

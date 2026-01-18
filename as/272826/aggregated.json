@@ -1,0 +1,16 @@
+{
+  "asn" : 272826,
+  "metadata" : {
+    "handle" : "BANCO-LA-CIUDAD-BUENOS-AIRES",
+    "description" : "BANCO DE LA CIUDAD DE BUENOS AIRES",
+    "countryCode" : "AR",
+    "country" : "Argentina",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "38.210.175.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

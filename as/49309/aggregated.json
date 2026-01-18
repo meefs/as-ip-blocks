@@ -1,14 +1,14 @@
 {
-  "asn": 49309,
-  "metadata": {
-    "handle": "AEVEN",
-    "description": "Aeven A/S",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 49309,
+  "metadata" : {
+    "handle" : "AS49309",
+    "description" : "Aeven A/S",
+    "countryCode" : "DK",
+    "country" : "Denmark",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

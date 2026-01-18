@@ -2,4 +2,5 @@
 # Crown Castle Fiber LLC
 #
 2607:f7a8::/39
+2607:f7a8:c00::/39
 2607:f7a8:1200::/39

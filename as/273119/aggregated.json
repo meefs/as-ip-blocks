@@ -1,14 +1,16 @@
 {
-  "asn": 273119,
-  "metadata": {
-    "handle": "INSTITUTO-VALORIZACION-MANIZALES",
-    "description": "INSTITUTO DE VALORIZACION DE MANIZALES INVAMA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 273119,
+  "metadata" : {
+    "handle" : "INSTITUTO-VALORIZACION-MANIZALES",
+    "description" : "INSTITUTO DE VALORIZACION DE MANIZALES INVAMA",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2801:1b:b800::/48"
+    ]
   }
 }

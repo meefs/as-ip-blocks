@@ -1,14 +1,19 @@
 {
-  "asn": 205552,
-  "metadata": {
-    "handle": "AS-BITS",
-    "description": "LOTS OF BITS LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 205552,
+  "metadata" : {
+    "handle" : "AS-BITS",
+    "description" : "LOTS OF BITS LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "104.218.62.0/24",
+      "161.129.60.0/24"
+    ],
+    "ipv6" : [
+      "2602:ffb1:101::/48"
+    ]
   }
 }

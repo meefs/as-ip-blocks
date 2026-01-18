@@ -1,14 +1,16 @@
 {
-  "asn": 211576,
-  "metadata": {
-    "handle": "IMOEQ",
-    "description": "IMOEQ LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 211576,
+  "metadata" : {
+    "handle" : "IMOEQ-AS",
+    "description" : "IMOEQ LIMITED",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0a:6040:4503::/48"
+    ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn" : 47502,
+  "metadata" : {
+    "handle" : "OPTIMATELECOM-AS",
+    "description" : "Optima-Telecom LLC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

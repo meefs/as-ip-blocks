@@ -1,14 +1,16 @@
 {
-  "asn": 26627,
-  "metadata": {
-    "handle": "AS-PILOSOFT",
-    "description": "Pilosoft Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 26627,
+  "metadata" : {
+    "handle" : "AS-PILOSOFT",
+    "description" : "Pilosoft Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "69.172.128.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

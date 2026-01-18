@@ -1,14 +1,17 @@
 {
-  "asn": 396213,
-  "metadata": {
-    "handle": "USCUPSTATE",
-    "description": "USC Upstate",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 396213,
+  "metadata" : {
+    "handle" : "USCUPSTATE",
+    "description" : "USC Upstate",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "64.53.18.0/24",
+      "205.186.48.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

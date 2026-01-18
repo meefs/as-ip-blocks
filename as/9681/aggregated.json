@@ -1,0 +1,14 @@
+{
+  "asn" : 9681,
+  "metadata" : {
+    "handle" : "FOX-TW",
+    "description" : "Formosa Open eXchange(FOX)",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

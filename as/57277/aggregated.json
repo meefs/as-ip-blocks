@@ -1,14 +1,14 @@
 {
-  "asn": 57277,
-  "metadata": {
-    "handle": "BAIKAL-IX-TRANSIT",
-    "description": "LLC Zero Kilometer",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 57277,
+  "metadata" : {
+    "handle" : "BAIKAL-IX-TRANSIT-AS",
+    "description" : "LLC Zero Kilometer",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

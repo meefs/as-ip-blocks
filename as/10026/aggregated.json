@@ -1,0 +1,14 @@
+{
+  "asn" : 10026,
+  "metadata" : {
+    "handle" : "TELSTRAGLOBAL",
+    "description" : "Telstra International Limited",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

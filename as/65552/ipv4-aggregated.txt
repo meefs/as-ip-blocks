@@ -1,0 +1,4 @@
+# AS65552 (WAVENET-LIMITED)
+# Wavenet Limited
+#
+185.182.84.0/23

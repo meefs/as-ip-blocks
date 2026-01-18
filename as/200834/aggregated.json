@@ -1,0 +1,16 @@
+{
+  "asn" : 200834,
+  "metadata" : {
+    "handle" : "SE-FLOATEL-FIAB",
+    "description" : "Floatel International AB",
+    "countryCode" : "SE",
+    "country" : "Sweden",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a01:2b0:3057::/48"
+    ]
+  }
+}

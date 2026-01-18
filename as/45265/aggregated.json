@@ -1,0 +1,14 @@
+{
+  "asn" : 45265,
+  "metadata" : {
+    "handle" : "CSLOX-DOM-AS-AP",
+    "description" : "CS Loxinfo Public Company Limited",
+    "countryCode" : "TH",
+    "country" : "Thailand",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

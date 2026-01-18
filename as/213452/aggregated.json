@@ -1,14 +1,14 @@
 {
-  "asn": 213452,
-  "metadata": {
-    "handle": "PIO-AS",
-    "description": "PIO LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 213452,
+  "metadata" : {
+    "handle" : "PIO-AS",
+    "description" : "PIO LLC",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

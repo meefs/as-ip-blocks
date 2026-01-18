@@ -1,14 +1,18 @@
 {
-  "asn": 394745,
-  "metadata": {
-    "handle": "LH-AS-1",
-    "description": "Lunanode Hosting Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 394745,
+  "metadata" : {
+    "handle" : "LH-AS-1",
+    "description" : "Lunanode Hosting Inc.",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "172.81.176.0/21"
+    ],
+    "ipv6" : [
+      "2602:ffb6::/36"
+    ]
   }
 }

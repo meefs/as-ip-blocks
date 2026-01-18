@@ -1,0 +1,14 @@
+{
+  "asn" : 201376,
+  "metadata" : {
+    "handle" : "AUVERNIX-AS",
+    "description" : "Association AuvernIX",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

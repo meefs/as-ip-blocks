@@ -1,14 +1,14 @@
 {
-  "asn": 274464,
-  "metadata": {
-    "handle": "NEXUSLINK-DATACENTER",
-    "description": "NEXUSLINK DATACENTER LTDA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 274464,
+  "metadata" : {
+    "handle" : "NEXUSLINK-DATACENTER",
+    "description" : "NEXUSLINK DATACENTER LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
   }
 }

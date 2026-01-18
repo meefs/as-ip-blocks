@@ -1,0 +1,14 @@
+{
+  "asn" : 10130,
+  "metadata" : {
+    "handle" : "AS10130",
+    "description" : "Federated States of Micronesia Telecomm. Corporation",
+    "countryCode" : "FM",
+    "country" : "Micronesia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ ]
+  }
+}

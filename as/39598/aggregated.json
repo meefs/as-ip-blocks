@@ -1,14 +1,16 @@
 {
-  "asn": 39598,
-  "metadata": {
-    "handle": "TIERA-AS",
-    "description": "Global Network Management Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 39598,
+  "metadata" : {
+    "handle" : "TIERA-AS",
+    "description" : "Global Network Management Inc",
+    "countryCode" : "AG",
+    "country" : "Antigua & Barbuda",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "95.161.253.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }
