@@ -1,14 +1,18 @@
 {
-  "asn": 49248,
-  "metadata": {
-    "handle": "ULSA-AS",
-    "description": "Ministry of Higher Education and Scientific Research",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 49248,
+  "metadata" : {
+    "handle" : "ULSA-AS",
+    "description" : "Ministry of Higher Education and Scientific Research",
+    "countryCode" : "PS",
+    "country" : "Palestinian Territories",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "91.212.102.0/24"
+    ],
+    "ipv6" : [
+      "2001:678:dfc::/48"
+    ]
   }
 }

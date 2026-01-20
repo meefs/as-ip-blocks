@@ -2,3 +2,4 @@
 # The Cloud Network Limited
 #
 102.205.88.0/22
+154.16.26.0/24

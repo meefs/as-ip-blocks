@@ -1,3 +1,3 @@
-# AS209067 (AS-AVIVA-TELECOM)
+# AS209067 (DIANET-AS)
 # Aviva-Telecom Ltd.
 #

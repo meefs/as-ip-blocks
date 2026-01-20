@@ -1,14 +1,16 @@
 {
-  "asn": 204224,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 204224,
+  "metadata" : {
+    "handle" : "HEIMNETT-AS",
+    "description" : "Heimnett AS",
+    "countryCode" : "NO",
+    "country" : "Norway",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "95.130.217.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

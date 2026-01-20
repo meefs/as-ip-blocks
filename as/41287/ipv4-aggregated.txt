@@ -1,4 +1,4 @@
 # AS41287 (IPEOPLE)
-# ADJENET NETWORKS SL
+# Adjenet Networks SL
 #
 192.207.25.0/24

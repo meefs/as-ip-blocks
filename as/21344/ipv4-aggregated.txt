@@ -1,4 +1,4 @@
-# AS21344 (INTELIGO)
+# AS21344 (PKO-BP)
 # Powszechna Kasa Oszczednosci Bank Polski SA
 #
 91.209.56.0/24

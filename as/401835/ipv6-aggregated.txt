@@ -2,3 +2,4 @@
 # Brass City Residences Inc.
 #
 2607:7640:a::/47
+2a14:c380:325::/48

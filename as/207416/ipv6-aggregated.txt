@@ -2,5 +2,4 @@
 # NekoByte Limited
 #
 2a01:ecc0:3000::/36
-2a0d:d940:1a::/48
 2a0d:d940:1c::/48

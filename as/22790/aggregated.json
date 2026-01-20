@@ -1,14 +1,16 @@
 {
-  "asn": 22790,
-  "metadata": {
-    "handle": "ACTWORLDNET",
-    "description": "Advanced Computer Technologies, LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 22790,
+  "metadata" : {
+    "handle" : "SCADACORE-01",
+    "description" : "SCADACore Inc.",
+    "countryCode" : "CA",
+    "country" : "Canada",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "69.67.188.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

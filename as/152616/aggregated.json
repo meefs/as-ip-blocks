@@ -1,0 +1,18 @@
+{
+  "asn" : 152616,
+  "metadata" : {
+    "handle" : "BHIS-AS-TW",
+    "description" : "BHIS Ltd.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "151.158.6.0/24"
+    ],
+    "ipv6" : [
+      "2402:4760::/44"
+    ]
+  }
+}

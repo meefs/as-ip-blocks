@@ -1,5 +1,5 @@
 # AS34047 (DGROUP-AS)
-# Bystrov Dmitriy Sergeevich
+# LLC Internet-Service
 #
 31.222.253.0/24
 46.151.40.0/21
