@@ -1,0 +1,4 @@
+# AS202294 (NETLOJIK-BT)
+# Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi
+#
+31.56.87.0/24

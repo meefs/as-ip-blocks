@@ -1,0 +1,16 @@
+{
+  "asn" : 15064,
+  "metadata" : {
+    "handle" : "INTERNET-ARGENTINA",
+    "description" : "Internet Argentina",
+    "countryCode" : "AR",
+    "country" : "Argentina",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "103.206.29.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

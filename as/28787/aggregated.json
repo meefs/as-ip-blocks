@@ -2,7 +2,7 @@
   "asn" : 28787,
   "metadata" : {
     "handle" : "BAKINTER-AS",
-    "description" : "Baku Telephone Communication LLC",
+    "description" : "Aztelekom LLC",
     "countryCode" : "AZ",
     "country" : "Azerbaijan",
     "origin" : "authoritative"
@@ -17,7 +17,6 @@
       "194.135.172.0/22",
       "194.135.176.0/22",
       "213.154.0.0/19",
-      "213.172.70.0/23",
       "217.64.16.0/20"
     ],
     "ipv6" : [ ]

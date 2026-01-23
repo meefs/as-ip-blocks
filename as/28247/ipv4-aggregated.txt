@@ -1,4 +1,3 @@
 # AS28247 (INTERCAMPO-EMPREENDIMENTOS-TECNOLOGICOS)
 # Intercampo Empreendimentos Tecnológicos Ltda
 #
-138.255.24.0/22

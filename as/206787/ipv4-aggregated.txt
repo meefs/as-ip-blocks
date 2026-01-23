@@ -1,3 +1,4 @@
-# AS206787 (LECOM)
-# AVATEL TELECOM, SA
+# AS206787 (OSV)
+# IP Odintsov Stepan Vladimirovich
 #
+194.190.69.0/24

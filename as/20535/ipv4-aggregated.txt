@@ -1,4 +1,3 @@
 # AS20535 (YAHOO-INC)
 # Yahoo Inc.
 #
-195.93.155.0/24

@@ -1,14 +1,16 @@
 {
-  "asn": 206668,
-  "metadata": {
-    "handle": "GAMINGVDS",
-    "description": "Bayram Coskun",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 206668,
+  "metadata" : {
+    "handle" : "GAMINGVDS",
+    "description" : "Bayram Coskun",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "185.231.225.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

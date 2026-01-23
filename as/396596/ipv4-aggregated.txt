@@ -1,0 +1,6 @@
+# AS396596 (VRSN-AC50-340)
+# VeriSign Global Registry Services
+#
+192.30.45.0/24
+192.68.130.0/24
+192.153.247.0/24

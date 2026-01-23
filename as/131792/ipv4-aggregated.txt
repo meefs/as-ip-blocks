@@ -1,5 +1,5 @@
 # AS131792 (DGBDRCENTER-AS)
-# The Daegu Bank Ltd
+# IM Bank
 #
 114.206.47.0/24
 121.151.96.0/24

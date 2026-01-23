@@ -1,0 +1,17 @@
+{
+  "asn" : 202119,
+  "metadata" : {
+    "handle" : "MALTHETANKRED",
+    "description" : "Malthe Kragh Tankred",
+    "countryCode" : "DK",
+    "country" : "Denmark",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a12:bec0:6a0::/47",
+      "2a12:bec0:6a2::/48"
+    ]
+  }
+}

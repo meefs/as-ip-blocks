@@ -1,11 +1,11 @@
 {
   "asn" : 22539,
   "metadata" : {
-    "handle" : "CARDINAL-HEALTH-INC",
+    "handle" : "CARDINALHEALTH-PR",
     "description" : "Cardinal Health Inc.",
     "countryCode" : "US",
     "country" : "United States",
-    "origin" : "inferred"
+    "origin" : "authoritative"
   },
   "prefixes" : {
     "ipv4" : [

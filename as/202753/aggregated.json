@@ -1,14 +1,16 @@
 {
-  "asn": 202753,
-  "metadata": {
-    "handle": "CROSSCONCEPT-DUS1",
-    "description": "crossconcept GmbH",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 202753,
+  "metadata" : {
+    "handle" : "GLOBALGRID-NETWORK",
+    "description" : "GLOBALGRID SASU",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "154.7.4.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }

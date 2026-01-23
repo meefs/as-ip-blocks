@@ -1,0 +1,16 @@
+{
+  "asn" : 206208,
+  "metadata" : {
+    "handle" : "PUSIC-JURAJ-AS",
+    "description" : "Pusic Jurai",
+    "countryCode" : "ES",
+    "country" : "Spain",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a0d:d940:90a7::/48"
+    ]
+  }
+}

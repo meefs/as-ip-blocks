@@ -1,14 +1,16 @@
 {
-  "asn": 52390,
-  "metadata": {
-    "handle": "ADMINISTRADORA-REDES",
-    "description": "Administradora de Redes, S.A.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 52390,
+  "metadata" : {
+    "handle" : "ADMINISTRADORA-REDES",
+    "description" : "Administradora de Redes S.A.",
+    "countryCode" : "HN",
+    "country" : "Honduras",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "170.150.181.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

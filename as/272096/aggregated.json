@@ -1,0 +1,16 @@
+{
+  "asn" : 272096,
+  "metadata" : {
+    "handle" : "PACKETHUB",
+    "description" : "PACKETHUB S.A.",
+    "countryCode" : "PA",
+    "country" : "Panama",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "149.174.0.0/23"
+    ],
+    "ipv6" : [ ]
+  }
+}

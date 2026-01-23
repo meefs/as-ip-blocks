@@ -1,0 +1,17 @@
+{
+  "asn" : 65782,
+  "metadata" : {
+    "handle" : "ETIHAD-SALAM-TELECOM-CJSC",
+    "description" : "Etihad Salam Telecom CJSC",
+    "countryCode" : "SA",
+    "country" : "Saudi Arabia",
+    "origin" : "inferred"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "87.101.164.0/24",
+      "185.20.73.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

@@ -2,4 +2,3 @@
 # Logitech Cable (Private) Limited
 #
 103.157.200.0/23
-111.92.158.0/23

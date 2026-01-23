@@ -1,4 +1,4 @@
-# AS214422 (ITSY-HOST)
+# AS214422 (NET67X)
 # Dmytro Nebaba
 #
 2a0d:d940:10b::/48

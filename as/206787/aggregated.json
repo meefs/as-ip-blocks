@@ -1,14 +1,16 @@
 {
-  "asn": 206787,
-  "metadata": {
-    "handle": "LECOM",
-    "description": "AVATEL TELECOM, SA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 206787,
+  "metadata" : {
+    "handle" : "OSV",
+    "description" : "IP Odintsov Stepan Vladimirovich",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "194.190.69.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

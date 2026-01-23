@@ -1,11 +1,11 @@
 {
   "asn" : 263364,
   "metadata" : {
-    "handle" : "INSTITUTO-FEDERAL-DE",
-    "description" : "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGI",
+    "handle" : "TETRA-PAK",
+    "description" : "Tetra Pak Ltda",
     "countryCode" : "BR",
     "country" : "Brazil",
-    "origin" : "inferred"
+    "origin" : "authoritative"
   },
   "prefixes" : {
     "ipv4" : [
