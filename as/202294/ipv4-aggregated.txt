@@ -2,3 +2,4 @@
 # Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi
 #
 31.56.87.0/24
+40.27.0.0/23

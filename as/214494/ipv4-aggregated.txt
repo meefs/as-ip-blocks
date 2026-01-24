@@ -1,0 +1,4 @@
+# AS214494 (OYKARLFAZERAB)
+# Oy Karl Fazer Ab
+#
+185.196.6.0/24

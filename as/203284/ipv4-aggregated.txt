@@ -2,4 +2,3 @@
 # Gutsal Alexandr Viktorovich
 #
 176.111.40.0/24
-193.105.135.0/24

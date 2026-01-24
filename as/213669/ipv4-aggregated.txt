@@ -1,4 +1,3 @@
 # AS213669 (DARKSYSTEMS-AS)
 # Varadi Daniel
 #
-89.22.195.0/24

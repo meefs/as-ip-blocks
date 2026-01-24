@@ -1,4 +1,3 @@
 # AS3852 (MAGICMONAD)
 # Magic Monad LLC
 #
-23.150.172.0/24

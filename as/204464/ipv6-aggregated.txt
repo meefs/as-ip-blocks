@@ -1,5 +1,5 @@
-# AS204464 (NEXTSOLUTIONS)
-# Justin Franke trading as Web Services
+# AS204464 (NEXTHOST-BYTEHOST)
+# Justin Franke
 #
 2a06:1283:8f00::/40
 2a07:2486:400f::/48

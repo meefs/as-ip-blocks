@@ -1,14 +1,16 @@
 {
-  "asn": 36186,
-  "metadata": {
-    "handle": "3DS-AS02",
-    "description": "3ds Communications LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 36186,
+  "metadata" : {
+    "handle" : "3DS-AS02",
+    "description" : "3ds Communications LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "199.21.111.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

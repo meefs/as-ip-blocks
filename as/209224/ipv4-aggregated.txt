@@ -1,3 +1,4 @@
-# AS209224 (RESERVED)
-# RIPE NCC ASN block
+# AS209224 (LBBW-NETWORK-AS)
+# Landesbank Baden-Wuerttemberg
 #
+185.164.84.0/22

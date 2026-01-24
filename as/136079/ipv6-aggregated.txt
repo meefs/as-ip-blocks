@@ -1,4 +1,5 @@
 # AS136079 (IDNIC-AMIKOM-AS-ID)
 # STMIK Amikom Yogyakarta
 #
-2405:2cc0::/32
+2405:2cc0::/45
+2405:2cc0:8::/46

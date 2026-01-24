@@ -1,0 +1,16 @@
+{
+  "asn" : 214494,
+  "metadata" : {
+    "handle" : "OYKARLFAZERAB",
+    "description" : "Oy Karl Fazer Ab",
+    "countryCode" : "FI",
+    "country" : "Finland",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "185.196.6.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn" : 202051,
+  "metadata" : {
+    "handle" : "NETGRID-HOST-LT",
+    "description" : "NETGRID HOST LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "31.58.46.0/24",
+      "151.247.25.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

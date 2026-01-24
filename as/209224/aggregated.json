@@ -1,14 +1,16 @@
 {
-  "asn": 209224,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 209224,
+  "metadata" : {
+    "handle" : "LBBW-NETWORK-AS",
+    "description" : "Landesbank Baden-Wuerttemberg",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "185.164.84.0/22"
+    ],
+    "ipv6" : [ ]
   }
 }
