@@ -1,7 +1,7 @@
 {
   "asn" : 204464,
   "metadata" : {
-    "handle" : "NEXTHOST-BYTEHOST",
+    "handle" : "NEXTSOLUTIONS",
     "description" : "Justin Franke",
     "countryCode" : "DE",
     "country" : "Germany",
@@ -12,9 +12,7 @@
       "5.175.223.0/24"
     ],
     "ipv6" : [
-      "2a06:1283:8f00::/40",
-      "2a07:2486:400f::/48",
-      "2a07:2486:4e00::/40"
+      "2a07:2486:400f::/48"
     ]
   }
 }

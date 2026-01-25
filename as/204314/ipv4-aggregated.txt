@@ -1,4 +1,3 @@
 # AS204314 (NSELECTRONICS-AS)
 # SetServisElektronika Ltd.
 #
-62.89.212.0/24

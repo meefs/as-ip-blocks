@@ -1,7 +1,7 @@
 {
   "asn" : 214478,
   "metadata" : {
-    "handle" : "SAKURACLOUDS-1",
+    "handle" : "AS-SAKURACLOUDS",
     "description" : "Sakura Clouds LLC",
     "countryCode" : "US",
     "country" : "United States",
@@ -16,7 +16,8 @@
       "2a0f:85c1:860::/47",
       "2a0f:85c1:863::/48",
       "2a13:9500:76::/48",
-      "2a14:67c1:b200::/48"
+      "2a14:67c1:b200::/47",
+      "2a14:67c1:b202::/48"
     ]
   }
 }

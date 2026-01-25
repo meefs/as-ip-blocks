@@ -1,14 +1,16 @@
 {
-  "asn": 57222,
-  "metadata": {
-    "handle": "HAASE-IT",
-    "description": "Olaf Haase",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 57222,
+  "metadata" : {
+    "handle" : "HAASE-IT-AS",
+    "description" : "Olaf Haase",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a06:de01:a0::/44"
+    ]
   }
 }

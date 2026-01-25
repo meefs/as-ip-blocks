@@ -1,5 +1,5 @@
-# AS399654 (AVX-CLOUD)
-# AVX Cloud
+# AS399654 (360-NETWORKS)
+# 360 Networks
 #
 8.41.99.0/24
 8.45.19.0/24
