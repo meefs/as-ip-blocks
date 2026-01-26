@@ -1,0 +1,17 @@
+{
+  "asn" : 142220,
+  "metadata" : {
+    "handle" : "IDNIC-CITALANGNET-AS-ID",
+    "description" : "PT Citalang Digital Network",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "92.62.249.0/24",
+      "192.135.210.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

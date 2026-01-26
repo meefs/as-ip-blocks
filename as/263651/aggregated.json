@@ -1,14 +1,19 @@
 {
-  "asn": 263651,
-  "metadata": {
-    "handle": "REDE-BRASIL-FIBRA",
-    "description": "Rede Brasil Fibra",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 263651,
+  "metadata" : {
+    "handle" : "REDE-BRASIL-FIBRA",
+    "description" : "Rede Brasil Fibra",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "138.219.64.0/22",
+      "177.74.176.0/22"
+    ],
+    "ipv6" : [
+      "2804:10d8::/32"
+    ]
   }
 }

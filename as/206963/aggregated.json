@@ -1,0 +1,18 @@
+{
+  "asn" : 206963,
+  "metadata" : {
+    "handle" : "SPRINTCDN",
+    "description" : "PE Brezhnev Daniil",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "62.76.227.0/24",
+      "89.125.36.0/24",
+      "185.248.171.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

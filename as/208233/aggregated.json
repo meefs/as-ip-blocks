@@ -1,0 +1,16 @@
+{
+  "asn" : 208233,
+  "metadata" : {
+    "handle" : "ABKUWAIT",
+    "description" : "Al Ahli Bank of Kuwait K.S.C.P",
+    "countryCode" : "KW",
+    "country" : "Kuwait",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "45.130.36.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS134140 (PLDT-CORPORATEDSL-AP)
+# Philippine Long Distance Telephone Co.
+#
+103.118.208.0/22

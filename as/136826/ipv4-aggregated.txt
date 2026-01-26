@@ -1,0 +1,5 @@
+# AS136826 (IDNIC-ID)
+# Indonesia Network Information Center
+#
+103.118.212.0/22
+103.118.216.0/22
