@@ -1,10 +1,10 @@
 {
   "asn" : 14509,
   "metadata" : {
-    "handle" : "RIPE-NETWORK-COORDINATION",
-    "description" : "RIPE Network Coordination Centre",
-    "countryCode" : "NL",
-    "country" : "Netherlands",
+    "handle" : "EARTHLINK-TELECOMMUNICATIONS-EQUIPMENT",
+    "description" : "Earthlink Telecommunications Equipment Trading & Services DMCC",
+    "countryCode" : "AE",
+    "country" : "United Arab Emirates",
     "origin" : "inferred"
   },
   "prefixes" : {

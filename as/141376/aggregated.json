@@ -1,10 +1,10 @@
 {
   "asn" : 141376,
   "metadata" : {
-    "handle" : "RIPE-NETWORK-COORDINATION",
-    "description" : "RIPE Network Coordination Centre",
-    "countryCode" : "NL",
-    "country" : "Netherlands",
+    "handle" : "BRANDER-GROUP-INC",
+    "description" : "Brander Group Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
     "origin" : "inferred"
   },
   "prefixes" : {

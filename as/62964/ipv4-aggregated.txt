@@ -1,4 +1,4 @@
-# AS62964 (RIPE-NETWORK-COORDINATION)
-# RIPE Network Coordination Centre
+# AS62964 (VEREINIGTE-STADTWERKE-MEDIA)
+# Vereinigte Stadtwerke Media GmbH
 #
 170.133.192.0/20
