@@ -1,5 +1,4 @@
 # AS198584 (PIO-HOSTING)
 # PIO-Hosting GmbH
 #
-2a05:9080:5::/48
 2a10:ca80::/48

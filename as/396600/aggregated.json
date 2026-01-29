@@ -1,0 +1,22 @@
+{
+  "asn" : 396600,
+  "metadata" : {
+    "handle" : "VRSN-AC50-340",
+    "description" : "VeriSign Global Registry Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "192.42.175.0/24",
+      "192.82.133.0/24",
+      "216.168.228.0/24"
+    ],
+    "ipv6" : [
+      "2001:500:122::/48",
+      "2001:500:126::/48",
+      "2001:500:135::/48"
+    ]
+  }
+}

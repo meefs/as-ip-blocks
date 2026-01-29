@@ -2,4 +2,3 @@
 # Fiber Network WUG GmbH
 #
 2a0e:7701::/32
-2a0e:7702::/32

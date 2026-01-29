@@ -1,3 +1,4 @@
 # AS394680 (ESSEXTEL)
 # EssexTel Inc.
 #
+66.248.170.0/24

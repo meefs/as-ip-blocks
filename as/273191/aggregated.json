@@ -1,14 +1,17 @@
 {
-  "asn": 273191,
-  "metadata": {
-    "handle": "GEANET",
-    "description": "Geanet SAS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 273191,
+  "metadata" : {
+    "handle" : "GEANET",
+    "description" : "Geanet SAS",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2803:fa50:101::/48",
+      "2803:fa50:102::/48"
+    ]
   }
 }

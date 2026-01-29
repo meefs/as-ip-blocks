@@ -1,4 +1,4 @@
 # AS211832 (ARTEA-LT)
-# AB Siauliu bankas
+# AB Artea bankas
 #
 185.189.155.0/24

@@ -1,5 +1,5 @@
 # AS213527 (IT-ADJUTOR)
-# Lorenz Knak trading as IT-adjutor GbR
+# Lorenz Knak trading as IT-adjutor GmbH
 #
 2a14:47c0::/48
 2a14:47c0:2::/48

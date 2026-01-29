@@ -1,4 +1,4 @@
-# AS51945 (CONNETU)
+# AS51945 (ENLINK)
 # Enlink Ltd
 #
 2a00:7a40::/32

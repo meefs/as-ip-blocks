@@ -1,6 +1,5 @@
 # AS209165 (IMJUST-AS)
 # Alferova Elena Viktorovna
 #
-91.211.89.0/24
 138.226.235.0/24
 216.163.176.0/24

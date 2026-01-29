@@ -1,3 +1,4 @@
 # AS6797 (GLOBALCONNECT-NET)
 # GlobalConnect AB
 #
+2a02:460::/32

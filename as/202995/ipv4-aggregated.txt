@@ -1,0 +1,4 @@
+# AS202995 (ZHETISU-M-TELECOM-AS)
+# Zhetisu-M-Telecom LLP
+#
+146.120.21.0/24

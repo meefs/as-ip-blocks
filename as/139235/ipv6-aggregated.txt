@@ -1,3 +1,3 @@
-# AS139235 (RESERVED)
-# APNIC ASN block
+# AS139235 (TSRDC-AS-AP)
+# Truxgo S. R.L. de C.V.
 #

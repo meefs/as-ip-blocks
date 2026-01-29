@@ -1,0 +1,17 @@
+{
+  "asn" : 201907,
+  "metadata" : {
+    "handle" : "TOV-BITIORA",
+    "description" : "TOV Bitiora",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "173.239.230.0/24",
+      "209.182.100.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

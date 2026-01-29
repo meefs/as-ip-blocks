@@ -1,5 +1,5 @@
 # AS203868 (RAPDODGENET-ID)
 # Rifqi Arief Pamungkas
 #
-2a0a:280:b00d::/48
+2a0a:280:b00c::/47
 2a0a:6040:fb00::/44

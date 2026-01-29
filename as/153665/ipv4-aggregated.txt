@@ -1,4 +1,3 @@
 # AS153665 (IDNIC-BORNEOMEGALINK-AS-ID)
 # PT Borneo Megalink Perkasa
 #
-163.61.158.0/24

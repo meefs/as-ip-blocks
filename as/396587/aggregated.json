@@ -1,14 +1,22 @@
 {
-  "asn": 396587,
-  "metadata": {
-    "handle": "VRSN-AC50-340",
-    "description": "VeriSign Global Registry Services",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 396587,
+  "metadata" : {
+    "handle" : "VRSN-AC50-340",
+    "description" : "VeriSign Global Registry Services",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2001:500:121::/48",
+      "2001:500:125::/48",
+      "2001:500:134::/48",
+      "2001:500:d937::/48",
+      "2001:501:b1f9::/48",
+      "2001:502:7094::/48",
+      "2001:503:d2d::/48"
+    ]
   }
 }

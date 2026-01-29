@@ -1,14 +1,16 @@
 {
-  "asn": 214107,
-  "metadata": {
-    "handle": "SOURCEWAY",
-    "description": "sourceWAY GmbH",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 214107,
+  "metadata" : {
+    "handle" : "EKSIM",
+    "description" : "Eksim Yatirim Holding AS",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "81.27.78.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }
