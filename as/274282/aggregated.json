@@ -1,0 +1,16 @@
+{
+  "asn" : 274282,
+  "metadata" : {
+    "handle" : "DATANET-TELECOMUNICACIONES",
+    "description" : "DATANET TELECOMUNICACIONES S.A.S.",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2803:7030::/32"
+    ]
+  }
+}

@@ -8,9 +8,7 @@
     "origin" : "inferred"
   },
   "prefixes" : {
-    "ipv4" : [
-      "102.206.157.0/24"
-    ],
+    "ipv4" : [ ],
     "ipv6" : [ ]
   }
 }

@@ -2,3 +2,4 @@
 # HyperBit SRLs
 #
 2a0d:b287:dad0::/44
+2a14:7586:f000::/36

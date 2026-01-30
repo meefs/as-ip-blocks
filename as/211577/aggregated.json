@@ -1,10 +1,10 @@
 {
   "asn" : 211577,
   "metadata" : {
-    "handle" : "WIRENETLIMITED",
-    "description" : "WIRENET LIMITED",
-    "countryCode" : "GB",
-    "country" : "United Kingdom",
+    "handle" : "ZERSNETLLC",
+    "description" : "ZERSNET LLC",
+    "countryCode" : "US",
+    "country" : "United States",
     "origin" : "authoritative"
   },
   "prefixes" : {

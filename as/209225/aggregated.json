@@ -1,14 +1,16 @@
 {
-  "asn": 209225,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 209225,
+  "metadata" : {
+    "handle" : "VIYAR-AS",
+    "description" : "VIYAR TECH LLC",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "91.237.116.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

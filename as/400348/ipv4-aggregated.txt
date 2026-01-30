@@ -1,4 +1,4 @@
-# AS400348 (APOG-UNION-RESNET)
+# AS400348 (BOLD-FR-NET)
 # Apogee Telecom Inc.
 #
 64.189.153.0/24

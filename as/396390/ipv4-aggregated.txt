@@ -1,4 +1,3 @@
 # AS396390 (INDIANA-UNIVERSITY-NEAAR)
 # Indiana University
 #
-192.203.116.0/24

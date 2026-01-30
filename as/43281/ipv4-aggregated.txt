@@ -1,5 +1,5 @@
 # AS43281 (STEPANOVIC)
-# Privredno drustvo za trgovinu i usluge STEPANOVIC & SIPKA
+# Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd
 #
 37.77.168.0/22
 37.77.172.0/24

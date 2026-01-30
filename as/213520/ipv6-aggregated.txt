@@ -1,5 +1,5 @@
 # AS213520 (SENKO-AS)
-# Senko Digital Ltd
+# Senko Digital LLC
 #
 2a06:9f43::/32
 2a0d:d902::/31

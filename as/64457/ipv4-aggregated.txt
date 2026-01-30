@@ -2,4 +2,5 @@
 # Matteo Fruhwald trading as PipeHost e.U.
 #
 151.242.144.0/24
+178.211.159.0/24
 185.224.3.0/24

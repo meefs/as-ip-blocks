@@ -2,9 +2,9 @@
   "asn" : 213520,
   "metadata" : {
     "handle" : "SENKO-AS",
-    "description" : "Senko Digital Ltd",
-    "countryCode" : "GB",
-    "country" : "United Kingdom",
+    "description" : "Senko Digital LLC",
+    "countryCode" : "GE",
+    "country" : "Georgia",
     "origin" : "authoritative"
   },
   "prefixes" : {

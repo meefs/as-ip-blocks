@@ -1,4 +1,4 @@
 # AS201711 (MOZZ-MALTA)
-# Privredno drustvo za trgovinu i usluge STEPANOVIC & SIPKA
+# Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd
 #
 37.77.175.0/24

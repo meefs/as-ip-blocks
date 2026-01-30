@@ -1,14 +1,16 @@
 {
-  "asn": 152366,
-  "metadata": {
-    "handle": "IDNIC-JSNPATI-AS-ID",
-    "description": "PT Jaringanku Sarana Nusantara Pati",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 152366,
+  "metadata" : {
+    "handle" : "IDNIC-JSNPATI-AS-ID",
+    "description" : "PT Jaringanku Sarana Nusantara Pati",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "103.13.205.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

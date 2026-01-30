@@ -1,14 +1,18 @@
 {
-  "asn": 131638,
-  "metadata": {
-    "handle": "AS-ZUSO-RT",
-    "description": "ZUSO Generation Co. Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 131638,
+  "metadata" : {
+    "handle" : "X32B535D8",
+    "description" : "ZUSO Generation Co. Ltd.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "138.252.13.0/24"
+    ],
+    "ipv6" : [
+      "2402:30e0::/48"
+    ]
   }
 }

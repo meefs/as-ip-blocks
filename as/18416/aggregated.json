@@ -1,14 +1,16 @@
 {
-  "asn": 18416,
-  "metadata": {
-    "handle": "CHIAOCHIAO-NET",
-    "description": "CHIAOCHIAO Corporation",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 18416,
+  "metadata" : {
+    "handle" : "CHIAOCHIAO-NET",
+    "description" : "CHIAOCHIAO Corporation",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "45.199.138.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

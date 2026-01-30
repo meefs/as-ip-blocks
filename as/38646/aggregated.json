@@ -2,9 +2,9 @@
   "asn" : 38646,
   "metadata" : {
     "handle" : "BENKYO-NET",
-    "description" : "Neodyland Osaka Region",
-    "countryCode" : null,
-    "country" : null,
+    "description" : "Neodyland",
+    "countryCode" : "JP",
+    "country" : "Japan",
     "origin" : "authoritative"
   },
   "prefixes" : {

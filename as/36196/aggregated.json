@@ -1,14 +1,16 @@
 {
-  "asn": 36196,
-  "metadata": {
-    "handle": "COMCAST-TELECOMM-5",
-    "description": "Comcast Cable Communications LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 36196,
+  "metadata" : {
+    "handle" : "COMCAST-TELECOMM-5",
+    "description" : "Comcast Cable Communications LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "96.169.0.0/16"
+    ],
+    "ipv6" : [ ]
   }
 }

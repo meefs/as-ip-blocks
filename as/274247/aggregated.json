@@ -1,0 +1,18 @@
+{
+  "asn" : 274247,
+  "metadata" : {
+    "handle" : "SOLUNET-ISP",
+    "description" : "SOLUNET ISP SAS",
+    "countryCode" : "CO",
+    "country" : "Colombia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "38.50.38.0/23"
+    ],
+    "ipv6" : [
+      "2803:b7d0::/32"
+    ]
+  }
+}
