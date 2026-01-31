@@ -1,0 +1,16 @@
+{
+  "asn" : 44828,
+  "metadata" : {
+    "handle" : "NETERRA-ENTERPRISE-INTERNET-ACCESS",
+    "description" : "Neterra Ltd.",
+    "countryCode" : "BG",
+    "country" : "Bulgaria",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "87.121.134.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "asn" : 64473,
   "metadata" : {
-    "handle" : "STACLAR-CLOUD",
+    "handle" : "BLAHAJ-CLOUD-ANYCAST",
     "description" : "Maria Merkel",
     "countryCode" : "DE",
     "country" : "Germany",
@@ -9,7 +9,7 @@
   },
   "prefixes" : {
     "ipv4" : [
-      "107.150.174.0/24"
+      "45.151.214.0/24"
     ],
     "ipv6" : [
       "2a07:22c0:c100::/40"

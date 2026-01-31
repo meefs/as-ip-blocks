@@ -1,14 +1,16 @@
 {
-  "asn": 138422,
-  "metadata": {
-    "handle": "ITC-AP",
-    "description": "CS Loxinfo Public Company Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 138422,
+  "metadata" : {
+    "handle" : "ITC-AS-AP",
+    "description" : "CS Loxinfo Public Company Limited",
+    "countryCode" : "TH",
+    "country" : "Thailand",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "14.207.194.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

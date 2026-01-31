@@ -2,3 +2,4 @@
 # PT Garuda Lintas Cakrawala
 #
 103.184.18.0/23
+206.84.92.0/23

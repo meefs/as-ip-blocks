@@ -1,14 +1,18 @@
 {
-  "asn": 206159,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 206159,
+  "metadata" : {
+    "handle" : "CZ-FRESH",
+    "description" : "Fresh Data s.r.o.",
+    "countryCode" : "CZ",
+    "country" : "Czechia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "217.65.76.0/24"
+    ],
+    "ipv6" : [
+      "2a14:7880::/32"
+    ]
   }
 }

@@ -1,14 +1,19 @@
 {
-  "asn": 215748,
-  "metadata": {
-    "handle": "WAYDE-BLAZELY",
-    "description": "Wayde Blazely",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 215748,
+  "metadata" : {
+    "handle" : "WESTEROS",
+    "description" : "Westeros Communications (THAILAND) CO. LTD.",
+    "countryCode" : "TH",
+    "country" : "Thailand",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "96.62.110.0/24",
+      "96.62.123.0/24",
+      "96.62.142.0/24",
+      "96.62.213.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

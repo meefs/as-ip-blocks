@@ -1,14 +1,16 @@
 {
-  "asn": 22585,
-  "metadata": {
-    "handle": "MVS-CLOUD",
-    "description": "MVS Cloud Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 22585,
+  "metadata" : {
+    "handle" : "MVS-CLOUD",
+    "description" : "MVS Cloud Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "66.51.151.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

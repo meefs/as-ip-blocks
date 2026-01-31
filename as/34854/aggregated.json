@@ -1,7 +1,7 @@
 {
   "asn" : 34854,
   "metadata" : {
-    "handle" : "STACLAR-CARRIER",
+    "handle" : "BLAHAJ-CLOUD",
     "description" : "Maria Merkel",
     "countryCode" : "DE",
     "country" : "Germany",
@@ -9,7 +9,10 @@
   },
   "prefixes" : {
     "ipv4" : [
-      "45.13.118.0/24"
+      "2.56.11.0/24",
+      "45.13.118.0/24",
+      "45.151.215.0/24",
+      "107.150.174.0/24"
     ],
     "ipv6" : [
       "2a07:22c0::/48"

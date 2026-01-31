@@ -2,3 +2,4 @@
 # iOVZ Networks Limited
 #
 2a0b:d904::/30
+2a12:28c4::/30

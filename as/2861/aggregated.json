@@ -1,14 +1,17 @@
 {
-  "asn": 2861,
-  "metadata": {
-    "handle": "UDO-STEINEGGER",
-    "description": "Udo Steinegger",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 2861,
+  "metadata" : {
+    "handle" : "UDO-STEINEGGER",
+    "description" : "Udo Steinegger",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "91.208.155.0/24",
+      "193.109.242.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

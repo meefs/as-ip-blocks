@@ -1,0 +1,16 @@
+{
+  "asn" : 142201,
+  "metadata" : {
+    "handle" : "IDNIC-AXINDO-AS-ID",
+    "description" : "PT Axindo Infinitas Network",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "192.232.48.0/23"
+    ],
+    "ipv6" : [ ]
+  }
+}
