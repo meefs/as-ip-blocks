@@ -1,0 +1,17 @@
+{
+  "asn" : 201950,
+  "metadata" : {
+    "handle" : "KIEKEMAL",
+    "description" : "Alexander Bork",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a06:de04:43::/48",
+      "2a06:de04:44::/48"
+    ]
+  }
+}

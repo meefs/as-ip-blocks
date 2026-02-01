@@ -1,0 +1,18 @@
+{
+  "asn" : 402127,
+  "metadata" : {
+    "handle" : "TAKOYAKI-NET",
+    "description" : "Project Takoyaki Technologies",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "23.152.236.0/24"
+    ],
+    "ipv6" : [
+      "2602:fe18::/40"
+    ]
+  }
+}

@@ -1,4 +1,5 @@
 # AS140876 (SPLASH-AS-AP)
 # Splash Internet Pty Ltd
 #
+2406:8840::/48
 2406:8840:30::/48

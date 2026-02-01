@@ -2,5 +2,4 @@
 # Huge Networks Segurança da Informação LTDA
 #
 2804:5874::/48
-2804:5874:21::/48
 2804:5874:47::/48

@@ -1,7 +1,6 @@
 # AS399122 (AS-VPSHOUSE)
 # VPS House Technology Group LLC
 #
-2001:550:a15::/48
 2602:fcd5:2::/47
 2602:fcd5:4::/46
 2602:fcd5:a::/47
