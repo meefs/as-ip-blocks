@@ -2,17 +2,13 @@
   "asn" : 264472,
   "metadata" : {
     "handle" : "BCNET-SERVICOS-INFORMATICA",
-    "description" : "BCNET SERVICOS DE INFORMATICA LTDA - ME",
+    "description" : "Leonardo Vasconcelos Souza - Me - Bcnet Play",
     "countryCode" : "BR",
     "country" : "Brazil",
     "origin" : "authoritative"
   },
   "prefixes" : {
-    "ipv4" : [
-      "132.255.88.0/22"
-    ],
-    "ipv6" : [
-      "2804:2024::/32"
-    ]
+    "ipv4" : [ "132.255.88.0/22" ],
+    "ipv6" : [ "2804:2024::/32" ]
   }
 }

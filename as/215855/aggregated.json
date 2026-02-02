@@ -1,7 +1,7 @@
 {
   "asn" : 215855,
   "metadata" : {
-    "handle" : "LINUXBURKEN",
+    "handle" : "JONSSON-LABS",
     "description" : "Tomas Jonsson",
     "countryCode" : "SE",
     "country" : "Sweden",
@@ -9,10 +9,6 @@
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [
-      "2602:f9ba:a10::/48",
-      "2a0e:97c0:e60::/47",
-      "2a0e:97c0:e62::/48"
-    ]
+    "ipv6" : [ "2602:f9ba:a10::/48", "2a0e:97c0:e60::/47", "2a0e:97c0:e62::/48" ]
   }
 }

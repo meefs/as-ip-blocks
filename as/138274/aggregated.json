@@ -1,14 +1,14 @@
 {
-  "asn": 138274,
-  "metadata": {
-    "handle": "GIGALO-AS-IN",
-    "description": "Gigalo Communication Pvt. Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 138274,
+  "metadata" : {
+    "handle" : "GIGALO-AS-IN",
+    "description" : "Gigalo Communication Pvt. Ltd.",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.132.204.0/23", "103.132.207.0/24", "103.250.120.0/23" ],
+    "ipv6" : [ ]
   }
 }

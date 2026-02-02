@@ -8,9 +8,7 @@
     "origin" : "authoritative"
   },
   "prefixes" : {
-    "ipv4" : [
-      "67.209.50.0/24"
-    ],
+    "ipv4" : [ "67.209.50.0/24" ],
     "ipv6" : [ ]
   }
 }

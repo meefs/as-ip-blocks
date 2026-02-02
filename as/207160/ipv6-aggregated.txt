@@ -1,4 +1,4 @@
 # AS207160 (EK401)
 # Factory Campus Verwaltungs-GmbH
 #
-2a14:d100::/33
+2a14:d100::/32

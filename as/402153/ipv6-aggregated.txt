@@ -1,4 +1,3 @@
 # AS402153 (QUICK-TECH-RESULTS-01)
 # Quick Tech Results LLC
 #
-2602:ff29::/40

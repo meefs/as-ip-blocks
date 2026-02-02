@@ -1,3 +1,4 @@
-# AS133439 (DSTAR-BD)
-# KaritKarma Limited
+# AS133439 (IHELPBD-AS-AP)
+# iHelpBD
 #
+138.252.115.0/24

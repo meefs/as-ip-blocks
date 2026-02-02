@@ -1,14 +1,14 @@
 {
-  "asn": 136882,
-  "metadata": {
-    "handle": "IDNIC-DKISCRB-ID",
-    "description": "Dinas Komunikasi Informatika dan Statistik Kota Cirebon",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 136882,
+  "metadata" : {
+    "handle" : "IDNIC-DKISCRB-AS-ID",
+    "description" : "Dinas Komunikasi Informatika dan Statistik Kota Cirebon",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.105.142.0/24" ],
+    "ipv6" : [ ]
   }
 }
