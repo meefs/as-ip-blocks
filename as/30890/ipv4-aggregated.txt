@@ -1,4 +1,4 @@
 # AS30890 (TENNET)
-# TENNET TELECOM SRL
+# Tennet Telecom SRL
 #
 195.28.2.0/23

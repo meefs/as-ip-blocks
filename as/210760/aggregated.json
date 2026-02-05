@@ -1,14 +1,14 @@
 {
-  "asn": 210760,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 210760,
+  "metadata" : {
+    "handle" : "OMR-VFLIT",
+    "description" : "OMR INFOGERANCE SAS",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "178.216.15.0/24" ],
+    "ipv6" : [ ]
   }
 }

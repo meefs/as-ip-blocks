@@ -1,5 +1,5 @@
 # AS37900 (MATSURI)
-# NTT Communications Corporation
+# NTT DOCOMO BUSINESS Inc.
 #
 202.2.89.0/24
 202.2.91.0/24

@@ -1,4 +1,4 @@
 # AS53902 (FLUXORUS-NETWORKS)
-# Fluxorus Networks LLC
+# Fluxorus Networks
 #
 193.176.129.0/24

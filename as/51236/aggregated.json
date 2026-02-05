@@ -1,14 +1,14 @@
 {
   "asn" : 51236,
   "metadata" : {
-    "handle" : "AS-MADJIN",
-    "description" : "MADJIN SAS",
+    "handle" : "AS-ABACLOUDA",
+    "description" : "ABACLOUDA SAS",
     "countryCode" : "FR",
     "country" : "France",
     "origin" : "authoritative"
   },
   "prefixes" : {
-    "ipv4" : [ "185.140.248.0/24" ],
+    "ipv4" : [ ],
     "ipv6" : [ ]
   }
 }

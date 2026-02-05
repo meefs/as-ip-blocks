@@ -1,4 +1,4 @@
-# AS213449 (JOW-AS-1)
+# AS213449 (JOW-AS)
 # Jann-Ole Wagenaar
 #
 2a06:a005:1630::/44

@@ -1,0 +1,14 @@
+{
+  "asn" : 205414,
+  "metadata" : {
+    "handle" : "NERDLAB",
+    "description" : "Gabriel Leonte",
+    "countryCode" : "RO",
+    "country" : "Romania",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a0e:97c0:b00::/48" ]
+  }
+}

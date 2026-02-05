@@ -1,14 +1,14 @@
 {
-  "asn": 58551,
-  "metadata": {
-    "handle": "IDNIC-MTN-ID",
-    "description": "PT. Mediatama Telematika Nusantara",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 58551,
+  "metadata" : {
+    "handle" : "IDNIC-MTN-AS-ID",
+    "description" : "PT. Mediatama Telematika Nusantara",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.8.78.0/23" ],
+    "ipv6" : [ ]
   }
 }

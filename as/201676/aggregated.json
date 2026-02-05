@@ -1,0 +1,14 @@
+{
+  "asn" : 201676,
+  "metadata" : {
+    "handle" : "WAGHORN-CAPITAL-CO",
+    "description" : "WAGHORN CAPITAL CO LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "91.108.252.0/24" ],
+    "ipv6" : [ ]
+  }
+}

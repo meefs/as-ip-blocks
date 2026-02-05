@@ -1,4 +1,5 @@
 # AS51505 (DEI-AS)
 # Dimosia Epicheirisi Ilektrismou Anonymi Etaireia
 #
+194.46.62.0/24
 194.154.32.0/19

@@ -1,0 +1,14 @@
+{
+  "asn" : 202685,
+  "metadata" : {
+    "handle" : "TR-ARKEL",
+    "description" : "Arkel Elektrik Elektronik San ve Tic A.S",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "178.210.166.0/24" ],
+    "ipv6" : [ ]
+  }
+}

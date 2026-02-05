@@ -1,14 +1,14 @@
 {
-  "asn": 6343,
-  "metadata": {
-    "handle": "OMEGASYS-DC1",
-    "description": "Omega Systems Consultants LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 6343,
+  "metadata" : {
+    "handle" : "OMEGASYS-DC1",
+    "description" : "Omega Systems Consultants LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "192.135.189.0/24" ],
+    "ipv6" : [ ]
   }
 }

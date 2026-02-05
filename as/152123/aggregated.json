@@ -1,14 +1,14 @@
 {
-  "asn": 152123,
-  "metadata": {
-    "handle": "AGW-AS-AP",
-    "description": "Afghan Gate Way",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 152123,
+  "metadata" : {
+    "handle" : "AGW-AS-AP",
+    "description" : "Afghan Gate Way",
+    "countryCode" : "AF",
+    "country" : "Afghanistan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "36.50.21.0/24" ],
+    "ipv6" : [ ]
   }
 }

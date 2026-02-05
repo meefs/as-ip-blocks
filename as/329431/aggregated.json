@@ -1,0 +1,14 @@
+{
+  "asn" : 329431,
+  "metadata" : {
+    "handle" : "REDSEA-SAHARA-TRAVEL",
+    "description" : "Redsea Sahara Travel",
+    "countryCode" : "EG",
+    "country" : "Egypt",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "102.209.24.0/24" ],
+    "ipv6" : [ ]
+  }
+}

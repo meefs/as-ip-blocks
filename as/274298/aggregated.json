@@ -1,0 +1,14 @@
+{
+  "asn" : 274298,
+  "metadata" : {
+    "handle" : "NETWORKS-PLUS-PERU",
+    "description" : "NETWORKS PLUS PERU S.A.C.",
+    "countryCode" : "PE",
+    "country" : "Peru",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "38.158.235.0/24" ],
+    "ipv6" : [ ]
+  }
+}

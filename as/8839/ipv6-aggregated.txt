@@ -1,4 +1,4 @@
 # AS8839 (SDV-AS)
-# SdV-Plurimedia
+# SDV6TM SAS
 #
 2001:810::/32

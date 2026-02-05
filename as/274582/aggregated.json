@@ -1,0 +1,14 @@
+{
+  "asn" : 274582,
+  "metadata" : {
+    "handle" : "GREENET-SOLUCOES-CONEXOES",
+    "description" : "GREENET SOLUCOES E CONEXOES LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2804:9648::/32" ]
+  }
+}

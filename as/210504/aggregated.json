@@ -1,14 +1,14 @@
 {
-  "asn": 210504,
-  "metadata": {
-    "handle": "CDCL",
-    "description": "CloudIDC Digital Company Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 210504,
+  "metadata" : {
+    "handle" : "CDCL",
+    "description" : "CloudIDC Digital Company Limited",
+    "countryCode" : "HK",
+    "country" : "Hong Kong SAR China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "43.225.36.0/24" ],
+    "ipv6" : [ ]
   }
 }

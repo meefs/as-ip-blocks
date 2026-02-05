@@ -1,14 +1,14 @@
 {
-  "asn": 207618,
-  "metadata": {
-    "handle": "DORIDIAN-AS",
-    "description": "Mark Dietzer",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 207618,
+  "metadata" : {
+    "handle" : "DORIDIAN-AS",
+    "description" : "Mark Dietzer",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a0e:7d44:f069::/48" ]
   }
 }

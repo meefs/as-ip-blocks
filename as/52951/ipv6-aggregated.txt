@@ -1,4 +1,4 @@
 # AS52951 (CATANDUVA-SISTEMAS-CABO)
-# Catanduva sistemas a cabo ltda.
+# SISTEMAS OPTICOS PAULISTA LTDA
 #
 2804:2928::/32
