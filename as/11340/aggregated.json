@@ -6,7 +6,7 @@
     "countryCode" : "CL",
     "country" : "Chile",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

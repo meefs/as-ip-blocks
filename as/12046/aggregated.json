@@ -6,7 +6,7 @@
     "countryCode" : "MT",
     "country" : "Malta",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "business",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

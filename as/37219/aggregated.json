@@ -6,7 +6,7 @@
     "countryCode" : "KE",
     "country" : "Kenya",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "government_admin",
     "networkRole" : "access_provider"
   },
   "prefixes" : {
