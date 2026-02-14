@@ -1,4 +1,4 @@
 # AS266392 (AGILITY-TELECOM)
-# Agility Telecom Ltda
+# vip telecom paraiba
 #
 170.80.232.0/22

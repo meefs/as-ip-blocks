@@ -1,4 +1,5 @@
 # AS134039 (IBUSVNS-AS-IN)
 # Ibus Virtual Network Services Private Limited
 #
+36.255.12.0/22
 45.112.151.0/24

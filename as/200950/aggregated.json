@@ -6,8 +6,8 @@
     "countryCode" : "GB",
     "country" : "United Kingdom",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "45.86.153.0/24", "151.244.142.0/23", "194.231.218.0/23" ],

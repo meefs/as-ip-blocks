@@ -1,6 +1,7 @@
 # AS11795 (SIELLC)
 # Sony Interactive Entertainment LLC.
 #
+94.102.254.0/24
 160.33.55.0/24
 160.33.61.0/24
 160.33.62.0/23

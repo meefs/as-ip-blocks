@@ -1,14 +1,16 @@
 {
-  "asn": 1000,
-  "metadata": {
-    "handle": "PISL-24",
-    "description": "CORIX NETWORKS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 1000,
+  "metadata" : {
+    "handle" : "PISL-24-1000",
+    "description" : "CORIX NETWORKS",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "192.131.141.0/24" ],
+    "ipv6" : [ ]
   }
 }

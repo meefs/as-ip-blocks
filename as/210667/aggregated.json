@@ -7,7 +7,7 @@
     "country" : "United Kingdom",
     "origin" : "authoritative",
     "category" : "hosting",
-    "networkRole" : "stub"
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "44.31.80.0/24", "44.31.238.0/24", "64.49.14.0/24", "89.39.211.0/24", "151.241.74.0/24", "168.222.240.0/24", "192.67.34.0/24", "204.10.192.0/24" ],

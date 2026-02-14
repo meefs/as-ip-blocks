@@ -1,14 +1,16 @@
 {
-  "asn": 211055,
-  "metadata": {
-    "handle": "REGIONBRETAGNE",
-    "description": "REGION BRETAGNE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 211055,
+  "metadata" : {
+    "handle" : "REGIONBRETAGNE",
+    "description" : "REGION BRETAGNE",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "185.233.130.0/24" ],
+    "ipv6" : [ ]
   }
 }

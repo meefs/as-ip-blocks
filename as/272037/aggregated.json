@@ -6,7 +6,7 @@
     "countryCode" : "PA",
     "country" : "Panama",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "business",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

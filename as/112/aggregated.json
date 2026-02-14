@@ -6,8 +6,8 @@
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "192.31.196.0/24", "192.175.48.0/24" ],

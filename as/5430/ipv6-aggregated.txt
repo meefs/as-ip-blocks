@@ -1,4 +1,4 @@
 # AS5430 (FREENETDE)
-# TERRA CLOUD Duesseldorf GmbH
+# Wortmann AG
 #
 2001:748::/32

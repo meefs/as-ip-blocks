@@ -7,7 +7,7 @@
     "country" : "Germany",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "access_provider"
+    "networkRole" : "midsize_transit"
   },
   "prefixes" : {
     "ipv4" : [ "45.150.68.0/24", "85.236.192.0/19", "91.206.46.0/23", "194.11.170.0/24" ],

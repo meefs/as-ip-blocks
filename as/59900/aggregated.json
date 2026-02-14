@@ -6,8 +6,8 @@
     "countryCode" : "BG",
     "country" : "Bulgaria",
     "origin" : "authoritative",
-    "category" : "isp",
-    "networkRole" : "access_provider"
+    "category" : "hosting",
+    "networkRole" : "tier1_transit"
   },
   "prefixes" : {
     "ipv4" : [ ],

@@ -6,8 +6,8 @@
     "countryCode" : "NL",
     "country" : "Netherlands",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "37.202.25.0/24", "89.107.28.0/22", "185.44.160.0/22", "185.163.80.0/22" ],

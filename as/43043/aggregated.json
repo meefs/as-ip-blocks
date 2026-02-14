@@ -7,10 +7,10 @@
     "country" : "Germany",
     "origin" : "authoritative",
     "category" : "hosting",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
-    "ipv6" : [ ]
+    "ipv4" : [ "45.66.151.0/24" ],
+    "ipv6" : [ "2a0e:b540:acac::/48" ]
   }
 }

@@ -6,11 +6,11 @@
     "countryCode" : "BD",
     "country" : "Bangladesh",
     "origin" : "authoritative",
-    "category" : null,
+    "category" : "business",
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "38.86.248.0/21" ],
     "ipv6" : [ ]
   }
 }

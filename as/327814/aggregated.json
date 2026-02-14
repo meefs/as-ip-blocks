@@ -6,7 +6,7 @@
     "countryCode" : "GH",
     "country" : "Ghana",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

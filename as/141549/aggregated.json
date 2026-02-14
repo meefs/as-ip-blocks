@@ -7,7 +7,7 @@
     "country" : "India",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "103.66.76.0/22", "103.74.136.0/22", "103.119.179.0/24", "103.163.112.0/23" ],

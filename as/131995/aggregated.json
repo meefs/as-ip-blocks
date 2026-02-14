@@ -6,7 +6,7 @@
     "countryCode" : "NC",
     "country" : "New Caledonia",
     "origin" : "authoritative",
-    "category" : null,
+    "category" : "business",
     "networkRole" : null
   },
   "prefixes" : {

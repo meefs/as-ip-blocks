@@ -7,7 +7,7 @@
     "country" : "Norway",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "185.5.232.0/22", "213.166.184.0/23" ],

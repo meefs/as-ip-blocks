@@ -1,14 +1,16 @@
 {
-  "asn": 43481,
-  "metadata": {
-    "handle": "NADYMR",
-    "description": "TOV RADAMIR",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 43481,
+  "metadata" : {
+    "handle" : "PITLINE-AS",
+    "description" : "Pitline Ltd",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a12:9f00:2::/48" ]
   }
 }

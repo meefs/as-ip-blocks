@@ -6,7 +6,7 @@
     "countryCode" : "VG",
     "country" : "British Virgin Islands",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

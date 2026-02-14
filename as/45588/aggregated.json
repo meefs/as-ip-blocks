@@ -6,7 +6,7 @@
     "countryCode" : "BD",
     "country" : "Bangladesh",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "government_admin",
     "networkRole" : "midsize_transit"
   },
   "prefixes" : {

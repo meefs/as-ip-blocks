@@ -6,8 +6,8 @@
     "countryCode" : "FR",
     "country" : "France",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "5.39.224.0/21" ],

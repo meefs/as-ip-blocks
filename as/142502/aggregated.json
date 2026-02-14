@@ -1,12 +1,12 @@
 {
   "asn" : 142502,
   "metadata" : {
-    "handle" : "NIXI-IN-AS",
-    "description" : "National Internet Exchange of India",
+    "handle" : "BHARAT-PUBLIC-DNS",
+    "description" : "BHARAT-PUBLIC-DNS",
     "countryCode" : "IN",
     "country" : "India",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

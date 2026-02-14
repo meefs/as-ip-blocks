@@ -1,3 +1,4 @@
 # AS24423 (FJGDWL)
 # No. 207 Hualin Road Fuzhou Fujian China
 #
+240a:41b0::/34

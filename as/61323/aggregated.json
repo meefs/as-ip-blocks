@@ -6,7 +6,7 @@
     "countryCode" : "GB",
     "country" : "United Kingdom",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

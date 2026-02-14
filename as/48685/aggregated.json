@@ -6,7 +6,7 @@
     "countryCode" : "IS",
     "country" : "Iceland",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

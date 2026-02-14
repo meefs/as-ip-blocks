@@ -7,10 +7,10 @@
     "country" : "United States",
     "origin" : "authoritative",
     "category" : null,
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "173.251.110.0/24" ],
     "ipv6" : [ ]
   }
 }

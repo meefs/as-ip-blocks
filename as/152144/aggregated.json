@@ -6,11 +6,11 @@
     "countryCode" : "SG",
     "country" : "Singapore",
     "origin" : "authoritative",
-    "category" : "isp",
-    "networkRole" : "access_provider"
+    "category" : "hosting",
+    "networkRole" : "midsize_transit"
   },
   "prefixes" : {
-    "ipv4" : [ "103.27.170.0/23", "210.87.106.0/23" ],
+    "ipv4" : [ "27.111.228.0/22", "103.27.170.0/23", "210.87.106.0/23" ],
     "ipv6" : [ "2401:5760::/32" ]
   }
 }

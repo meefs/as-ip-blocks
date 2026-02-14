@@ -1,14 +1,16 @@
 {
-  "asn": 58817,
-  "metadata": {
-    "handle": "SPOTNET-AS-ID",
-    "description": "PT. Usaha Mediantara Intranet",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 58817,
+  "metadata" : {
+    "handle" : "SPOTNET-AS-ID",
+    "description" : "PT. Usaha Mediantara Intranet",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.18.144.0/22" ],
+    "ipv6" : [ ]
   }
 }

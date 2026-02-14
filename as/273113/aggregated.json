@@ -6,8 +6,8 @@
     "countryCode" : "DO",
     "country" : "Dominican Republic",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "isp",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "38.188.160.0/23", "38.188.165.0/24" ],

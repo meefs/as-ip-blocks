@@ -1,4 +1,5 @@
 # AS19263 (CBAD-NET)
 # Cincinnati Bell Any Distance Inc.
 #
+74.83.178.0/24
 216.68.22.0/24

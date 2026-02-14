@@ -2,3 +2,5 @@
 # Netassist International EOOD
 #
 2001:67c:1874::/48
+2a01:d0:7fff::/48
+2a01:d0:8000::/33

@@ -1,14 +1,16 @@
 {
-  "asn": 14293,
-  "metadata": {
-    "handle": "SHOPPERTRAK-ASN1",
-    "description": "SHOPPERTRAK RCT CORPORATION",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 14293,
+  "metadata" : {
+    "handle" : "UNI-EDGE",
+    "description" : "UniEdge Networks LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "141.11.217.0/24", "151.243.170.0/24" ],
+    "ipv6" : [ ]
   }
 }

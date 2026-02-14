@@ -7,10 +7,10 @@
     "country" : "Philippines",
     "origin" : "authoritative",
     "category" : "education_research",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "27.110.215.0/24" ],
     "ipv6" : [ ]
   }
 }

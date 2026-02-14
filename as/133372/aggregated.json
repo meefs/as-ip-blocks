@@ -6,11 +6,11 @@
     "countryCode" : "HK",
     "country" : "Hong Kong SAR China",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {
-    "ipv4" : [ "103.225.213.0/24", "103.225.214.0/24" ],
+    "ipv4" : [ "103.225.212.0/23", "103.225.214.0/24" ],
     "ipv6" : [ "2404:1d80:213::/48" ]
   }
 }

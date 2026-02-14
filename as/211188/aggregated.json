@@ -7,10 +7,10 @@
     "country" : "United Kingdom",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "45.198.251.0/24" ],
     "ipv6" : [ ]
   }
 }

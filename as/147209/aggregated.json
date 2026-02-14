@@ -7,10 +7,10 @@
     "country" : "India",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [ ]
+    "ipv6" : [ "2400:1a60::/32" ]
   }
 }

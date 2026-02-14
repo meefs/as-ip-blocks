@@ -1,14 +1,16 @@
 {
-  "asn": 24416,
-  "metadata": {
-    "handle": "CNNIC-PRIMETELECOM-AP",
-    "description": "Beijing Primezone Technologies Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 24416,
+  "metadata" : {
+    "handle" : "CNNIC-PRIMETELECOM-AP",
+    "description" : "Beijing Primezone Technologies Inc.",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative",
+    "category" : "isp",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "113.209.195.0/24" ],
+    "ipv6" : [ ]
   }
 }

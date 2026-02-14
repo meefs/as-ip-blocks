@@ -6,8 +6,8 @@
     "countryCode" : "FR",
     "country" : "France",
     "origin" : "authoritative",
-    "category" : "education_research",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "209.112.97.0/24" ],

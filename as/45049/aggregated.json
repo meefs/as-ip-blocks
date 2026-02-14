@@ -6,8 +6,8 @@
     "countryCode" : "BE",
     "country" : "Belgium",
     "origin" : "authoritative",
-    "category" : "isp",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "194.28.97.0/24" ],

@@ -1,14 +1,16 @@
 {
-  "asn": 53849,
-  "metadata": {
-    "handle": "VTC",
-    "description": "Vernon Communications Cooperative",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 53849,
+  "metadata" : {
+    "handle" : "VTC-AS",
+    "description" : "Vernon Communications Cooperative",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2603:b0ae::/32" ]
   }
 }

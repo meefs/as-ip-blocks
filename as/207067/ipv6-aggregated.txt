@@ -1,3 +1,4 @@
-# AS207067 (HBOPOLAND)
-# HBO Polska Sp z o.o.
+# AS207067 (GIGASONIC)
+# Fluency Communications Ltd
 #
+2a00:a607::/32

@@ -1,0 +1,4 @@
+# AS43859 (TRANSNEFT-TELECOM-AS)
+# JSC Oil Transportation and Production Telecommunications
+#
+2a01:70c0:1::/48

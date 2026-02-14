@@ -7,10 +7,10 @@
     "country" : "China",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [ ]
+    "ipv6" : [ "2402:5ec0::/32" ]
   }
 }

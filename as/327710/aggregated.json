@@ -1,14 +1,16 @@
 {
-  "asn": 327710,
-  "metadata": {
-    "handle": "ORANGE-COTE-IVOIRE",
-    "description": "Orange C\u00f4te d'Ivoire",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 327710,
+  "metadata" : {
+    "handle" : "ORANGE-COTE-IVOIRE",
+    "description" : "Orange Côte d'Ivoire",
+    "countryCode" : "CI",
+    "country" : "Côte d’Ivoire",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "102.213.175.0/24" ],
+    "ipv6" : [ ]
   }
 }

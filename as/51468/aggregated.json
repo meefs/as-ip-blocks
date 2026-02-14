@@ -6,7 +6,7 @@
     "countryCode" : "DK",
     "country" : "Denmark",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

@@ -6,7 +6,7 @@
     "countryCode" : "TT",
     "country" : "Trinidad & Tobago",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : "isp",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

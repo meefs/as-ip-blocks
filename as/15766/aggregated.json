@@ -6,7 +6,7 @@
     "countryCode" : "IM",
     "country" : "Isle of Man",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

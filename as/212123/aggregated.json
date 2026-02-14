@@ -6,7 +6,7 @@
     "countryCode" : "BE",
     "country" : "Belgium",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

@@ -1,0 +1,16 @@
+{
+  "asn" : 17652,
+  "metadata" : {
+    "handle" : "MAURITIUSTELECOM",
+    "description" : "Mauritius Telecom Ltd",
+    "countryCode" : "MU",
+    "country" : "Mauritius",
+    "origin" : "authoritative",
+    "category" : "isp",
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "41.136.197.0/24", "196.20.164.0/22", "197.225.174.0/23" ],
+    "ipv6" : [ ]
+  }
+}

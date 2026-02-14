@@ -10,7 +10,7 @@
     "networkRole" : "midsize_transit"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "103.116.219.0/24" ],
     "ipv6" : [ "2403:6c0:7367::/48" ]
   }
 }

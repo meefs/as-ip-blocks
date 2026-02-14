@@ -1,4 +1,4 @@
 # AS41390 (RN-DATA-LV)
-# SIA SOCKS
+# Telenet SIA
 #
 195.3.144.0/22

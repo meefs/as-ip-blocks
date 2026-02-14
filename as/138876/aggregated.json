@@ -7,10 +7,10 @@
     "country" : "Indonesia",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "103.140.90.0/23" ],
-    "ipv6" : [ ]
+    "ipv6" : [ "2001:df0:b580::/48" ]
   }
 }

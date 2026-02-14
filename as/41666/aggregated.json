@@ -7,7 +7,7 @@
     "country" : "Finland",
     "origin" : "authoritative",
     "category" : "education_research",
-    "networkRole" : "stub"
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "91.216.79.0/24", "195.138.203.0/24" ],

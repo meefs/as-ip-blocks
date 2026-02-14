@@ -7,7 +7,7 @@
     "country" : "South Africa",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "45.222.64.0/19", "154.66.88.0/21" ],

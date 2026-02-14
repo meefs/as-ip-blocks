@@ -1,4 +1,4 @@
-# AS215172 (JL-AS)
+# AS215172 (JIANYUELAB)
 # JianyueLab Ltd.
 #
 82.39.145.0/24

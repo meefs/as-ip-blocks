@@ -1,3 +1,7 @@
 # AS59048 (CLOUDTIMES)
-# Bei Jing Cloud Times Technology Co.,Ltd
+# Bei Jing Cloud Times Technology Co. Ltd
 #
+103.192.212.0/24
+103.192.214.0/24
+103.255.200.0/23
+103.255.202.0/24

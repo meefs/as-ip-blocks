@@ -6,11 +6,11 @@
     "countryCode" : "BD",
     "country" : "Bangladesh",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {
-    "ipv4" : [ "103.20.180.0/22", "103.247.44.0/22" ],
+    "ipv4" : [ "103.20.180.0/22", "103.217.112.0/22", "103.247.44.0/22" ],
     "ipv6" : [ ]
   }
 }

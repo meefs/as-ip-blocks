@@ -2,11 +2,11 @@
   "asn" : 5430,
   "metadata" : {
     "handle" : "FREENETDE",
-    "description" : "TERRA CLOUD Duesseldorf GmbH",
+    "description" : "Wortmann AG",
     "countryCode" : "DE",
     "country" : "Germany",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

@@ -6,8 +6,8 @@
     "countryCode" : "IT",
     "country" : "Italy",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "194.116.104.0/23" ],

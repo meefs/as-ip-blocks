@@ -7,7 +7,7 @@
     "country" : "Poland",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "5.206.240.0/20", "45.85.8.0/22", "159.255.176.0/20" ],

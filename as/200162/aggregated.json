@@ -7,7 +7,7 @@
     "country" : "France",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "89.234.152.0/24" ],

@@ -1,0 +1,16 @@
+{
+  "asn" : 151311,
+  "metadata" : {
+    "handle" : "HMKJ",
+    "description" : "Shenzhen Humeng Technology Co. Ltd",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "123.58.32.0/23", "123.58.34.0/24", "123.58.44.0/24", "123.58.64.0/24" ],
+    "ipv6" : [ ]
+  }
+}

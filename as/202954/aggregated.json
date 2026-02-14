@@ -7,7 +7,7 @@
     "country" : "Cyprus",
     "origin" : "authoritative",
     "category" : "hosting",
-    "networkRole" : "stub"
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "185.149.88.0/22" ],

@@ -1,0 +1,16 @@
+{
+  "asn" : 201048,
+  "metadata" : {
+    "handle" : "TEREHOV-AS",
+    "description" : "Denis Terehov",
+    "countryCode" : "RO",
+    "country" : "Romania",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "193.23.222.0/24" ],
+    "ipv6" : [ "2a0d:d940:90a9::/48" ]
+  }
+}

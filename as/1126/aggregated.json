@@ -6,8 +6,8 @@
     "countryCode" : null,
     "country" : null,
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "37.60.192.0/21", "85.90.64.0/19", "185.33.68.0/22", "194.13.72.0/21" ],

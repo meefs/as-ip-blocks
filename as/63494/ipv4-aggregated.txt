@@ -1,5 +1,4 @@
 # AS63494 (INNOVATION-AS-ID)
 # PT Inovasi Jaringan Nusantara
 #
-103.37.168.0/23
-103.37.170.0/24
+103.37.168.0/22

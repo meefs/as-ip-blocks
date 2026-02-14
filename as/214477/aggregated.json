@@ -1,14 +1,16 @@
 {
-  "asn": 214477,
-  "metadata": {
-    "handle": "SHIVSUM-AS",
-    "description": "SHIVSUM INFORMATION TECHNOLOGY FZE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 214477,
+  "metadata" : {
+    "handle" : "SHIVSUM-AS",
+    "description" : "SHIVSUM INFORMATION TECHNOLOGY FZE",
+    "countryCode" : "AE",
+    "country" : "United Arab Emirates",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a13:c441::/32" ]
   }
 }

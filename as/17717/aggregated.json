@@ -6,7 +6,7 @@
     "countryCode" : "TW",
     "country" : "Taiwan",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

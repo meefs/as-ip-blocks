@@ -1,5 +1,5 @@
-# AS142502 (NIXI-IN-AS)
-# National Internet Exchange of India
+# AS142502 (BHARAT-PUBLIC-DNS)
+# BHARAT-PUBLIC-DNS
 #
 2407:ca40:136::/48
 2409:e:e3::/48

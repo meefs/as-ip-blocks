@@ -6,8 +6,8 @@
     "countryCode" : "BG",
     "country" : "Bulgaria",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "isp",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "45.146.140.0/22", "85.255.160.0/20" ],

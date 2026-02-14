@@ -7,7 +7,7 @@
     "country" : "Portugal",
     "origin" : "authoritative",
     "category" : "government_admin",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "193.236.96.0/24" ],

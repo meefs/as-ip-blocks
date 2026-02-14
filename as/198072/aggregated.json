@@ -7,7 +7,7 @@
     "country" : "Poland",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "91.231.120.0/22" ],

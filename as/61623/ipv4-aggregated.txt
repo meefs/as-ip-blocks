@@ -1,3 +1,4 @@
 # AS61623 (VELLON-SERVICOS-COMUNICACAO)
 # Vellon Servicos de Comunicacao Mult e Digitais
 #
+170.245.94.0/24

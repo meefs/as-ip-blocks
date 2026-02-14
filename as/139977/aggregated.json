@@ -7,7 +7,7 @@
     "country" : "Indonesia",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "103.130.80.0/23", "103.148.2.0/23", "103.186.8.0/23" ],

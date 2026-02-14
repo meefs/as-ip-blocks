@@ -6,11 +6,11 @@
     "countryCode" : "GT",
     "country" : "Guatemala",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "business",
     "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [ "2a0a:280:1201::/48", "2a0a:280:1202::/48" ]
+    "ipv6" : [ "2a0a:280:1201::/48", "2a0a:280:1202::/48", "2a0a:280:1204::/47" ]
   }
 }

@@ -1,3 +1,5 @@
 # AS48850 (EPIX-WAW-OPENPEERING)
 # Stowarzyszenie e-Poludnie
 #
+91.222.160.0/22
+213.192.118.0/24

@@ -6,8 +6,8 @@
     "countryCode" : "ZA",
     "country" : "South Africa",
     "origin" : "authoritative",
-    "category" : "business",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "129.205.64.0/20", "154.65.12.0/22" ],

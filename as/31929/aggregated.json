@@ -7,7 +7,7 @@
     "country" : "United States",
     "origin" : "authoritative",
     "category" : "business",
-    "networkRole" : "stub"
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ "50.235.175.0/24", "204.88.64.0/19" ],

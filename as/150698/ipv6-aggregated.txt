@@ -1,5 +1,5 @@
-# AS150698 (CHINA-INTERNET-NETWORK)
-# China Internet Network Information Center
+# AS150698 (TOPLINK-GMBH)
+# toplink GmbH
 #
 2001:df6:fc80::/48
 2401:1620::/48

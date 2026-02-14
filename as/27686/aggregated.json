@@ -7,10 +7,10 @@
     "country" : "Venezuela",
     "origin" : "authoritative",
     "category" : "education_research",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "150.186.96.0/19" ],
     "ipv6" : [ ]
   }
 }

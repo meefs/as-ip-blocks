@@ -1,4 +1,4 @@
-# AS203027 (SEOCUBE)
-# Seo Cube s.r.l.
+# AS203027 (KEVIN)
+# Kevin Engelke
 #
-2602:fed2:7f01::/48
+2a14:7c0:f222::/48

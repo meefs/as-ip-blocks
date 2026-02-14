@@ -6,8 +6,8 @@
     "countryCode" : "BD",
     "country" : "Bangladesh",
     "origin" : "authoritative",
-    "category" : "isp",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "access_provider"
   },
   "prefixes" : {
     "ipv4" : [ ],

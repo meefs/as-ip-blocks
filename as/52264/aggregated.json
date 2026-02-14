@@ -1,0 +1,16 @@
+{
+  "asn" : 52264,
+  "metadata" : {
+    "handle" : "CABLE-ONDA",
+    "description" : "Cable Onda",
+    "countryCode" : "PA",
+    "country" : "Panama",
+    "origin" : "authoritative",
+    "category" : "isp",
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "200.108.61.0/24" ],
+    "ipv6" : [ ]
+  }
+}

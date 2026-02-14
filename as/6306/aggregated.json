@@ -6,7 +6,7 @@
     "countryCode" : "VE",
     "country" : "Venezuela",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

@@ -1,4 +1,6 @@
 # AS209466 (DROVIACOMPUTACAO)
 # Drovia Computacao em Nuvem Ltda
 #
+38.94.33.0/24
+38.236.83.0/24
 143.20.196.0/24

@@ -6,11 +6,11 @@
     "countryCode" : "NO",
     "country" : "Norway",
     "origin" : "authoritative",
-    "category" : null,
+    "category" : "isp",
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "128.201.91.0/24" ],
     "ipv6" : [ ]
   }
 }

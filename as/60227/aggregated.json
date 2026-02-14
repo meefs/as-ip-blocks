@@ -1,14 +1,16 @@
 {
-  "asn": 60227,
-  "metadata": {
-    "handle": "CONTACTLAB",
-    "description": "TEAMSYSTEM S.P.A.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 60227,
+  "metadata" : {
+    "handle" : "CONTACTLAB",
+    "description" : "TEAMSYSTEM S.P.A.",
+    "countryCode" : "IT",
+    "country" : "Italy",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "93.94.36.0/24", "93.94.39.0/24" ],
+    "ipv6" : [ ]
   }
 }

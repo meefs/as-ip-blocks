@@ -6,7 +6,7 @@
     "countryCode" : "AR",
     "country" : "Argentina",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

@@ -6,11 +6,11 @@
     "countryCode" : "JP",
     "country" : "Japan",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {
-    "ipv4" : [ "115.69.236.0/24" ],
+    "ipv4" : [ "115.69.236.0/23" ],
     "ipv6" : [ "2400:b420::/32" ]
   }
 }

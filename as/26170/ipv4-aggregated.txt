@@ -1,3 +1,4 @@
 # AS26170 (FRTCI-DOM)
 # Flat Rock Internet Service
 #
+206.83.29.0/24

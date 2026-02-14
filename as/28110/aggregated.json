@@ -6,7 +6,7 @@
     "countryCode" : "CR",
     "country" : "Costa Rica",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

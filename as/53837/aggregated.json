@@ -1,14 +1,16 @@
 {
-  "asn": 53837,
-  "metadata": {
-    "handle": "SBDN",
-    "description": "ServedBy the Net, LLC.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 53837,
+  "metadata" : {
+    "handle" : "SBDN-AS",
+    "description" : "ServedBy the Net LLC.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2602:fffc::/32" ]
   }
 }

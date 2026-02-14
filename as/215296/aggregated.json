@@ -6,8 +6,8 @@
     "countryCode" : "NL",
     "country" : "Netherlands",
     "origin" : "authoritative",
-    "category" : "education_research",
-    "networkRole" : "stub"
+    "category" : "hosting",
+    "networkRole" : "content_network"
   },
   "prefixes" : {
     "ipv4" : [ "44.30.34.0/24", "103.147.153.0/24" ],

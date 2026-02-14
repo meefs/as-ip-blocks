@@ -6,7 +6,7 @@
     "countryCode" : "IL",
     "country" : "Israel",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "education_research",
     "networkRole" : "access_provider"
   },
   "prefixes" : {

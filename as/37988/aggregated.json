@@ -7,7 +7,7 @@
     "country" : "Australia",
     "origin" : "authoritative",
     "category" : "hosting",
-    "networkRole" : "access_provider"
+    "networkRole" : "midsize_transit"
   },
   "prefixes" : {
     "ipv4" : [ "103.108.228.0/24", "195.114.14.0/23", "195.114.126.0/23" ],

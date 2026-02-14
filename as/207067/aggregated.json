@@ -1,14 +1,16 @@
 {
-  "asn": 207067,
-  "metadata": {
-    "handle": "HBOPOLAND",
-    "description": "HBO Polska Sp z o.o.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 207067,
+  "metadata" : {
+    "handle" : "GIGASONIC",
+    "description" : "Fluency Communications Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a00:a607::/32" ]
   }
 }

@@ -6,11 +6,11 @@
     "countryCode" : "GB",
     "country" : "United Kingdom",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "education_research",
     "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [ "2001:4830:6000::/48", "2001:4830:60a3::/48", "2001:4830:60a7::/48" ]
+    "ipv6" : [ "2001:4830:6000::/48", "2001:4830:60a1::/48", "2001:4830:60a2::/48" ]
   }
 }

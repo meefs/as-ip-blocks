@@ -1,4 +1,4 @@
-# AS142500 (NIXI-IN-AS)
-# National Internet Exchange of India
+# AS142500 (BHARAT-PUBLIC-DNS)
+# BHARAT-PUBLIC-DNS
 #
 2409::/32
