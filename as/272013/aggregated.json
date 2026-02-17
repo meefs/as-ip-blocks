@@ -6,7 +6,7 @@
     "countryCode" : "GT",
     "country" : "Guatemala",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

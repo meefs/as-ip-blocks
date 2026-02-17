@@ -1,12 +1,12 @@
 {
   "asn" : 52208,
   "metadata" : {
-    "handle" : "ETC-COM-NET",
-    "description" : "Engineering-technical center-communication LLC",
-    "countryCode" : "RU",
-    "country" : "Russia",
+    "handle" : "FIBER-AS",
+    "description" : "Fiber Ltd",
+    "countryCode" : "SC",
+    "country" : "Seychelles",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : "isp",
     "networkRole" : "stub"
   },
   "prefixes" : {

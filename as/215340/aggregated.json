@@ -6,7 +6,7 @@
     "countryCode" : "NG",
     "country" : "Nigeria",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

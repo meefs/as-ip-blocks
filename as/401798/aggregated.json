@@ -1,0 +1,16 @@
+{
+  "asn" : 401798,
+  "metadata" : {
+    "handle" : "GSCCCA-NET",
+    "description" : "GSCCCA",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "199.241.142.0/23" ],
+    "ipv6" : [ ]
+  }
+}

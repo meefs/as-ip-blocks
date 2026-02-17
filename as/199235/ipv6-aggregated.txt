@@ -1,4 +1,4 @@
 # AS199235 (MIKROHALO-HU-AS)
-# Mikrohalo Tavkozlesi Szolgaltato Korlatolt Felelossegu Tarsasag
+# Mikrohalo Kft
 #
 2a02:6f40::/32

@@ -1,4 +1,4 @@
-# AS197556 (TNS)
+# AS197556 (KAR-TEL)
 # Kar-Tel LLC
 #
 5.34.16.0/20
