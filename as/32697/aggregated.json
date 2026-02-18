@@ -6,11 +6,11 @@
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ "66.132.145.0/24" ],
+    "ipv4" : [ ],
     "ipv6" : [ "2607:84c0::/32" ]
   }
 }

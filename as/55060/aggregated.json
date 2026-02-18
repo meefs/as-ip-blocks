@@ -1,0 +1,16 @@
+{
+  "asn" : 55060,
+  "metadata" : {
+    "handle" : "AZT-77",
+    "description" : "Arizona Tile LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "8.35.9.0/24" ],
+    "ipv6" : [ ]
+  }
+}

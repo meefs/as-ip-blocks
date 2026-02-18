@@ -1,4 +1,4 @@
 # AS212206 (MAXTELECOM)
-# IP Petrosyan Maksim Markslenovich
+# Paks LLC
 #
 95.47.156.0/24

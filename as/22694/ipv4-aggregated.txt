@@ -1,3 +1,4 @@
 # AS22694 (CNBC)
 # NBCUniversal
 #
+50.152.225.0/24

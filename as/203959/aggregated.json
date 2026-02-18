@@ -1,10 +1,10 @@
 {
   "asn" : 203959,
   "metadata" : {
-    "handle" : "DEM-AS",
-    "description" : "DEMENIN B.V.",
-    "countryCode" : "NL",
-    "country" : "Netherlands",
+    "handle" : "STOLITOMSON-AS",
+    "description" : "Stolitomson Company DOO",
+    "countryCode" : "ME",
+    "country" : "Montenegro",
     "origin" : "authoritative",
     "category" : "hosting",
     "networkRole" : "stub"

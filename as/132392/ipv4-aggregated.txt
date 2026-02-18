@@ -1,4 +1,3 @@
 # AS132392 (ALTERIAN-AS-AP)
 # Alterian Software Pty Ltd
 #
-103.20.18.0/23

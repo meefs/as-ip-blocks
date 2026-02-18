@@ -2,4 +2,3 @@
 # St. Lawrence University
 #
 69.6.96.0/19
-199.0.76.0/22

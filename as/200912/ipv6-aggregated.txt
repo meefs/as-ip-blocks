@@ -1,0 +1,4 @@
+# AS200912 (KRAUSE-AS)
+# Joel Krause
+#
+2a06:9801:59::/48

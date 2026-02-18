@@ -1,4 +1,4 @@
-# AS201541 (WHITE-NETWORK)
+# AS201541 (WHITE-NET)
 # Nedas Dozorec
 #
 2a06:1283:8b50::/44

@@ -1,0 +1,16 @@
+{
+  "asn" : 6301,
+  "metadata" : {
+    "handle" : "HPINC",
+    "description" : "HP Inc.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
+  },
+  "prefixes" : {
+    "ipv4" : [ "8.7.64.0/23", "8.41.164.0/23" ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,5 +1,7 @@
 # AS2577 (DNIC-AS-02577)
 # United States Department of Defense (DoD)
 #
+8.30.26.0/23
+8.44.96.0/21
 67.133.98.0/24
 144.51.0.0/17

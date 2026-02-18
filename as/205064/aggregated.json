@@ -1,7 +1,7 @@
 {
   "asn" : 205064,
   "metadata" : {
-    "handle" : "ROCKAWAYX",
+    "handle" : "ROCKAWAYX-UAE",
     "description" : "RockawayX Infra s.r.o.",
     "countryCode" : "CZ",
     "country" : "Czechia",
@@ -10,7 +10,7 @@
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ "138.226.230.0/24" ],
+    "ipv4" : [ "138.226.224.0/24", "138.226.230.0/23" ],
     "ipv6" : [ ]
   }
 }

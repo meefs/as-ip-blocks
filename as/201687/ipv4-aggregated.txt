@@ -1,5 +1,4 @@
 # AS201687 (DARKMATTER)
 # Marco Andreas Martin Jahn trading as Darkmatter IT
 #
-5.231.220.0/24
 89.144.25.0/24

@@ -1,5 +1,5 @@
 # AS201950 (KIEKEMAL)
 # Alexander Bork
 #
-2a06:de04:43::/48
+2a06:de04:42::/47
 2a06:de04:44::/48
