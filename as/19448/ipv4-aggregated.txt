@@ -1,3 +1,5 @@
 # AS19448 (GOOGLE-FIBER)
 # Google Fiber Inc.
 #
+136.104.0.0/15
+136.106.0.0/16

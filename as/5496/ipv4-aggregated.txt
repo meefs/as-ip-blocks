@@ -1,0 +1,4 @@
+# AS5496 (WIREHUB)
+# GTT Communications Inc.
+#
+146.3.0.0/16

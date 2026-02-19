@@ -1,7 +1,6 @@
 # AS17466 (GENPACT-AS-AP)
 # Genpact India Private Limited
 #
-8.8.195.0/24
 8.19.113.0/24
 58.2.16.0/20
 58.2.128.0/19

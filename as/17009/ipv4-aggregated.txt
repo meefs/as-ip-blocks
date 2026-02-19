@@ -1,5 +1,5 @@
-# AS17009 (SHOPKO-ASN)
-# ShopKo Stores Operating Co. LLC
+# AS17009 (SHOPTIKAL)
+# Shopko Optical
 #
 204.11.254.0/24
 206.223.21.0/24

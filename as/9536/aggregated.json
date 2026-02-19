@@ -1,12 +1,12 @@
 {
   "asn" : 9536,
   "metadata" : {
-    "handle" : "CNS-AS-AP",
-    "description" : "Cloud Network Services (HK) Ltd.",
+    "handle" : "MACROVIEW-HK-AS-AP",
+    "description" : "Macroview Telecom Limited",
     "countryCode" : "HK",
     "country" : "Hong Kong SAR China",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "isp",
     "networkRole" : "stub"
   },
   "prefixes" : {

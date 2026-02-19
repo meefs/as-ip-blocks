@@ -1,12 +1,12 @@
 {
   "asn" : 17009,
   "metadata" : {
-    "handle" : "SHOPKO-ASN",
-    "description" : "ShopKo Stores Operating Co. LLC",
+    "handle" : "SHOPTIKAL",
+    "description" : "Shopko Optical",
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : null,
     "networkRole" : "stub"
   },
   "prefixes" : {

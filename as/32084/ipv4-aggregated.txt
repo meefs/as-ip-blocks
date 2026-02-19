@@ -1,4 +1,3 @@
 # AS32084 (GOS-MIA1)
 # Global Outsource Services LLC
 #
-8.17.4.0/24

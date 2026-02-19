@@ -1,3 +1,4 @@
 # AS31334 (KABELDEUTSCHLAND-AS)
 # Vodafone GmbH
 #
+62.95.128.0/17

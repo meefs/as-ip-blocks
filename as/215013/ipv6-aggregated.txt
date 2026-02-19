@@ -1,3 +1,4 @@
 # AS215013 (YACLOUDCDN)
 # Yandex.Cloud LLC
 #
+2a0d:d6c7:14::/48

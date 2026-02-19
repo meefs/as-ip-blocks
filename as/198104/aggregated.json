@@ -1,12 +1,12 @@
 {
   "asn" : 198104,
   "metadata" : {
-    "handle" : "STAYCONNECTED-SYSTEMS-LTD",
-    "description" : "StayConnected.Systems Ltd",
+    "handle" : "BUSH-BROADBAND-LTD",
+    "description" : "Bush Broadband Limited",
     "countryCode" : "GB",
     "country" : "United Kingdom",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : "isp",
     "networkRole" : "stub"
   },
   "prefixes" : {

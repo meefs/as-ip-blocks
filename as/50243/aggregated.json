@@ -1,14 +1,16 @@
 {
-  "asn": 50243,
-  "metadata": {
-    "handle": "YDP",
-    "description": "4Tonet Grzegorz Krezalek",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 50243,
+  "metadata" : {
+    "handle" : "YDP-AS",
+    "description" : "4Tonet Grzegorz Krezalek",
+    "countryCode" : "PL",
+    "country" : "Poland",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "193.104.184.0/24" ],
+    "ipv6" : [ ]
   }
 }

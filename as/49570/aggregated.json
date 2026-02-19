@@ -1,7 +1,7 @@
 {
   "asn" : 49570,
   "metadata" : {
-    "handle" : "DELTA-X-AS",
+    "handle" : "DELTA-X",
     "description" : "DELTA-X LTD",
     "countryCode" : "UA",
     "country" : "Ukraine",
@@ -10,7 +10,7 @@
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ "195.64.184.0/23" ],
+    "ipv4" : [ ],
     "ipv6" : [ ]
   }
 }

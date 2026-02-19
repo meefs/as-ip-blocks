@@ -1,4 +1,4 @@
-# AS9536 (CNS-AS-AP)
-# Cloud Network Services (HK) Ltd.
+# AS9536 (MACROVIEW-HK-AS-AP)
+# Macroview Telecom Limited
 #
 202.182.224.0/23

@@ -1,4 +1,3 @@
 # AS14878 (KWIKOM-PIXIUS)
 # KwiKom Communications
 #
-8.12.8.0/24

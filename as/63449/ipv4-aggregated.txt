@@ -1,5 +1,4 @@
 # AS63449 (SEABOARDMAIRNE-AS)
 # Seaboard Marine Ltd. Inc.
 #
-8.39.170.0/24
 192.102.222.0/24
