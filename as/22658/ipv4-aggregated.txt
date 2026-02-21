@@ -1,5 +1,5 @@
-# AS22658 (EARTHNET)
-# Earthnet Inc.
+# AS22658 (MASSIVE-NETWORKS-22658)
+# Massive Networks Inc.
 #
 65.101.207.0/24
 72.18.208.0/24

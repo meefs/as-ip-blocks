@@ -6,7 +6,7 @@
     "countryCode" : "MO",
     "country" : "Macao SAR China",
     "origin" : "authoritative",
-    "category" : null,
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

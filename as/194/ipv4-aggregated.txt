@@ -1,4 +1,4 @@
-# AS194 (NCAR-AS)
+# AS194 (UCAR-AS)
 # University Corporation for Atmospheric Research
 #
 128.117.0.0/16

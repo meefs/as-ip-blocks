@@ -1,5 +1,5 @@
 # AS211095 (MBS-USINGEN)
-# Media Broadcast Satellite GmbH
+# MBS Operations GmbH
 #
 45.143.228.0/22
 78.41.26.0/24

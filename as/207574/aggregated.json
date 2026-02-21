@@ -2,9 +2,9 @@
   "asn" : 207574,
   "metadata" : {
     "handle" : "MIKENETWORKS-UK-AS",
-    "description" : "MikeNetworks S.a r.l.-S.",
-    "countryCode" : "LU",
-    "country" : "Luxembourg",
+    "description" : "Alexandre Olemans",
+    "countryCode" : "BE",
+    "country" : "Belgium",
     "origin" : "authoritative",
     "category" : "hosting",
     "networkRole" : "stub"

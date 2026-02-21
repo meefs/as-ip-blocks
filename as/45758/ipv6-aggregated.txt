@@ -2,3 +2,4 @@
 # Triple T Broadband Public Company Limited
 #
 2403:6200::/32
+2404:4a00:3293::/48

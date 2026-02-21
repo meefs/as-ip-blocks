@@ -1,5 +1,4 @@
 # AS262493 (COMPANHIA-ITABIRANA-TELECOMUNICACOES)
 # Companhia Itabirana Telecomunicações Ltda
 #
-2804:fec::/32
 2804:3258:8134::/48

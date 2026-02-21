@@ -1,4 +1,4 @@
 # AS207574 (MIKENETWORKS-UK-AS)
-# MikeNetworks S.a r.l.-S.
+# Alexandre Olemans
 #
 2a12:4946:46::/48

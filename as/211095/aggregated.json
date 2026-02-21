@@ -2,11 +2,11 @@
   "asn" : 211095,
   "metadata" : {
     "handle" : "MBS-USINGEN",
-    "description" : "Media Broadcast Satellite GmbH",
+    "description" : "MBS Operations GmbH",
     "countryCode" : "DE",
     "country" : "Germany",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "business",
     "networkRole" : "stub"
   },
   "prefixes" : {

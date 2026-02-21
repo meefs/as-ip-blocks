@@ -1,4 +1,3 @@
 # AS62078 (MEASUREMENT-NETWORK-SCAN)
 # Tobias Fiebig
 #
-45.91.14.0/24
