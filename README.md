@@ -111,7 +111,7 @@ For the complete AS metadata dataset and field documentation, see [as-metadata](
 
 If you plan to use the routing data for firewalling purposes, have a look at:
 
-- [ipset-blacklist](https://github.com/trick77/ipset-blacklist) - ipset/iptables based Bash script, IPv4 only
+- [nftables-blacklist](https://github.com/trick77/nftables-blacklist) - nftables based Bash script
 - [ipverse-tools-crowdsec](https://github.com/ipverse/tools/blob/main/crowdsec/README.md) - Ban prefixes using Crowdsec's `cscli` command
 
 ## Use cases
