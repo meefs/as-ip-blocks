@@ -1,14 +1,16 @@
 {
-  "asn": 63375,
-  "metadata": {
-    "handle": "FULLSPANSOLUTIONS-AS02",
-    "description": "Full Span Solutions LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 63375,
+  "metadata" : {
+    "handle" : "FULLSPANSOLUTIONS-AS02",
+    "description" : "Full Span Solutions LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "isp",
+    "networkRole" : "access_provider"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "167.88.216.0/24" ],
+    "ipv6" : [ ]
   }
 }

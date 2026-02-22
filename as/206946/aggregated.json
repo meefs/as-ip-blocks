@@ -6,11 +6,11 @@
     "countryCode" : "DE",
     "country" : "Germany",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "education_research",
     "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "193.26.120.0/24" ],
     "ipv6" : [ "2a06:e881:260a::/48" ]
   }
 }

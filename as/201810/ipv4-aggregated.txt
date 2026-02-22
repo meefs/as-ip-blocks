@@ -1,0 +1,4 @@
+# AS201810 (ARTANET)
+# AmirHosein Karimi
+#
+185.124.174.0/24

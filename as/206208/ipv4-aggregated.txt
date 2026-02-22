@@ -1,4 +1,5 @@
 # AS206208 (PUSIC-JURAJ-AS)
 # Pusic Jurai
 #
+62.60.227.0/24
 185.242.2.0/24

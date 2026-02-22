@@ -1,3 +1,4 @@
-# AS152914 (ICTNI-AP)
+# AS152914 (ICTNI-AS-AP)
 # Infanta Cable TV Network Inc
 #
+36.50.221.0/24

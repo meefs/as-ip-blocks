@@ -1,5 +1,5 @@
 # AS12527 (MILLENNIUMBCP-AS)
 # Millennium BCP-Prestacao de Servicos ACE
 #
-88.157.230.0/23
+88.157.231.0/24
 91.90.170.0/24

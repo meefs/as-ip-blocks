@@ -1,4 +1,5 @@
 # AS270925 (FIBRAMAR-TELECOMUNICACOES)
 # Fibramar Telecomunicações Ltda
 #
-186.26.80.0/22
+186.26.80.0/23
+186.26.83.0/24
