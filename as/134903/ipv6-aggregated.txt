@@ -1,4 +1,3 @@
 # AS134903 (SMARTWI5-AS-IN)
 # Smart Wi5 Pvt. Ltd.
 #
-2405:afc0::/32

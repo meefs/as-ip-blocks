@@ -1,5 +1,4 @@
 # AS209601 (XIAOYUAN-NETWORKS)
 # Yu ZuYuan
 #
-2a14:7581:fe6::/48
 2a14:7583:e0e0::/48
