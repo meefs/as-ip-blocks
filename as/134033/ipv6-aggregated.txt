@@ -2,7 +2,7 @@
 # Mithril Telecommunications Private Limited
 #
 2400:7be0::/43
-2400:7be0:20::/48
+2400:7be0:20::/47
 2400:7be0:26::/47
 2400:7be0:28::/47
 2400:7be0:30::/47

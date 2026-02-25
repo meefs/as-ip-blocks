@@ -1,14 +1,16 @@
 {
-  "asn": 397067,
-  "metadata": {
-    "handle": "LBHI-ASN-001",
-    "description": "Lehman Brothers Holdings, Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 397067,
+  "metadata" : {
+    "handle" : "VFOREGONLLC",
+    "description" : "VFOregon LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "64.83.66.0/23" ],
+    "ipv6" : [ ]
   }
 }

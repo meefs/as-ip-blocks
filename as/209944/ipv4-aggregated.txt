@@ -2,3 +2,4 @@
 # Contrust Solutions S.R.L.
 #
 94.26.1.0/24
+104.253.40.0/24

@@ -1,4 +1,4 @@
 # AS263429 (BOM-JESUSIELUSC)
-# Bom Jesus/IELUSC
+# Associação Educacional Luterana Bom Jesus IELUSC
 #
 177.91.48.0/22

@@ -1,10 +1,10 @@
 {
   "asn" : 49867,
   "metadata" : {
-    "handle" : "SUISEI-NET",
-    "description" : "Bing Yang trading as B00B Collective",
-    "countryCode" : "US",
-    "country" : "United States",
+    "handle" : "SHUJIITO-AS-AP",
+    "description" : "Shuji Ito",
+    "countryCode" : "JP",
+    "country" : "Japan",
     "origin" : "authoritative",
     "category" : "hosting",
     "networkRole" : "stub"

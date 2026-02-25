@@ -1,14 +1,16 @@
 {
-  "asn": 153596,
-  "metadata": {
-    "handle": "SWISPPL-AS-AP",
-    "description": "SWIS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 153596,
+  "metadata" : {
+    "handle" : "SWISPPL-AS-AP",
+    "description" : "SWIS",
+    "countryCode" : "PK",
+    "country" : "Pakistan",
+    "origin" : "authoritative",
+    "category" : null,
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.209.84.0/24" ],
+    "ipv6" : [ ]
   }
 }

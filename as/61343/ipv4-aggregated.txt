@@ -1,5 +1,5 @@
 # AS61343 (PATRONAS-AS)
-# PATRONAS Financial Systems GmbH
+# Etops Germany AM GmbH
 #
 185.10.36.0/22
 185.27.84.0/22

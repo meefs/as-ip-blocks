@@ -6,11 +6,11 @@
     "countryCode" : "EG",
     "country" : "Egypt",
     "origin" : "authoritative",
-    "category" : null,
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],
-    "ipv6" : [ ]
+    "ipv6" : [ "2c0f:6240::/48" ]
   }
 }

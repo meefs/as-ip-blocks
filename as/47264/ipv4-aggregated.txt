@@ -1,5 +1,5 @@
 # AS47264 (LDEX)
-# IOMART MANAGED SERVICES LIMITED
+# Iomart Managed Services Limited
 #
 37.220.104.0/21
 45.66.69.0/24

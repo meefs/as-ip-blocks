@@ -1,7 +1,7 @@
 # AS201801 (ZEROSPACE)
 # Christian Wittenberg trading as Zerospace Cloud
 #
-2a07:1a84::/47
+2a07:1a84:1::/48
 2a07:1a84:2::/48
 2a07:1a84:4::/46
 2a07:1a84:9::/48

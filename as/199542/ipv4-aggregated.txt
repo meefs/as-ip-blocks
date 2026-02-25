@@ -1,5 +1,5 @@
 # AS199542 (SONASSI)
-# IOMART MANAGED SERVICES LIMITED
+# Iomart Managed Services Limited
 #
 45.66.68.0/24
 45.66.70.0/24

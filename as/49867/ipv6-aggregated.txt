@@ -1,4 +1,4 @@
-# AS49867 (SUISEI-NET)
-# Bing Yang trading as B00B Collective
+# AS49867 (SHUJIITO-AS-AP)
+# Shuji Ito
 #
 2a06:41:c010::/44

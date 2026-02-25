@@ -2,3 +2,4 @@
 # Hyperflex Broadband LLC
 #
 23.143.28.0/24
+154.62.120.0/23
