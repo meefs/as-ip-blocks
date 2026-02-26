@@ -1,8 +1,5 @@
 # as-ip-blocks (formerly asn-ip)
 
-> **📢 New and improved:** This repo has been upgraded with a clearer name (`as-ip-blocks`) and enhanced JSON format. 
-> Check out [MIGRATION.md](MIGRATION.md) for the quick changes needed (plaintext files are unchanged).
-
 ## 🔍 Try it online
 
 Look up any AS or IP prefix at **[Lens by ipverse](https://lens.ipverse.net)** to explore announced prefixes and metadata.
@@ -24,7 +21,7 @@ Git history lets you see how an AS's announcements change over time.
 - **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/as-ip-blocks/releases/latest)
 - **2026-01-08**: AS directories are now removed if no prefixes have been announced in the last 90 days. Historical metadata for removed AS may still be available in [as-metadata](https://github.com/ipverse/as-metadata).
 - **2026-01-05**: Removed `lastAnnounced` field to reduce git delta size. This field is still available in [as-metadata](https://github.com/ipverse/as-metadata).
-- **2026-01-03**: Repository renamed to `as-ip-blocks`, JSON format changed (`subnets` → `prefixes`, metadata nested). See [MIGRATION.md](MIGRATION.md) for details.
+- **2026-01-03**: Repository renamed to `as-ip-blocks`, JSON format changed (`subnets` → `prefixes`, metadata nested).
 - 2025-08-03: Removed opinionated handle cleanup
 - 2023-09-03: Removed PEM certificates from description field
 
