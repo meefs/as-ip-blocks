@@ -1,4 +1,3 @@
 # AS273438 (OLAH-CONNECT)
 # Olah Connect
 #
-45.178.170.0/23

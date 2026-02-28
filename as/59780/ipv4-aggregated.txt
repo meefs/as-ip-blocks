@@ -1,5 +1,5 @@
 # AS59780 (SURFBOXX)
-# SURFBOXX IT-SOLUTIONS GmbH
+# Surfboxx IT-Solutions GmbH
 #
 45.12.116.0/22
 45.135.188.0/22

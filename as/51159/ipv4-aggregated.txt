@@ -1,5 +1,5 @@
 # AS51159 (THINKSYSTEMSUK-ASN)
-# Think BV Limited
+# CT1 Technologies Ltd
 #
 91.142.134.0/24
 91.228.115.0/24

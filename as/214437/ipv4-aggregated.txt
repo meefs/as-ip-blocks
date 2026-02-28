@@ -1,0 +1,4 @@
+# AS214437 (NEXGEN-EU1)
+# NexGen Cloud Ltd
+#
+69.19.142.0/23

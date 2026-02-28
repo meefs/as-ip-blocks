@@ -6,11 +6,11 @@
     "countryCode" : "TZ",
     "country" : "Tanzania",
     "origin" : "authoritative",
-    "category" : "hosting",
+    "category" : "isp",
     "networkRole" : "access_provider"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "154.72.20.0/22" ],
     "ipv6" : [ "2c0f:f6b0::/32" ]
   }
 }
