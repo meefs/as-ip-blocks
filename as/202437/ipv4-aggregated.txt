@@ -2,4 +2,3 @@
 # Heo Jun trading as ParkAppsHouse
 #
 156.228.4.0/24
-156.228.169.0/24

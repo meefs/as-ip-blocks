@@ -7,10 +7,10 @@
     "country" : "Iraq",
     "origin" : "authoritative",
     "category" : "isp",
-    "networkRole" : null
+    "networkRole" : "stub"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [ "185.243.128.0/24" ],
     "ipv6" : [ ]
   }
 }

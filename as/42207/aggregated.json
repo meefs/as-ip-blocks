@@ -6,7 +6,7 @@
     "countryCode" : "SI",
     "country" : "Slovenia",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : "government_admin",
     "networkRole" : "stub"
   },
   "prefixes" : {

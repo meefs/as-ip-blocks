@@ -6,7 +6,7 @@
     "countryCode" : "GF",
     "country" : "French Guiana",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

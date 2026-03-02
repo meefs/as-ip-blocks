@@ -1,4 +1,3 @@
 # AS62200 (ISPMANAGER-AS)
 # JSC Ispmanager
 #
-2a09:f907::/32

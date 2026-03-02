@@ -6,7 +6,7 @@
     "countryCode" : "NZ",
     "country" : "New Zealand",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

@@ -1,12 +1,12 @@
 {
   "asn" : 395237,
   "metadata" : {
-    "handle" : "CENTRIC-INTERNET-SERVICES",
+    "handle" : "CENTRIC-IS",
     "description" : "CIS",
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : null,
     "networkRole" : "stub"
   },
   "prefixes" : {
