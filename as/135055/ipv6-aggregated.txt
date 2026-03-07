@@ -1,4 +1,4 @@
 # AS135055 (RAFINESATELITE-AS-AP)
-# Rafine Satelite
+# Rafin Satellite
 #
 2406:eac0::/32

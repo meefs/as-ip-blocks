@@ -1,5 +1,5 @@
 # AS64073 (VETTA)
-# Vetta Online Ltd
+# VETTA TRADING LIMITED
 #
 14.102.98.0/23
 103.9.40.0/23

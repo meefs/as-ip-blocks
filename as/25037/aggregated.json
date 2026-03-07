@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "DREAMHACK",
     "description": "EFG Sweden AB",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "77.80.128.0/17" ],
+    "ipv6": [ ]
   }
 }

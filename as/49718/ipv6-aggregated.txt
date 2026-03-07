@@ -2,3 +2,4 @@
 # Nizhnevolzhskie Telecommunication Networks Real LLC
 #
 2a06:1301:4003::/48
+2a12:b780::/29

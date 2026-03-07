@@ -1,4 +1,3 @@
 # AS272524 (CONECT-HOST)
 # SB4Host Brasil
 #
-157.254.152.0/24

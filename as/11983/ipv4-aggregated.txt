@@ -1,0 +1,4 @@
+# AS11983 (TIKTOK-USDS)
+# Tiktok U.S. Data Security Inc.
+#
+71.18.40.0/24

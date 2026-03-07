@@ -2,11 +2,11 @@
   "asn": 41086,
   "metadata": {
     "handle": "N-ERGIE-IT-NBG-AS",
-    "description": "N-ERGIE IT GmbH",
+    "description": "N-ERGIE Aktiengesellschaft",
     "countryCode": "DE",
     "country": "Germany",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

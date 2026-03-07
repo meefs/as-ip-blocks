@@ -1,0 +1,4 @@
+# AS11983 (TIKTOK-USDS)
+# Tiktok U.S. Data Security Inc.
+#
+2605:340:f093::/48

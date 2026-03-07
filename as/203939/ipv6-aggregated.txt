@@ -1,4 +1,4 @@
-# AS203939 (MOSAIC-DATA-SERVICES)
+# AS203939 (MOSAIC)
 # Mosaic Data Services Inc.
 #
 2602:f6a7::/36

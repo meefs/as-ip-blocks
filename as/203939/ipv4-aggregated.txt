@@ -1,4 +1,4 @@
-# AS203939 (MOSAIC-DATA-SERVICES)
+# AS203939 (MOSAIC)
 # Mosaic Data Services Inc.
 #
 23.136.116.0/24

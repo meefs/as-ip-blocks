@@ -1,3 +1,4 @@
 # AS35545 (CLOUVIDER-ANYCAST)
 # Clouvider Limited
 #
+178.254.181.0/24
