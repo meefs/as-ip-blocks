@@ -1,4 +1,4 @@
 # AS131653 (CCONNECTED-TW)
-# Cloudbase Network CORP.
+# Cloudbase Connected
 #
 165.101.28.0/23

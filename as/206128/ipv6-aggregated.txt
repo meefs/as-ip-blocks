@@ -1,4 +1,4 @@
 # AS206128 (DIOEZESANE-IT)
-# Dioezese Linz - Katholische Kirche in Oberoesterreich
+# Dioezese Linz
 #
 2001:678:270::/48

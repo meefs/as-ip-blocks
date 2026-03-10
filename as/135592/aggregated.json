@@ -1,14 +1,16 @@
 {
   "asn": 135592,
   "metadata": {
-    "handle": "RESERVED",
-    "description": "APNIC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "SOLAIRE-OLG-ASN",
+    "description": "Solaire Resort & Casino",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "110.235.152.0/24", "203.213.206.0/24" ],
+    "ipv6": [ ]
   }
 }

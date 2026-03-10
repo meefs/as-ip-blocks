@@ -1,4 +1,3 @@
 # AS213542 (BYTEZERO-AS)
 # Daan Jumelet trading as ByteZero VOF
 #
-64.112.98.0/24

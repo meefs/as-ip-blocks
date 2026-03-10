@@ -6,11 +6,11 @@
     "countryCode": "NL",
     "country": "Netherlands",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "education_research",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "203.26.133.0/24" ],
     "ipv6": [ "2a0e:fd45:5000::/47", "2a0e:fd45:5002::/48" ]
   }
 }

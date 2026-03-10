@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "MARMITE",
     "description": "Marmite Sp. z o.o.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "85.219.216.0/24" ],
+    "ipv6": [ ]
   }
 }

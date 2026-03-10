@@ -2,11 +2,11 @@
   "asn": 131653,
   "metadata": {
     "handle": "CCONNECTED-TW",
-    "description": "Cloudbase Network CORP.",
+    "description": "Cloudbase Connected",
     "countryCode": "TW",
     "country": "Taiwan",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,6 +1,7 @@
 # AS214639 (TAKEHOST-AS)
 # Raul Ghita trading as 'Ghita Telekom'
 #
+2a14:7580:b000::/36
 2a14:7583:2900::/40
 2a14:7583:9000::/36
 2a14:7583:fa00::/40
