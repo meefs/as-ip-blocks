@@ -1,6 +1,7 @@
 # AS24141 (DMTNET)
 # Shanghai DMT Information Network cor. LTD.
 #
+202.136.208.0/24
 202.136.212.0/24
 203.176.168.0/24
 203.176.170.0/24

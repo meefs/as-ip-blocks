@@ -1,4 +1,3 @@
 # AS200775 (ROMANOV-AS)
 # Iurie Romanov
 #
-2a10:ab80:3d9::/48

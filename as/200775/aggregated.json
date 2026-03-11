@@ -6,11 +6,11 @@
     "countryCode": "MD",
     "country": "Moldova",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
-    "ipv6": [ "2a10:ab80:3d9::/48" ]
+    "ipv4": [ "185.121.178.0/24" ],
+    "ipv6": [ ]
   }
 }

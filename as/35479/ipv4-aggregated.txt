@@ -2,4 +2,3 @@
 # ActiveBusinessConsult LLC
 #
 185.219.54.0/23
-193.168.128.0/23

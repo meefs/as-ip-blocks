@@ -1,4 +1,4 @@
 # AS202934 (MUNTEANU-AS)
-# Munteanu Cornel Ilarie trading as sincityhosting llc
+# SINCITY HOSTING LLC
 #
 185.205.33.0/24

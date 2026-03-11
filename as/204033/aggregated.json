@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "SARTHUR",
     "description": "Oliver Arthur",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "176.126.127.0/24", "185.20.7.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "asn": 200558,
+  "metadata": {
+    "handle": "CORENET",
+    "description": "Core Network Services FZE",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.117.69.0/24" ],
+    "ipv6": [ ]
+  }
+}

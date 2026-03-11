@@ -1,0 +1,16 @@
+{
+  "asn": 201030,
+  "metadata": {
+    "handle": "HOSTGEB-ASN",
+    "description": "HOSTGEB BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.182.34.0/24", "82.22.4.0/24" ],
+    "ipv6": [ ]
+  }
+}

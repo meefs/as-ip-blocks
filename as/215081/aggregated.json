@@ -2,11 +2,11 @@
   "asn": 215081,
   "metadata": {
     "handle": "ZESTY-ASN",
-    "description": "Cheuk Wang Wu trading as Zesty Technologies",
+    "description": "Cheuk Wang Wu",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,5 +1,5 @@
 # AS211827 (NE-AS1)
-# NIssan Automotive Europe SAS
+# Nissan Automotive Europe SAS
 #
 77.94.225.0/24
 77.94.230.0/23

@@ -1,3 +1,4 @@
 # AS44364 (LVNET-AS)
 # LVNET LTD
 #
+2a00:48a0::/29

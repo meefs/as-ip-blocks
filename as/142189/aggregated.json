@@ -1,0 +1,16 @@
+{
+  "asn": 142189,
+  "metadata": {
+    "handle": "IDNIC-TBA-AS-ID",
+    "description": "PT Teja Bala Abadi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,4 @@
-# AS21334 (ASN-VODAFONE-HU)
+# AS21334 (ASN-ONE-HU)
 # One Hungary Ltd.
 #
 2a01:870::/32

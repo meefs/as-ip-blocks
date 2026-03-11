@@ -1,4 +1,3 @@
 # AS207624 (AS-TDC-CH)
 # Signalhorn AG
 #
-185.65.104.0/24

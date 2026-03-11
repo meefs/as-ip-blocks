@@ -1,0 +1,16 @@
+{
+  "asn": 275635,
+  "metadata": {
+    "handle": "ASN-COM-SERV",
+    "description": "ASN COM E SERV EM TECNOLOGIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:97a0::/32" ]
+  }
+}
