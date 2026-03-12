@@ -6,11 +6,11 @@
     "countryCode": "FR",
     "country": "France",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "159.151.196.0/24", "192.109.146.0/24" ],
     "ipv6": [ "2a07:8145::/36" ]
   }
 }

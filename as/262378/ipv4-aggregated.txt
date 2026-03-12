@@ -2,4 +2,5 @@
 # Compuservice Empreendimentos Ltda
 #
 170.79.192.0/23
+170.79.195.0/24
 177.131.16.0/20

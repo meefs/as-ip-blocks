@@ -1,6 +1,7 @@
 # AS48207 (GLBBULUTTEKNOLOJISI-AS)
 # GLB Bulut Teknolojisi Limited Sirketi
 #
+45.134.26.0/24
 88.218.250.0/24
 138.249.8.0/24
 138.249.20.0/24

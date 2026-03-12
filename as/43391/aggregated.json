@@ -2,11 +2,11 @@
   "asn": 43391,
   "metadata": {
     "handle": "NETDIREKT-AS",
-    "description": "Netdirekt A.S.",
+    "description": "NETDIREKT BILISIM DANISMANLIK ILETISIM HIZMETLERI SANAYI VE TICARET AS",
     "countryCode": "TR",
     "country": "Türkiye",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

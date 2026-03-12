@@ -1,4 +1,4 @@
 # AS28675 (AGSMTEL-AS)
-# AGSM AIM Smart Solutions SRL
+# Magis Smart Srl
 #
 213.171.96.0/19

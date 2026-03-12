@@ -2,4 +2,3 @@
 # Jordanian Experts for Information Security LLC
 #
 89.38.152.0/23
-185.27.118.0/24

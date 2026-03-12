@@ -1,4 +1,5 @@
 # AS206533 (CENTRIXNODES)
 # Elemental Nodes LLC
 #
+104.223.81.0/24
 107.172.136.0/24

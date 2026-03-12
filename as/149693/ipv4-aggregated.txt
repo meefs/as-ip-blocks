@@ -1,5 +1,4 @@
 # AS149693 (IDNIC-DATAMEDIA-AS-ID)
 # PT Jaringan Datamedia Nusantara
 #
-103.116.110.0/24
 103.186.96.0/23

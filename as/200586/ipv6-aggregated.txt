@@ -1,0 +1,4 @@
+# AS200586 (CAKNING-ID)
+# ahmad munir
+#
+2a14:7583:e600::/40

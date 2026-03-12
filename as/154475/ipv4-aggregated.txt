@@ -2,3 +2,4 @@
 # PT Permata Data Nusantara
 #
 144.79.214.0/24
+202.154.12.0/24

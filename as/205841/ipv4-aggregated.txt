@@ -1,5 +1,5 @@
 # AS205841 (INFRACOM-CONNECT-ASN)
-# InfraCom Connect AB
+# Infracom Connect AB
 #
 192.71.47.0/24
 193.183.249.0/24

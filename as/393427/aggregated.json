@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "WIREDTECH",
     "description": "Wired Tech LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "66.93.184.0/21", "66.253.80.0/22", "66.253.88.0/22", "168.222.98.0/23", "168.222.126.0/23" ],
+    "ipv6": [ ]
   }
 }
