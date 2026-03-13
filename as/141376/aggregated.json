@@ -1,16 +1,16 @@
 {
   "asn": 141376,
   "metadata": {
-    "handle": "BRANDER-GROUP-INC",
-    "description": "Brander Group Inc.",
-    "countryCode": "US",
-    "country": "United States",
-    "origin": "inferred",
+    "handle": "IDNIC-SHAFANZA-AS-ID",
+    "description": "PT Shafanza Cahaya Utama",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
-    "ipv6": [ ]
+    "ipv4": [ "163.128.35.0/24" ],
+    "ipv6": [ "2001:df6:cec0::/48" ]
   }
 }

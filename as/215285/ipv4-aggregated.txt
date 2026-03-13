@@ -1,3 +1,4 @@
 # AS215285 (IRHOSTING)
 # Bonyan Sepehr Kasir PJSC
 #
+185.124.173.0/24

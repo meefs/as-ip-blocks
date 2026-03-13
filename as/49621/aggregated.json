@@ -1,12 +1,12 @@
 {
   "asn": 49621,
   "metadata": {
-    "handle": "THINFACTORY",
+    "handle": "COPACO-CLOUD-BACKBONE-BE",
     "description": "Thinfactory N.V",
     "countryCode": "BE",
     "country": "Belgium",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

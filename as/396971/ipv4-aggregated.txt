@@ -1,5 +1,5 @@
-# AS396971 (BRIDGPT-COMM-01)
-# Bridge Point Communication
+# AS396971 (SLIC-ASN-4)
+# Slic Network Solutions Inc
 #
 23.147.24.0/24
 173.242.111.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 6540,
+  "metadata": {
+    "handle": "SAMUEL-COSGROVE",
+    "description": "Samuel Cosgrove",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "172.111.32.0/24" ],
+    "ipv6": [ ]
+  }
+}

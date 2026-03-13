@@ -2,4 +2,4 @@
 # Denson Technologies
 #
 2606:84c0:fffd::/48
-2606:84c0:fffe::/47
+2606:84c0:ffff::/48

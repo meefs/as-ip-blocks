@@ -1,0 +1,16 @@
+{
+  "asn": 133323,
+  "metadata": {
+    "handle": "AYANNETWORK-AS-AP",
+    "description": "Ayan Network",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.252.1.0/24" ],
+    "ipv6": [ ]
+  }
+}

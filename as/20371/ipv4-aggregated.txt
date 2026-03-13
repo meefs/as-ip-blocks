@@ -2,4 +2,3 @@
 # Apsis Communications Inc
 #
 199.202.216.0/24
-207.236.140.0/24

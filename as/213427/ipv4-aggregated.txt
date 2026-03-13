@@ -1,5 +1,5 @@
 # AS213427 (LETTERMINT)
-# Bjarn Bronsveld trading as Lettermint V.O.F.
+# Lettermint B.V.
 #
 155.254.62.0/24
 212.74.55.0/24

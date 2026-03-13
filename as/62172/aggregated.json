@@ -1,14 +1,16 @@
 {
   "asn": 62172,
   "metadata": {
-    "handle": "NEONIX",
-    "description": "Alexander Fox",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "AIRBYTES",
+    "description": "AIRBYTES COMMUNICATIONS Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a03:f987::/32" ]
   }
 }

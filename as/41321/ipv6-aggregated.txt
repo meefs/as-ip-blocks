@@ -1,4 +1,3 @@
 # AS41321 (FUJITSU-TS-SOP-AS)
 # Fsas Technologies GmbH
 #
-2a00:d340:ffe0::/48

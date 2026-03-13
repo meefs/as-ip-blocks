@@ -1,12 +1,12 @@
 {
   "asn": 54634,
   "metadata": {
-    "handle": "RPMWIN-1",
-    "description": "RPM WIRELESS INTERNET LLC",
+    "handle": "SNAP-INTERNET",
+    "description": "Snap Internet LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -2,11 +2,11 @@
   "asn": 12655,
   "metadata": {
     "handle": "AS12655",
-    "description": "Telefonbuch Verlag Hans Mueller GmbH & Co. KG",
+    "description": "Sellwerk Verwaltungs GmbH",
     "countryCode": "DE",
     "country": "Germany",
     "origin": "authoritative",
-    "category": "business",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

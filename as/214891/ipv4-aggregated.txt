@@ -2,4 +2,5 @@
 # Denis Aleksandrovich Iakovlev
 #
 95.85.240.0/24
+138.124.254.0/23
 144.31.190.0/24

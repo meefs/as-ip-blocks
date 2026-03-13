@@ -2,3 +2,4 @@
 # Furry Network Services
 #
 2a06:9801:17::/48
+2a06:9801:f0::/48

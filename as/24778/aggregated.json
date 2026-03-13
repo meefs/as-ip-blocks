@@ -2,11 +2,11 @@
   "asn": 24778,
   "metadata": {
     "handle": "DATAPIPE-UK",
-    "description": "Datapipe Europe Ltd",
+    "description": "Rackspace Ltd.",
     "countryCode": "GB",
     "country": "United Kingdom",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {
