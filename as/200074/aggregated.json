@@ -1,0 +1,16 @@
+{
+  "asn": 200074,
+  "metadata": {
+    "handle": "ASSWH",
+    "description": "SN SOLUTIONS LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.247.138.0/24" ],
+    "ipv6": [ ]
+  }
+}

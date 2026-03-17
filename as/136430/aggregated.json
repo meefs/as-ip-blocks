@@ -7,10 +7,10 @@
     "country": "Australia",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "103.87.203.0/24" ],
     "ipv6": [ ]
   }
 }

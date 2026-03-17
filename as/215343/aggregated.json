@@ -6,11 +6,11 @@
     "countryCode": "KR",
     "country": "South Korea",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ "2.59.252.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ "2602:f7bc:69::/48" ]
   }
 }

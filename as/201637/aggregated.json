@@ -2,11 +2,11 @@
   "asn": 201637,
   "metadata": {
     "handle": "BARTNET-AS",
-    "description": "Tomasz Naruszewicz trading as BARTNET NARUSZEWICZ I KRAWCZUN sp.j.",
+    "description": "Tomasz Naruszewicz",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

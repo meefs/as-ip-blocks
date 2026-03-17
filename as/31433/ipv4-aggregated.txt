@@ -1,4 +1,4 @@
 # AS31433 (BAKKERGROEP)
-# Stef Holding Zeewolde B.V.
+# STEF Nederland B.V.
 #
 185.100.192.0/22

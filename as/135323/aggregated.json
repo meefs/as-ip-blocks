@@ -1,13 +1,13 @@
 {
   "asn": 135323,
   "metadata": {
-    "handle": "PT-INTERNET-MADJU",
-    "description": "PT Internet Madju Abad Milenindo",
-    "countryCode": "ID",
-    "country": "Indonesia",
-    "origin": "inferred",
-    "category": null,
-    "networkRole": null
+    "handle": "SENTINEL365-AS-AP",
+    "description": "Sentinel 365 Pty Ltd",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "103.215.128.0/22", "202.58.233.0/24" ],

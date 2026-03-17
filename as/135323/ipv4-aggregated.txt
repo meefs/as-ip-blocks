@@ -1,5 +1,5 @@
-# AS135323 (PT-INTERNET-MADJU)
-# PT Internet Madju Abad Milenindo
+# AS135323 (SENTINEL365-AS-AP)
+# Sentinel 365 Pty Ltd
 #
 103.215.128.0/22
 202.58.233.0/24

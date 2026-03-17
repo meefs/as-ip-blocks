@@ -1,4 +1,3 @@
 # AS3563 (PILOT-ASN)
 # Pilot Network Services Inc
 #
-186.65.72.0/21

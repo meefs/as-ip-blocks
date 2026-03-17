@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "VTELECOM",
     "description": "VIRTUAL TELECOM SP. Z O.O.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a02:2928::/32" ]
   }
 }

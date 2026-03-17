@@ -1,3 +1,4 @@
 # AS402047 (SMARTWAVE-BROADBAND-AS)
 # SmartWave Broadband LLC
 #
+185.150.136.0/24
