@@ -1,4 +1,4 @@
 # AS200415 (NFORCE-US)
 # NForce Entertainment B.V.
 #
-194.180.32.0/24
+194.180.32.0/23

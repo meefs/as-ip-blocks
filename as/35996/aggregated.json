@@ -1,12 +1,12 @@
 {
   "asn": 35996,
   "metadata": {
-    "handle": "SV1-ENT-DC-VA1",
-    "description": "CentralColo LLC",
+    "handle": "HCDL-SVA1-DATA-CENTER",
+    "description": "H5 Data Centers",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,0 +1,4 @@
+# AS402268 (YUGS-2)
+# YUGS Networks Ltd.
+#
+157.254.130.0/24

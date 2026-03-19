@@ -1,4 +1,4 @@
 # AS266329 (TVNET-CABOFRIENSE-PROCESSAMENTO)
-# TvNet Cabofriense Processamento de Dados
+# VIVA PROV LTDA
 #
 170.238.146.0/23

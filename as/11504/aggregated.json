@@ -2,11 +2,11 @@
   "asn": 11504,
   "metadata": {
     "handle": "QUMULUSAI",
-    "description": "The Cloud Minders Inc.",
+    "description": "QumulusAI",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

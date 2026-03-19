@@ -1,4 +1,4 @@
-# AS3921 (AGNOGE)
+# AS3921 (GE-AEROSPACE-1)
 # General Electric Company
 #
 192.35.34.0/24

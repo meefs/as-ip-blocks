@@ -1,4 +1,4 @@
-# AS4366 (GE-AMC)
+# AS4366 (GE-AEROSPACE-2)
 # General Electric Company
 #
 12.47.106.0/23

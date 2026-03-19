@@ -1,12 +1,12 @@
 {
   "asn": 80,
   "metadata": {
-    "handle": "GE-CRD",
-    "description": "General Electric Company",
+    "handle": "GEV-AS80",
+    "description": "GE Vernova",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,5 +1,5 @@
-# AS80 (GE-CRD)
-# General Electric Company
+# AS80 (GEV-AS80)
+# GE Vernova
 #
 8.23.90.0/24
 8.29.116.0/24

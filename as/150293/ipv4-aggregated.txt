@@ -1,0 +1,7 @@
+# AS150293 (CDS-AS-AP)
+# Capitalonline Data Service (HK) Co. Limited
+#
+146.103.22.0/24
+147.79.7.0/24
+155.117.4.0/24
+167.148.136.0/24

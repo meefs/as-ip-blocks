@@ -1,14 +1,16 @@
 {
   "asn": 33516,
   "metadata": {
-    "handle": "OMG-NA-636",
-    "description": "The Ogilvy Group, Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "WPP-ET-CAMPUS-3WTC",
+    "description": "The Ogilvy Group LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "199.229.14.0/23" ],
+    "ipv6": [ ]
   }
 }

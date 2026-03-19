@@ -1,0 +1,4 @@
+# AS401764 (PURDUE-NW)
+# Purdue University
+#
+192.5.102.0/24

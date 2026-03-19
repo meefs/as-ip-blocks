@@ -1,4 +1,3 @@
 # AS141450 (CONNECT-ICT-AS-AP)
 # Connect Communication
 #
-39.34.160.0/23

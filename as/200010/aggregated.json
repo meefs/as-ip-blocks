@@ -2,7 +2,7 @@
   "asn": 200010,
   "metadata": {
     "handle": "OLFE",
-    "description": "AE Olfe Teknoloji ve Ticaret Limited Sirketi",
+    "description": "Olfe Veri Merkezi Anonim Sirketi",
     "countryCode": "TR",
     "country": "Türkiye",
     "origin": "authoritative",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "95.214.174.0/24" ],
+    "ipv4": [ "45.139.198.0/24", "95.214.174.0/24" ],
     "ipv6": [ ]
   }
 }

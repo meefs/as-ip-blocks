@@ -2,5 +2,6 @@
 # Zambia Telecommunications Company Ltd aka ZAMTEL
 #
 41.72.96.0/19
+102.67.160.0/22
 165.56.0.0/13
 196.46.192.0/19
