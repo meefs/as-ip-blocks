@@ -2,9 +2,9 @@
   "asn": 42065,
   "metadata": {
     "handle": "ETELECOM-AS",
-    "description": "AO ElectronTelecom",
-    "countryCode": "RU",
-    "country": "Russia",
+    "description": "Global Network Management Inc",
+    "countryCode": "AG",
+    "country": "Antigua & Barbuda",
     "origin": "authoritative",
     "category": "isp",
     "networkRole": "stub"

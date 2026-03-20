@@ -2,3 +2,4 @@
 # Infininet Global Pty Ltd
 #
 2401:2060:b000::/48
+2401:2060:b003::/48

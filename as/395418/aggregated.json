@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ARIN-CHA",
     "description": "ARIN Operations",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "199.187.216.0/21" ],
+    "ipv6": [ "2001:500:30::/48" ]
   }
 }

@@ -6,11 +6,11 @@
     "countryCode": "PK",
     "country": "Pakistan",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "39.34.160.0/23" ],
     "ipv6": [ "2406:d00:160::/47" ]
   }
 }

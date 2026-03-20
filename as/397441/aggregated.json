@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ORBITAL",
     "description": "Nebula Mods",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "166.88.20.0/24" ],
+    "ipv6": [ ]
   }
 }

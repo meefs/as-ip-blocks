@@ -1,5 +1,5 @@
 # AS60499 (LINX)
-# Opt1mize Technologies Limited
+# QOS LAB FZE
 #
 185.7.173.0/24
 185.28.13.0/24

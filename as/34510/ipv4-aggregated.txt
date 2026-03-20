@@ -1,5 +1,5 @@
 # AS34510 (AFONE-AS)
-# Afone Participations SAS
+# Noelse France SAS
 #
 46.255.48.0/21
 77.74.240.0/21

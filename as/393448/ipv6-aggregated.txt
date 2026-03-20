@@ -2,3 +2,4 @@
 # Liberally Network LLC
 #
 2001:df3:ed40::/48
+2602:f96c:de::/48

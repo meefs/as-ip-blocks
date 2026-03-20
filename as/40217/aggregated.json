@@ -1,12 +1,12 @@
 {
   "asn": 40217,
   "metadata": {
-    "handle": "DACSNX-ISP",
+    "handle": "DACSNX-LEGACY",
     "description": "DACS-NX",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

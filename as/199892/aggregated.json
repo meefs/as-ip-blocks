@@ -1,0 +1,16 @@
+{
+  "asn": 199892,
+  "metadata": {
+    "handle": "AKMAL-H",
+    "description": "Muhammad Akmal Hazim Bin Hafizul Rasydan",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:224::/48" ]
+  }
+}

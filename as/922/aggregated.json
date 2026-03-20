@@ -1,10 +1,10 @@
 {
   "asn": 922,
   "metadata": {
-    "handle": "GOCODEIT-CORP",
-    "description": "GoCodeIT Inc",
-    "countryCode": "CA",
-    "country": "Canada",
+    "handle": "VERCEL-01",
+    "description": "Vercel Inc",
+    "countryCode": "US",
+    "country": "United States",
     "origin": "authoritative",
     "category": "business",
     "networkRole": "stub"

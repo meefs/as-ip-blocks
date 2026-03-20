@@ -2,3 +2,4 @@
 # GmhostGrupp OU
 #
 2a0e:a840::/47
+2a0e:a840:20::/48
