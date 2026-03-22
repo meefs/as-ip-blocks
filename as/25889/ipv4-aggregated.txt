@@ -1,4 +1,4 @@
 # AS25889 (BXS-NET-AS)
-# BancorpSouth Inc.
+# Huntington Bancshares Inc.
 #
 74.120.88.0/22

@@ -2,3 +2,4 @@
 # Sandro Bolliger trading as Bolliger Network Solutions
 #
 2a06:8a02::/32
+2a0e:b580::/29

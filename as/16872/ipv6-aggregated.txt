@@ -1,3 +1,3 @@
-# AS16872 (MMDS-OKC)
-# Meridian Data Systems
+# AS16872 (PIKE-EXTERNAL-BGP-RAL)
+# Pike Enterprises LLC
 #
