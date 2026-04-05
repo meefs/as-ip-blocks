@@ -1,16 +1,16 @@
 {
-  "asn": 36168,
+  "asn": 401748,
   "metadata": {
-    "handle": "ASSURED-NETWORKS-DEV",
-    "description": "Assured Networks",
+    "handle": "ASRINFOPRO-LLC-INFRA",
+    "description": "ASR INFOPRO LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "204.154.109.0/24" ],
     "ipv6": [ ]
   }
 }

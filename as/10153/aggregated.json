@@ -2,13 +2,15 @@
   "asn": 10153,
   "metadata": {
     "handle": "YZUCRC-NET-AP",
-    "description": "GEEK NETWORKS PTY LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "description": "Yuan Ze University Communications Research Center Network",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2406:9dc0:1010::/48" ]
   }
 }

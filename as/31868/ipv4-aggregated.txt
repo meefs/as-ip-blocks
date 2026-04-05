@@ -1,0 +1,4 @@
+# AS31868 (MEGANET-CAPE)
+# Meganet Communications
+#
+216.129.128.0/20

@@ -1,16 +1,16 @@
 {
-  "asn": 33179,
+  "asn": 402147,
   "metadata": {
-    "handle": "TWO-MONKEYS",
-    "description": "Two Monkeys LLC",
+    "handle": "FOS-AS-2026",
+    "description": "Fosdick Fulfillment Corporation",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "206.197.49.0/24" ],
     "ipv6": [ ]
   }
 }

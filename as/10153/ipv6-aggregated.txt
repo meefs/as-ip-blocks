@@ -1,3 +1,4 @@
 # AS10153 (YZUCRC-NET-AP)
-# GEEK NETWORKS PTY LIMITED
+# Yuan Ze University Communications Research Center Network
 #
+2406:9dc0:1010::/48

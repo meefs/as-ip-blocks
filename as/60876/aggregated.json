@@ -1,14 +1,16 @@
 {
   "asn": 60876,
   "metadata": {
-    "handle": "GIGABIT-DK",
+    "handle": "CAPEXCONNECT-DK",
     "description": "Capexconnect ApS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "85.204.132.0/23", "85.204.136.0/23", "85.204.194.0/23", "185.24.168.0/22", "185.166.120.0/22", "195.192.248.0/23", "212.237.96.0/20" ],
+    "ipv6": [ ]
   }
 }

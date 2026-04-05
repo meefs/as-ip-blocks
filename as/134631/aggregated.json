@@ -1,14 +1,16 @@
 {
   "asn": 134631,
   "metadata": {
-    "handle": "WASANTARA-ID",
+    "handle": "WASANTARA-AS-ID",
     "description": "PT Bhakti Wasantara Net",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "202.159.64.0/19" ],
+    "ipv6": [ ]
   }
 }
