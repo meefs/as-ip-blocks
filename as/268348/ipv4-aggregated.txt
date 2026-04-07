@@ -1,3 +1,4 @@
 # AS268348 (NETWORK-INTERNET-SERVICO)
 # Network Internet Serviço Provedor
 #
+45.239.0.0/22

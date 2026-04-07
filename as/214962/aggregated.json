@@ -6,11 +6,11 @@
     "countryCode": "MY",
     "country": "Malaysia",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a13:a5c7:2000::/48", "2a13:a5c7:2003::/48" ]
+    "ipv6": [ ]
   }
 }

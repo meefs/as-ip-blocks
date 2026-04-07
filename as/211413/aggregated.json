@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "SKY-KALAK-NET",
     "description": "Regxa Company for Information Technology Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "181.215.39.0/24" ],
+    "ipv6": [ ]
   }
 }

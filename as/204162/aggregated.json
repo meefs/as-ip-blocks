@@ -6,11 +6,11 @@
     "countryCode": "AT",
     "country": "Austria",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "150.251.128.0/24" ],
     "ipv6": [ "2001:678:1124::/48" ]
   }
 }

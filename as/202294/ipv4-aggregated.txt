@@ -1,7 +1,6 @@
 # AS202294 (NETLOJIK-BT)
 # Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi
 #
-31.56.87.0/24
 31.58.244.0/24
 155.103.248.0/24
 185.227.72.0/23

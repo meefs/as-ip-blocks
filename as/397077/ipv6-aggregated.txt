@@ -2,5 +2,4 @@
 # Sony Interactive Entertainment LLC.
 #
 2620:106:7005::/48
-2620:106:700a::/48
 2a02:5400:87::/48

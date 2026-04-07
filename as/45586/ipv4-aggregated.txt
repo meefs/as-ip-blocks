@@ -2,3 +2,4 @@
 # Auckland Grammar School
 #
 161.248.127.0/24
+203.171.223.0/24

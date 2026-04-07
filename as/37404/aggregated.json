@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "UNIVERSITY-OF-IBADAN",
     "description": "University of Ibadan",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "41.78.8.0/22" ],
+    "ipv6": [ ]
   }
 }
