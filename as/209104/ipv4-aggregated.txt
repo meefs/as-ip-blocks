@@ -1,4 +1,6 @@
 # AS209104 (LAPROCESSING)
 # Laprocessing Limited
 #
+181.215.193.0/24
+191.101.29.0/24
 216.236.54.0/24

@@ -1,4 +1,4 @@
 # AS198822 (PL-KULCZYKHOLDING-AS)
-# Krucza Inwestycje spolka z o.o.
+# KI NEXT SPOLKA Z O. O.
 #
 195.182.49.0/24

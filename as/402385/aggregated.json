@@ -1,13 +1,13 @@
 {
   "asn": 402385,
   "metadata": {
-    "handle": "AS402385",
-    "description": "Unknown AS 402385",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "handle": "SPICER-NETWORKS",
+    "description": "Spicer Networks LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],

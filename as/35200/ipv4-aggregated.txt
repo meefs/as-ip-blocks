@@ -1,4 +1,4 @@
-# AS35200 (ITALK-AS)
-# iTalk Affliate Telecommunications Ltd
+# AS35200 (TRANSITX-LTD)
+# TRANSITX LTD
 #
 176.123.62.0/24

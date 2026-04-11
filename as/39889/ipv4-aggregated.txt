@@ -1,5 +1,5 @@
 # AS39889 (DT-AS)
-# High Sec Hosting HSDC AB
+# Fredrik Holmqvist
 #
 185.173.220.0/22
 195.189.26.0/23

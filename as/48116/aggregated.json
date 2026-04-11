@@ -2,11 +2,11 @@
   "asn": 48116,
   "metadata": {
     "handle": "HIGHSEC-AS",
-    "description": "High Sec Hosting HSDC AB",
+    "description": "Fredrik Holmqvist",
     "countryCode": "SE",
     "country": "Sweden",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

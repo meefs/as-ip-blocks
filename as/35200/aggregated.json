@@ -1,12 +1,12 @@
 {
   "asn": 35200,
   "metadata": {
-    "handle": "ITALK-AS",
-    "description": "iTalk Affliate Telecommunications Ltd",
+    "handle": "TRANSITX-LTD",
+    "description": "TRANSITX LTD",
     "countryCode": "GB",
     "country": "United Kingdom",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

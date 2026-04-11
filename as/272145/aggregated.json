@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "RDNP-SOCIEDAD-RESPONSABILIDAD",
     "description": "R.D.N.P. SOCIEDAD DE RESPONSABILIDAD LIMITADA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "149.107.192.0/24" ],
+    "ipv6": [ ]
   }
 }

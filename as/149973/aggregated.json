@@ -1,14 +1,16 @@
 {
   "asn": 149973,
   "metadata": {
-    "handle": "IDNIC-GOSYEN-ID",
+    "handle": "IDNIC-GOSYEN-AS-ID",
     "description": "PT Goysen Solusi Teknologi",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.149.228.0/24" ],
+    "ipv6": [ ]
   }
 }

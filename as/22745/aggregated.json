@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "V-TAL",
     "description": "V tal",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "200.152.128.0/19" ],
+    "ipv6": [ ]
   }
 }

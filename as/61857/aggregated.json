@@ -10,7 +10,7 @@
     "networkRole": null
   },
   "prefixes": {
-    "ipv4": [ "206.0.151.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ ]
   }
 }

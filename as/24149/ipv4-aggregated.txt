@@ -2,3 +2,4 @@
 # Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 #
 150.242.158.0/23
+203.119.82.0/24

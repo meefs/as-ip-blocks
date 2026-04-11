@@ -1,5 +1,5 @@
 # AS39310 (NITRONET)
-# Nitronet Sp. z o.o.
+# Nitronet sp. z o.o.
 #
 79.98.144.0/21
 185.56.188.0/24
