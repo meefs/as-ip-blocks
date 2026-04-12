@@ -1,4 +1,3 @@
 # AS401770 (OMNIVERY-US)
 # Omnivery
 #
-103.65.228.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 214059,
+  "metadata": {
+    "handle": "CZIMER-KFT",
+    "description": "Czimer Kft",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a09:7ac1:a::/48" ]
+  }
+}

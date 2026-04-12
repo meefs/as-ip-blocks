@@ -1,3 +1,4 @@
 # AS215538 (GIVAUDAN-INTERNATIONAL-SA)
 # Givaudan International SA
 #
+193.58.242.0/24

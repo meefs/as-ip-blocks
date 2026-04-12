@@ -1,4 +1,4 @@
 # AS401600 (SCN-RESEARCH)
-# sc Network
+# Ntrix Infrastructure
 #
 2602:f765:e00::/40

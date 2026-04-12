@@ -1,0 +1,16 @@
+{
+  "asn": 199592,
+  "metadata": {
+    "handle": "WAHYU",
+    "description": "WAHYU",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.22.205.0/24" ],
+    "ipv6": [ ]
+  }
+}

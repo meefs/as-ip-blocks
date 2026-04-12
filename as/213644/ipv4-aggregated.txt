@@ -1,5 +1,4 @@
 # AS213644 (ISPLC)
 # Iranian Server Processing Limited Liability Company
 #
-178.239.150.0/24
 217.60.236.0/24

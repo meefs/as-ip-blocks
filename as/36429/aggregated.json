@@ -1,8 +1,8 @@
 {
-  "asn": 6118,
+  "asn": 36429,
   "metadata": {
-    "handle": "MCCLATCHY-CORP",
-    "description": "The McClatchy Company LLC",
+    "handle": "CHARTER-36429-NA",
+    "description": "Charter Communications LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "47.1.0.0/16", "47.2.0.0/16" ],
     "ipv6": [ ]
   }
 }
