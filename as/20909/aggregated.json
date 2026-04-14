@@ -2,11 +2,11 @@
   "asn": 20909,
   "metadata": {
     "handle": "CONTIUM-AS",
-    "description": "UNITY S.A.",
+    "description": "UNIVIO Sp. z o.o.",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

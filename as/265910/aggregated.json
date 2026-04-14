@@ -6,11 +6,11 @@
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "131.196.70.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ "2801:80:1d20::/48" ]
   }
 }

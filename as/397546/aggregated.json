@@ -6,11 +6,11 @@
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "67.210.0.0/22", "162.249.184.0/22", "192.122.192.0/21" ],
+    "ipv4": [ ],
     "ipv6": [ "2602:fde1::/44" ]
   }
 }

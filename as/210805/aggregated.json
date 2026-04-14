@@ -2,9 +2,9 @@
   "asn": 210805,
   "metadata": {
     "handle": "OPENINFRA-ISP-PRODUCTION-UK",
-    "description": "Open Infra ISP Production International AB",
-    "countryCode": "SE",
-    "country": "Sweden",
+    "description": "Open Infra ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
     "origin": "authoritative",
     "category": "isp",
     "networkRole": "stub"

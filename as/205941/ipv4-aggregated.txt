@@ -1,4 +1,3 @@
 # AS205941 (LSG)
 # Lungu Stefan Gabriel
 #
-198.195.143.0/24

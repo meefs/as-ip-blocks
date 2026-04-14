@@ -1,5 +1,3 @@
 # AS399067 (IGNITE-ALLIANCE-CORP)
 # Ignite Alliance Corp.
 #
-23.170.16.0/24
-204.107.14.0/23

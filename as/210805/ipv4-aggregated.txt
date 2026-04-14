@@ -1,5 +1,5 @@
 # AS210805 (OPENINFRA-ISP-PRODUCTION-UK)
-# Open Infra ISP Production International AB
+# Open Infra ltd
 #
 46.252.6.0/24
 82.22.116.0/23

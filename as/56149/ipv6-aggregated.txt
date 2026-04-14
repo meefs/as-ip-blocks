@@ -1,3 +1,4 @@
 # AS56149 (INCOM-AS-VN)
 # Cong ty CP Truyen thong quoc te Incom
 #
+2001:df5:8a00::/48

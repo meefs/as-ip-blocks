@@ -1,5 +1,5 @@
 # AS57099 (BCL-AS)
-# Boundless Networks Limited
+# Quickline Communications Limited
 #
 5.133.172.0/22
 46.231.8.0/21

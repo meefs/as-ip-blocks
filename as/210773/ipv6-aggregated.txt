@@ -1,4 +1,4 @@
-# AS210773 (XINYU-NETWORK)
-# Xinyu Chen
+# AS210773 (NEKOPIXEL-NETWORK)
+# Yujie Zhao
 #
 2a14:67c3:888::/48
