@@ -1,4 +1,6 @@
 # AS17433 (HNSL-AS-AP)
 # Hytron Network Services Limited
 #
+38.150.12.0/22
+144.225.76.0/23
 195.58.145.0/24

@@ -6,11 +6,11 @@
     "countryCode": "RO",
     "country": "Romania",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a07:22c1:4::/48" ]
+    "ipv6": [ ]
   }
 }

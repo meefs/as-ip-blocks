@@ -2,11 +2,11 @@
   "asn": 34857,
   "metadata": {
     "handle": "T-VARTAI-AS",
-    "description": "SPLIUS UAB",
+    "description": "Telekomunikaciju vartai UAB",
     "countryCode": "LT",
     "country": "Lithuania",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

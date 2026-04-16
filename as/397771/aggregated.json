@@ -1,14 +1,16 @@
 {
   "asn": 397771,
   "metadata": {
-    "handle": "HHRES-AS01",
-    "description": "Hammerhead Resources Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "WR-AS01",
+    "description": "Whitecap Resources Inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "150.107.124.0/24", "216.24.63.0/24" ],
+    "ipv6": [ ]
   }
 }

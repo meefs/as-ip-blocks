@@ -1,4 +1,4 @@
 # AS23351 (ANSYSNH)
-# Ansys Inc. - Lebanon NH
+# Synopsys Inc.
 #
 204.10.84.0/22

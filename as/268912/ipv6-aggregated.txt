@@ -2,3 +2,4 @@
 # Escorpiao Telecom comercio e serviços de internet
 #
 2804:5c80:2000::/35
+2804:5c80:4000::/36

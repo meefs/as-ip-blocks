@@ -1,0 +1,16 @@
+{
+  "asn": 211270,
+  "metadata": {
+    "handle": "VEZARYS-AS",
+    "description": "Golitsyn Valeriy Valerevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "186.246.38.0/23" ],
+    "ipv6": [ ]
+  }
+}
