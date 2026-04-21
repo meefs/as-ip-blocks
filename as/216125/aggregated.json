@@ -2,11 +2,11 @@
   "asn": 216125,
   "metadata": {
     "handle": "AEAV",
-    "description": "Avaye Etminan Asset Management Co",
+    "description": "Avaye Etminan Asset Management PJSC",
     "countryCode": "IR",
     "country": "Iran",
     "origin": "authoritative",
-    "category": null,
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

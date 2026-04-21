@@ -2,11 +2,11 @@
   "asn": 34521,
   "metadata": {
     "handle": "ATOS-SK-AS",
-    "description": "Atos IT Solutions and Services s.r.o.",
+    "description": "Atos Slovakia s.r.o.",
     "countryCode": "SK",
     "country": "Slovakia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

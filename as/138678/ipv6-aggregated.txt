@@ -1,4 +1,3 @@
 # AS138678 (GTDC-AS-AP)
 # Grandbo Technology Development Corporation
 #
-2001:df1:a480::/48

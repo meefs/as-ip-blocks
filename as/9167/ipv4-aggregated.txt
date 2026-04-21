@@ -1,4 +1,4 @@
 # AS9167 (WEBPARTNER)
-# Telia Company AB
+# Norlys Digital A/S
 #
 194.126.250.0/24

@@ -2,11 +2,11 @@
   "asn": 216086,
   "metadata": {
     "handle": "ARTNET",
-    "description": "ARTNET",
+    "description": "ART-NET LLC",
     "countryCode": "AM",
     "country": "Armenia",
     "origin": "authoritative",
-    "category": null,
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -2,9 +2,9 @@
   "asn": 3308,
   "metadata": {
     "handle": "TELIANET-DENMARK",
-    "description": "Telia Company AB",
-    "countryCode": "SE",
-    "country": "Sweden",
+    "description": "Norlys Digital A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
     "origin": "authoritative",
     "category": "isp",
     "networkRole": "midsize_transit"

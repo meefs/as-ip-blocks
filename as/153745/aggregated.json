@@ -1,0 +1,16 @@
+{
+  "asn": 153745,
+  "metadata": {
+    "handle": "PSMS-AS-AP",
+    "description": "Sayagi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.183.243.0/24" ],
+    "ipv6": [ ]
+  }
+}

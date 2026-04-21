@@ -2,3 +2,4 @@
 # PT Norlec Telekomunikasi Indonesia
 #
 43.240.225.0/24
+43.240.226.0/24
