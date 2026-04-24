@@ -1,3 +1,4 @@
-# AS147297 (RESERVED)
-# APNIC ASN block
+# AS147297 (MULTI-AS-AP)
+# Multi Broadband (Private) Limited
 #
+2402:3be0::/32

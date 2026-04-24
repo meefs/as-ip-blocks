@@ -1,12 +1,12 @@
 {
   "asn": 14477,
   "metadata": {
-    "handle": "FLTG",
-    "description": "FirstLight Fiber Inc.",
+    "handle": "FLASN-14477",
+    "description": "FirstLight Networks LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

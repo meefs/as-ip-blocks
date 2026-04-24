@@ -1,3 +1,0 @@
-# AS55138 (PBXSYSTEMS)
-# PBX Systems
-#

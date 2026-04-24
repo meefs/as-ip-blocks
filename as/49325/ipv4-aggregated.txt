@@ -1,5 +1,5 @@
 # AS49325 (STAVSET-AS)
-# Kvartal Plus Ltd
+# OOO SET
 #
 46.174.112.0/21
 91.232.202.0/23

@@ -1,14 +1,16 @@
 {
   "asn": 147297,
   "metadata": {
-    "handle": "RESERVED",
-    "description": "APNIC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "MULTI-AS-AP",
+    "description": "Multi Broadband (Private) Limited",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "144.79.46.0/23" ],
+    "ipv6": [ "2402:3be0::/32" ]
   }
 }

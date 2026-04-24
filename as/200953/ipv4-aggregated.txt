@@ -1,5 +1,5 @@
 # AS200953 (ZT-VLAD-AS)
-# Zelenaya Tochka Vladivistok LLC
+# OOO SET
 #
 81.177.185.0/24
 81.177.193.0/24

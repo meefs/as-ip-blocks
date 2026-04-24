@@ -1,4 +1,4 @@
-# AS14477 (FLTG)
-# FirstLight Fiber Inc.
+# AS14477 (FLASN-14477)
+# FirstLight Networks LLC
 #
 2604:900::/32

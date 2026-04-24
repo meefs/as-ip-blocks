@@ -2,15 +2,15 @@
   "asn": 401327,
   "metadata": {
     "handle": "AS401327",
-    "description": "77997 Newfoundland and Labrador Inc.",
+    "description": "AS30265",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2602:f86e:c00::/48" ]
+    "ipv6": [ ]
   }
 }

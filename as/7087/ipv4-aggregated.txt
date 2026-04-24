@@ -2,3 +2,4 @@
 # Administración de Redes Colomsat S.A.
 #
 200.13.192.0/19
+200.34.30.0/24

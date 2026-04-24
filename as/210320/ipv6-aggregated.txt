@@ -1,4 +1,4 @@
-# AS210320 (FEXXIO-CREATIVE)
+# AS210320 (FEXXIO-DIGITAL)
 # Cedric Hoogendoorn
 #
 2001:67c:d4::/48

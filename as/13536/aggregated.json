@@ -1,12 +1,12 @@
 {
   "asn": 13536,
   "metadata": {
-    "handle": "TVC-AS1",
-    "description": "FirstLight Fiber Inc.",
+    "handle": "FLASN-13536",
+    "description": "FirstLight Networks LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "major_transit"
   },
   "prefixes": {

@@ -1,5 +1,4 @@
 # AS274834 (RVK-PROVEDOR-INTERNET)
 # RVK Provedor de Internet Ltda - ME
 #
-201.87.237.0/24
-201.87.238.0/23
+201.87.236.0/22

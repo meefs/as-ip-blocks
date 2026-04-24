@@ -1,12 +1,12 @@
 {
   "asn": 5738,
   "metadata": {
-    "handle": "SOVER-ASN",
-    "description": "FirstLight Fiber Inc.",
+    "handle": "FLASN-5738",
+    "description": "FirstLight Networks LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

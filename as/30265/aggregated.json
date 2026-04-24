@@ -2,11 +2,11 @@
   "asn": 30265,
   "metadata": {
     "handle": "AS30265",
-    "description": "77997 Newfoundland and Labrador Inc.",
+    "description": "AS30265",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

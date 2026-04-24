@@ -1,5 +1,5 @@
-# AS5738 (SOVER-ASN)
-# FirstLight Fiber Inc.
+# AS5738 (FLASN-5738)
+# FirstLight Networks LLC
 #
 64.17.96.0/19
 72.15.0.0/19

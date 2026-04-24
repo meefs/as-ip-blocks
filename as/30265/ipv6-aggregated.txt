@@ -1,4 +1,4 @@
 # AS30265 (AS30265)
-# 77997 Newfoundland and Labrador Inc.
+# AS30265
 #
 2602:f86e::/38

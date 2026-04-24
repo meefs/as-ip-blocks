@@ -1,12 +1,12 @@
 {
   "asn": 402026,
   "metadata": {
-    "handle": "AVIRM-SYSTEMS-INC",
+    "handle": "ASI-BROADBAND",
     "description": "Avirm Systems Inc.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

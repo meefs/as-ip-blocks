@@ -1,12 +1,12 @@
 {
   "asn": 62929,
   "metadata": {
-    "handle": "186-ASN",
-    "description": "FirstLight Fiber Inc.",
+    "handle": "FLASN-62929",
+    "description": "FirstLight Networks LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

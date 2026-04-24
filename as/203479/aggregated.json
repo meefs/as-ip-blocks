@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "AL-AQSA-ASN1",
     "description": "Al-Aqsa University",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PS",
+    "country": "Palestinian Territories",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "185.88.88.0/22" ],
+    "ipv6": [ ]
   }
 }

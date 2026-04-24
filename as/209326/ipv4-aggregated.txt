@@ -1,5 +1,5 @@
 # AS209326 (CF-001)
-# Colchester Amphora Trading Ltd
+# AMPHORA TRADING LTD
 #
 45.150.228.0/22
 79.110.225.0/24

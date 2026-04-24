@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ALVES-GOES-WARLEY",
     "description": "ALVES GOES WARLEY",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "38.236.113.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -1,4 +1,5 @@
 # AS136181 (ACTIVEPORT-AS-AP)
 # ActivePort Pty Ltd
 #
+2001:9600:1::/48
 2001:9600:2::/47

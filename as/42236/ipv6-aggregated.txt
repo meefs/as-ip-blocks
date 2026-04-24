@@ -1,4 +1,4 @@
 # AS42236 (ITM8-AS)
-# Itm8 A/S
+# DTU Science Park a/s
 #
 2a05:f700:fffe::/48
