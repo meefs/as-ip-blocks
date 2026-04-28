@@ -1,0 +1,16 @@
+{
+  "asn": 151347,
+  "metadata": {
+    "handle": "AERPACE-AS-AP",
+    "description": "Aerpace",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.84.237.0/24" ],
+    "ipv6": [ ]
+  }
+}

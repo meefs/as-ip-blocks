@@ -1,4 +1,3 @@
 # AS154159 (IDNIC-GNTNET-AS-ID)
 # PT Global Nusa Telekomunikasi
 #
-203.8.223.0/24

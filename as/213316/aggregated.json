@@ -1,14 +1,16 @@
 {
   "asn": 213316,
   "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "DLINEMEDIA-AS",
+    "description": "DLine Media LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "142.111.174.0/24" ],
+    "ipv6": [ ]
   }
 }
