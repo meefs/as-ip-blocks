@@ -1,3 +1,4 @@
 # AS41965 (MTS-ARMENIA-AS)
 # Viva Armenia CJSC
 #
+185.78.144.0/24

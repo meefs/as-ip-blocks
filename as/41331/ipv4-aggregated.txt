@@ -1,4 +1,4 @@
 # AS41331 (CUREGROUP-AS)
-# CURE NET SP. Z O.O.
+# Cure Net Sp. z o.o.
 #
 185.242.124.0/24

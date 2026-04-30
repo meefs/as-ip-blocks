@@ -1,4 +1,4 @@
 # AS265015 (R-R-VIRTUAL-INFORMATICA)
-# R&R Virtual Informatica
+# RR wifi telecomunicacoes ltda
 #
 170.84.180.0/22

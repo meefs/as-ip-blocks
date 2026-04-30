@@ -1,4 +1,4 @@
 # AS201868 (PROSOLUCE)
-# PROSOLUCE SAS
+# Prosoluce SAS
 #
 2a02:7920::/48

@@ -2,4 +2,4 @@
 # infinity brasil telecom ltda me
 #
 2804:ee0:4000::/34
-2804:ee0:c000::/34
+2804:ee0:8000::/33

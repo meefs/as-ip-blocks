@@ -1,4 +1,4 @@
 # AS199238 (PIONET)
-# Piotr WIeladek trading as Pionet
+# Piotr Wieladek trading as Pionet
 #
 94.240.22.0/24

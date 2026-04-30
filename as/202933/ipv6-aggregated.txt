@@ -1,4 +1,4 @@
 # AS202933 (COMLINK-FR)
-# COMLINK SAS
+# Comlink SAS
 #
 2a05:5480::/29

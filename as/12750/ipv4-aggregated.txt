@@ -1,4 +1,4 @@
 # AS12750 (SOFTEC-MNT)
-# Softec AG
+# SOFTEC AG
 #
 212.80.96.0/19

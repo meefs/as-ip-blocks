@@ -2,11 +2,11 @@
   "asn": 39153,
   "metadata": {
     "handle": "SETEL-AS1",
-    "description": "LLC SETEL",
+    "description": "JOINT-STOCK COMPANY TELEPORT TELECOM",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

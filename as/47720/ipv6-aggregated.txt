@@ -1,5 +1,5 @@
 # AS47720 (CIX-AS)
-# CORK INTERNET EXCHANGE LIMITED
+# Cork Internet Exchange Limited
 #
 2607:6b80:3d::/48
 2a02:2078::/32

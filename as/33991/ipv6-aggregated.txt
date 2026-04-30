@@ -1,4 +1,4 @@
 # AS33991 (IGRA-SERVICE-AS)
-# Igra-Service LLC
+# IGRA-SERVICE LLC
 #
 2a00:b940::/32

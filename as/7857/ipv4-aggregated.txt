@@ -1,4 +1,3 @@
 # AS7857 (EMPIRE2-ASN)
 # Empire Communications Inc.
 #
-167.31.32.0/20

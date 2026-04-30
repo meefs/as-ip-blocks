@@ -1,5 +1,5 @@
 # AS58285 (ASSIXOP)
-# SIXNET OPERATION LTD
+# Sixnet Operation Ltd
 #
 2a05:f685::/32
 2a0f:9400:6300::/40

@@ -1,5 +1,5 @@
 # AS207590 (LOCLIXIT-AS)
-# MATTEO FILIBERTO SCIACCA trading as LocLix
+# Matteo Filiberto Sciacca trading as LocLix
 #
 2.26.216.0/24
 31.56.32.0/24

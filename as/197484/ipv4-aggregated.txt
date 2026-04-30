@@ -1,4 +1,4 @@
 # AS197484 (APIXIT)
-# APIXIT SAS
+# Apixit SAS
 #
 79.139.67.0/24

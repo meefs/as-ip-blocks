@@ -1,5 +1,5 @@
 # AS47720 (CIX-AS)
-# CORK INTERNET EXCHANGE LIMITED
+# Cork Internet Exchange Limited
 #
 45.140.144.0/24
 84.39.232.0/21

@@ -1,4 +1,4 @@
 # AS215158 (SIXNET-OP2)
-# SIXNET OPERATION LTD
+# Sixnet Operation Ltd
 #
 2a05:f687::/32

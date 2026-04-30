@@ -1,4 +1,4 @@
 # AS212766 (NETSYSCOM)
-# Netsyscom sh.p.k
+# NetSysCom sh.p.k
 #
 2a11:e340::/29

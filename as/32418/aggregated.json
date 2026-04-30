@@ -1,14 +1,16 @@
 {
   "asn": 32418,
   "metadata": {
-    "handle": "DNOW",
-    "description": "DNow LP",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "AS-IMAGINATIONET",
+    "description": "Imagination Network LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "50.117.36.0/24", "64.204.59.0/24", "69.166.233.0/24", "143.20.27.0/24", "147.125.133.0/24", "194.231.218.0/24", "212.134.98.0/24", "212.135.251.0/24" ],
+    "ipv6": [ ]
   }
 }

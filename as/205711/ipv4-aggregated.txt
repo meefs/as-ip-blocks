@@ -1,4 +1,4 @@
 # AS205711 (CHU-LAN)
-# Igra-Service LLC
+# IGRA-SERVICE LLC
 #
 176.118.0.0/22

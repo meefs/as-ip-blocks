@@ -1,4 +1,4 @@
 # AS202566 (QUESTNET-MAIN)
-# QuestNet GmbH
+# questnet GmbH
 #
 185.158.96.0/22

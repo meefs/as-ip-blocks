@@ -1,14 +1,16 @@
 {
   "asn": 63357,
   "metadata": {
-    "handle": "APOG-BSC",
+    "handle": "BOLD-FWRFAK",
     "description": "Apogee Telecom Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "64.189.157.0/24", "64.189.158.0/24" ],
+    "ipv6": [ ]
   }
 }

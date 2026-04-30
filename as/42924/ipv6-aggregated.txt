@@ -1,4 +1,4 @@
 # AS42924 (VCSI)
-# VINCI CONSTRUCTION SI SNC
+# VINCI Construction SI SNC
 #
 2a0b:bc80::/29

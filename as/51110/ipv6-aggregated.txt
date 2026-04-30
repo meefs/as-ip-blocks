@@ -1,5 +1,5 @@
 # AS51110 (IDOMTECHNOLOGIES-AS)
-# IDOM TECHNOLOGIES SAS
+# Idom Technologies SAS
 #
 2c0f:6c00::/40
 2c0f:6c00:3fff::/48

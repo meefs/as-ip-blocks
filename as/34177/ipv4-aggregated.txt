@@ -1,5 +1,5 @@
 # AS34177 (CELESTE-AS)
-# CELESTE SAS
+# Celeste SAS
 #
 5.133.68.0/22
 37.0.72.0/21

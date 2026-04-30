@@ -1,4 +1,3 @@
 # AS62057 (NEOPOST)
 # Quadient Shipping SA
 #
-78.153.247.0/24

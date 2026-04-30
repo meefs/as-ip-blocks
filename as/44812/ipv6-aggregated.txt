@@ -1,5 +1,5 @@
 # AS44812 (IPSERVER-RU-NET)
-# IP SERVER LLC
+# IP Server LLC
 #
 2a07:ac80::/29
 2a09:3703::/32

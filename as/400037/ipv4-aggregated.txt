@@ -1,4 +1,3 @@
 # AS400037 (TVT-01)
 # Tamarack Resort
 #
-45.41.6.0/24
