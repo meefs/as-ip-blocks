@@ -1,0 +1,4 @@
+# AS47007 (AS4-COLOAM)
+# Colocation America Corporation
+#
+66.78.62.0/24

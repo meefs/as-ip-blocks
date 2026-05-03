@@ -1,0 +1,16 @@
+{
+  "asn": 47007,
+  "metadata": {
+    "handle": "AS4-COLOAM",
+    "description": "Colocation America Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.78.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

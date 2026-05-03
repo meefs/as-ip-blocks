@@ -2,4 +2,3 @@
 # KernWi-Fi Pty Ltd
 #
 2001:df3:d500::/48
-2407:f6c0::/32

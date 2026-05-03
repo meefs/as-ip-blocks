@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "FAMONET",
     "description": "Seyed Ali Moosavi",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "45.89.221.0/24" ],
+    "ipv6": [ ]
   }
 }
