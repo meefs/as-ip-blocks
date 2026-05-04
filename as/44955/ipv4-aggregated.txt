@@ -1,4 +1,5 @@
 # AS44955 (DG-TECHNOLOGY)
 # DG Infrastructure Ltd
 #
+91.224.109.0/24
 109.70.72.0/24

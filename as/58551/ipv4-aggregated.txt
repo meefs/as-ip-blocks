@@ -1,4 +1,3 @@
 # AS58551 (IDNIC-MTN-AS-ID)
 # PT. Mediatama Telematika Nusantara
 #
-103.8.78.0/23
