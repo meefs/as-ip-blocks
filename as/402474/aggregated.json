@@ -1,0 +1,16 @@
+{
+  "asn": 402474,
+  "metadata": {
+    "handle": "ZACHARY-LANE-MESSER",
+    "description": "Zachary Lane Messer Sole Proprietorship",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f3df::/40" ]
+  }
+}

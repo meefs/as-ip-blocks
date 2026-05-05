@@ -1,4 +1,3 @@
 # AS204543 (FHRNET)
 # Filip Hruska
 #
-2a04:ff00:103::/48

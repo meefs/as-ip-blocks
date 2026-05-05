@@ -1,3 +1,0 @@
-# AS400453 (FSB-ASN1)
-# Five Star Bank
-#

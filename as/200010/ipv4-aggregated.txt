@@ -2,4 +2,5 @@
 # Olfe Veri Merkezi Anonim Sirketi
 #
 95.214.174.0/24
+191.44.124.0/24
 194.62.118.0/24

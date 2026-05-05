@@ -1,4 +1,4 @@
-# AS214242 (JX-AS)
+# AS214242 (JX)
 # Jiaxing Xing
 #
 2a0a:6044:7700::/40

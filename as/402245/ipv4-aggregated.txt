@@ -1,3 +1,4 @@
 # AS402245 (NSCAD)
 # Nova Scotia Collage of Art and Design
 #
+198.166.233.0/24

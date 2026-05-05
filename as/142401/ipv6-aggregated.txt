@@ -2,4 +2,3 @@
 # PT Inter Koneksi Media
 #
 2001:df1:9840::/48
-2a13:9500:147::/48

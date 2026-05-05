@@ -1,4 +1,4 @@
 # AS41087 (ROMPRIX-AS)
-# Romprix Exim s.r.l
+# ALL4LABELS BUCHAREST S.R.L.
 #
 85.120.179.0/24

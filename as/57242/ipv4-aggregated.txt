@@ -1,5 +1,7 @@
 # AS57242 (ASFREENET)
 # FOP Martyinchuk Aleksandr Vasilevich
 #
+45.156.220.0/24
+81.163.208.0/24
 81.163.211.0/24
 81.163.214.0/24
