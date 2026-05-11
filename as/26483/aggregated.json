@@ -1,11 +1,11 @@
 {
   "asn": 26483,
   "metadata": {
-    "handle": "AS26483",
-    "description": "Unknown AS 26483",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "AMER-INST-ARCHITECTS",
+    "description": "The American Institute of Architects",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

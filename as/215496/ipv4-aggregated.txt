@@ -1,5 +1,4 @@
 # AS215496 (DYARWEB)
 # DyarWeb Information Technology Ltd
 #
-91.217.166.0/24
 185.136.135.0/24

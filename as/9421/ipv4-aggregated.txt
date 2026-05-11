@@ -1,4 +1,3 @@
 # AS9421 (EISNET-AS-AP)
 # AAPT Limited
 #
-203.12.171.0/24

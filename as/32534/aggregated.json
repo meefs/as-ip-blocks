@@ -1,11 +1,11 @@
 {
   "asn": 32534,
   "metadata": {
-    "handle": "AS32534",
-    "description": "Unknown AS 32534",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "INSIGHT-PARTNERS",
+    "description": "Insight Venture Partners",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

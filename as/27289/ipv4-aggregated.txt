@@ -1,4 +1,4 @@
-# AS27289 (AS27289)
-# Unknown AS 27289
+# AS27289 (CLEO-COMMUNICATIONS)
+# Cleo Communications, Inc.
 #
 107.1.107.0/24

@@ -2,3 +2,4 @@
 # Mathias PAJON trading as ProtojX
 #
 5.178.99.0/24
+82.26.80.0/24

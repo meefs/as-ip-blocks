@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "WEB-TRIBE-LIMITED-KE",
     "description": "WEB-TRIBE-LIMITED-KE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "overlaid",
     "category": "business",
     "networkRole": "stub"
   },

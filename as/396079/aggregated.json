@@ -1,11 +1,11 @@
 {
   "asn": 396079,
   "metadata": {
-    "handle": "AS396079",
-    "description": "Unknown AS 396079",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "QUANTEL-USA",
+    "description": "Quantel USA, Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "SIERRATEL-AS",
     "description": "Sierratel AS Number",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

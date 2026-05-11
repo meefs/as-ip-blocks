@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "DOPC-AS-US",
     "description": "DIRECT ON PC LTD HUB",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

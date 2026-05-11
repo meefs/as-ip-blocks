@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "AS-OF-THE",
     "description": "AS of The Way Out Internet Solutions",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

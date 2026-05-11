@@ -1,11 +1,11 @@
 {
   "asn": 37537,
   "metadata": {
-    "handle": "AS37537",
-    "description": "Unknown AS 37537",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "ALTRON-BOTSWANA",
+    "description": "Altron Botswana Proprietary Limited",
+    "countryCode": "BW",
+    "country": "Botswana",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

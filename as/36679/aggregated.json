@@ -1,11 +1,11 @@
 {
   "asn": 36679,
   "metadata": {
-    "handle": "AS36679",
-    "description": "Unknown AS 36679",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "BORGATA-HOTEL-CASINO",
+    "description": "Borgata Hotel Casino & Spa",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

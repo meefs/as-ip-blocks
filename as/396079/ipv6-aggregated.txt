@@ -1,4 +1,4 @@
-# AS396079 (AS396079)
-# Unknown AS 396079
+# AS396079 (QUANTEL-USA)
+# Quantel USA, Inc.
 #
 2620:15:e000::/48

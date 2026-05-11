@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "ZARNET",
     "description": "Maintainer",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

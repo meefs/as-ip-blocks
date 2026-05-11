@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "DURAVITEG-AS",
     "description": "Duravit Egypt Autonomous System",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

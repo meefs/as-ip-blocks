@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "ON-SEMICONDUCTOR-INC",
     "description": "ON Semiconductor AS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "overlaid",
     "category": "business",
     "networkRole": "stub"
   },

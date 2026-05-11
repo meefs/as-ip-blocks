@@ -1,11 +1,11 @@
 {
   "asn": 328485,
   "metadata": {
-    "handle": "AS328485",
-    "description": "Unknown AS 328485",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "IPX-INTL-SYSTEMS-GA",
+    "description": "IPX International Systems Gabon",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

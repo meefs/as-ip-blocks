@@ -2,3 +2,4 @@
 # Digitale Partizipation e.V.
 #
 2001:678:a40::/48
+2a11:7980:f002::/48

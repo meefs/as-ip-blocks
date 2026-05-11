@@ -1,11 +1,11 @@
 {
   "asn": 65656,
   "metadata": {
-    "handle": "AS65656",
-    "description": "Unknown AS 65656",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "TELKOM-SA",
+    "description": "Telkom SA Ltd.",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

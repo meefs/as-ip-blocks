@@ -1,11 +1,11 @@
 {
   "asn": 394402,
   "metadata": {
-    "handle": "AS394402",
-    "description": "Unknown AS 394402",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "CHURCH-SCIENTOLOGY-INTL",
+    "description": "Church of Scientology International",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

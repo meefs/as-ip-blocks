@@ -1,11 +1,11 @@
 {
   "asn": 14808,
   "metadata": {
-    "handle": "AS14808",
-    "description": "Unknown AS 14808",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "CITY-OF-LUFKIN",
+    "description": "City of Lufkin",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

@@ -1,11 +1,11 @@
 {
   "asn": 46472,
   "metadata": {
-    "handle": "AS46472",
-    "description": "Unknown AS 46472",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "AMANO-CINCINNATI",
+    "description": "Amano Cincinnati Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

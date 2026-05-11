@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "AS37476",
     "description": "AS37476",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "UG",
+    "country": "Uganda",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

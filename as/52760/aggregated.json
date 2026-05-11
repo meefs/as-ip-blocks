@@ -1,11 +1,11 @@
 {
   "asn": 52760,
   "metadata": {
-    "handle": "AS52760",
-    "description": "Unknown AS 52760",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "NOVA-FIBRA-TELECOM",
+    "description": "Nova Fibra Telecom S.A.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

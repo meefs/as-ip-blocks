@@ -1,11 +1,11 @@
 {
   "asn": 328226,
   "metadata": {
-    "handle": "AS328226",
-    "description": "Unknown AS 328226",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "INACOM-AO",
+    "description": "INACOM (Angola)",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

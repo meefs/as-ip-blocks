@@ -1,11 +1,11 @@
 {
   "asn": 16929,
   "metadata": {
-    "handle": "AS16929",
-    "description": "Unknown AS 16929",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "SURGE-COMMUNICATIONS",
+    "description": "Surge Communications LLC",
+    "countryCode": "VI",
+    "country": "U.S. Virgin Islands",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

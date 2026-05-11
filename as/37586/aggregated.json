@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "ONATEL",
     "description": "ONATEL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

@@ -1,11 +1,11 @@
 {
   "asn": 27289,
   "metadata": {
-    "handle": "AS27289",
-    "description": "Unknown AS 27289",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "CLEO-COMMUNICATIONS",
+    "description": "Cleo Communications, Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

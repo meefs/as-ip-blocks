@@ -1,11 +1,11 @@
 {
   "asn": 26758,
   "metadata": {
-    "handle": "AS26758",
-    "description": "Unknown AS 26758",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "OLYMPIC-CLUB",
+    "description": "The Olympic Club",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

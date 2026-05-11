@@ -1,11 +1,11 @@
 {
   "asn": 22830,
   "metadata": {
-    "handle": "AS22830",
-    "description": "Unknown AS 22830",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "UNIV-DC",
+    "description": "University of the District of Columbia",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

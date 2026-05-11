@@ -1,11 +1,11 @@
 {
   "asn": 329008,
   "metadata": {
-    "handle": "AS329008",
-    "description": "Unknown AS 329008",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "PARIBAS-COMMS-NG",
+    "description": "Paribas Communications Limited",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

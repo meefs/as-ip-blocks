@@ -1,5 +1,4 @@
 # AS200950 (CALIBOURNETWORK)
 # Calibour Limited
 #
-31.56.160.0/22
 45.86.153.0/24

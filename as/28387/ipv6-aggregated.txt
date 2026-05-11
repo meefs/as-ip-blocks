@@ -2,4 +2,3 @@
 # Computadoras y Servicios Especiales SA de CV
 #
 2806:300:1::/48
-2806:300:10::/48

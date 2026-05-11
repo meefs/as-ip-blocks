@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "GROUPE-TELECOM-SPRL",
     "description": "GROUPE TELECOM SPRL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "stub"
   },

@@ -1,4 +1,4 @@
-# AS16929 (AS16929)
-# Unknown AS 16929
+# AS16929 (SURGE-COMMUNICATIONS)
+# Surge Communications LLC
 #
 45.42.0.0/22

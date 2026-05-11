@@ -1,11 +1,11 @@
 {
   "asn": 13339,
   "metadata": {
-    "handle": "AS13339",
-    "description": "Unknown AS 13339",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "ONGAME-SERVICES-AB",
+    "description": "Ongame Services AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

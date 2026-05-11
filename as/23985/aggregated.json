@@ -3,9 +3,9 @@
   "metadata": {
     "handle": "MGB-AS-AP",
     "description": "MGB METRO Group Buying",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "overlaid",
     "category": null,
     "networkRole": "stub"
   },

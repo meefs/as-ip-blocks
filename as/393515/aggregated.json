@@ -1,11 +1,11 @@
 {
   "asn": 393515,
   "metadata": {
-    "handle": "AS393515",
-    "description": "Unknown AS 393515",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "R2NET-INC",
+    "description": "R2Net Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },
