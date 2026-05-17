@@ -1,16 +1,16 @@
 {
-  "asn": 153142,
+  "asn": 154663,
   "metadata": {
-    "handle": "IDNIC-WGT-AS-ID",
-    "description": "PT Waros Global Teknologi",
+    "handle": "IDNIC-SPS-ID",
+    "description": "PT SIGNAL PRIMA SOLUSI",
     "countryCode": "ID",
     "country": "Indonesia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "162.4.44.0/24" ],
     "ipv6": [ ]
   }
 }

@@ -2,3 +2,4 @@
 # Rap 10 Telecomunicações Eireli
 #
 164.163.16.0/22
+186.192.10.0/24
