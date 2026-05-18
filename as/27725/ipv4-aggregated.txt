@@ -1,5 +1,5 @@
 # AS27725 (ETECSA-AS)
-# NEWCOM customer mirror object from ARIN
+# Empresa de Telecomunicaciones de Cuba S.A.
 #
 152.206.0.0/15
 181.225.224.0/19

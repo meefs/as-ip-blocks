@@ -2,10 +2,10 @@
   "asn": 11960,
   "metadata": {
     "handle": "CUBADATA-AS",
-    "description": "NEWCOM customer mirror object from ARIN",
+    "description": "Empresa de Telecomunicaciones de Cuba S.A.",
     "countryCode": "CU",
     "country": "Cuba",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

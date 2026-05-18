@@ -6,7 +6,7 @@
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "overlaid",
-    "category": null,
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

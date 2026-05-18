@@ -1,4 +1,4 @@
 # AS11960 (CUBADATA-AS)
-# NEWCOM customer mirror object from ARIN
+# Empresa de Telecomunicaciones de Cuba S.A.
 #
 200.0.16.0/24

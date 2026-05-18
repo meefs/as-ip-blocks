@@ -2,11 +2,11 @@
   "asn": 27725,
   "metadata": {
     "handle": "ETECSA-AS",
-    "description": "NEWCOM customer mirror object from ARIN",
+    "description": "Empresa de Telecomunicaciones de Cuba S.A.",
     "countryCode": "CU",
     "country": "Cuba",
-    "origin": "authoritative",
-    "category": null,
+    "origin": "overlaid",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

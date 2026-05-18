@@ -2,10 +2,10 @@
   "asn": 10569,
   "metadata": {
     "handle": "CENIA-AS",
-    "description": "NEWCOM customer's customer mirror object from ARIN",
+    "description": "Red CENIAInternet",
     "countryCode": "CU",
     "country": "Cuba",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "stub"
   },

@@ -2,10 +2,10 @@
   "asn": 27313,
   "metadata": {
     "handle": "SPENCER-STUART",
-    "description": "RIPE Object for Route Advertisments",
+    "description": "Spencer Stuart",
     "countryCode": "US",
     "country": "United States",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "business",
     "networkRole": "stub"
   },

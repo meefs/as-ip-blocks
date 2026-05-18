@@ -6,7 +6,7 @@
     "countryCode": "TC",
     "country": "Turks & Caicos Islands",
     "origin": "authoritative",
-    "category": null,
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

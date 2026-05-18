@@ -1,11 +1,11 @@
 {
   "asn": 327869,
   "metadata": {
-    "handle": "AS327869",
-    "description": "Unknown AS 327869",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
+    "handle": "WADE-MULTI-TRADING",
+    "description": "WADE MULTI TRADING LTD",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

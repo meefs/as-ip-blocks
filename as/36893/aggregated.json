@@ -6,7 +6,7 @@
     "countryCode": "EG",
     "country": "Egypt",
     "origin": "overlaid",
-    "category": null,
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,14 +1,16 @@
 {
   "asn": 199673,
   "metadata": {
-    "handle": "AM-ABC-DOMAIN-AS",
-    "description": "ABC Domain LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "AM-AMWEB-AM",
+    "description": "AMWEB LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "188.164.152.0/24" ],
+    "ipv6": [ ]
   }
 }

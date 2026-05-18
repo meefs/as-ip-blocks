@@ -1,5 +1,5 @@
 # AS54363 (BHI-ASN)
-# Proxy registered for BHI - Baker Hughes Inc
+# Baker Hughes Holdings LLC
 #
 199.79.16.0/23
 199.193.16.0/21

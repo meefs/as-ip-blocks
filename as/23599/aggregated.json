@@ -2,11 +2,11 @@
   "asn": 23599,
   "metadata": {
     "handle": "KRNIC-DDNS-AS",
-    "description": "DNS anycast AS object for .kr DNS service",
+    "description": "Korea Internet Security Agency",
     "countryCode": "KR",
     "country": "South Korea",
-    "origin": "authoritative",
-    "category": null,
+    "origin": "overlaid",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

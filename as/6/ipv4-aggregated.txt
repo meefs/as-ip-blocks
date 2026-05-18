@@ -1,5 +1,5 @@
 # AS6 (BULL-NETWORK)
-# for further information please visit www.bull.com
+# ATOS IT Solutions and Services, Inc.
 #
 91.217.58.0/23
 129.185.30.0/23

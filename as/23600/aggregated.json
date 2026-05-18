@@ -2,10 +2,10 @@
   "asn": 23600,
   "metadata": {
     "handle": "KRNIC-GDNS-AS",
-    "description": "DNS anycast AS object for .kr DNS service",
+    "description": "Korea Internet Security Agency",
     "countryCode": "KR",
     "country": "South Korea",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

@@ -2,4 +2,3 @@
 # Lostcipher Consulting
 #
 2602:2ba::/39
-2602:2ba:400::/40

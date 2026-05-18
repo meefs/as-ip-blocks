@@ -2,10 +2,10 @@
   "asn": 149170,
   "metadata": {
     "handle": "TOLEDOCABLETV-AS-AP",
-    "description": "NONE",
+    "description": "Toledo Cable TV",
     "countryCode": "PH",
     "country": "Philippines",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "stub"
   },

@@ -2,10 +2,10 @@
   "asn": 138910,
   "metadata": {
     "handle": "ACL-AS-AP",
-    "description": "N/A",
+    "description": "Aero Cable Pvt Ltd",
     "countryCode": "PK",
     "country": "Pakistan",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "stub"
   },

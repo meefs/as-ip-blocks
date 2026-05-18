@@ -2,10 +2,10 @@
   "asn": 54363,
   "metadata": {
     "handle": "BHI-ASN",
-    "description": "Proxy registered for BHI - Baker Hughes Inc",
+    "description": "Baker Hughes Holdings LLC",
     "countryCode": "US",
     "country": "United States",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "business",
     "networkRole": "stub"
   },

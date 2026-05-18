@@ -1,5 +1,5 @@
 # AS27313 (SPENCER-STUART)
-# RIPE Object for Route Advertisments
+# Spencer Stuart
 #
 204.79.137.0/24
 204.79.138.0/23

@@ -2,10 +2,10 @@
   "asn": 55482,
   "metadata": {
     "handle": "DIGITAL-WAVE-MY",
-    "description": "Proxy-registered aut-num object for GTC's Upstream Requirement",
+    "description": "Sunway Digital Wave Sdn Bhd",
     "countryCode": "MY",
     "country": "Malaysia",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "hosting",
     "networkRole": "access_provider"
   },

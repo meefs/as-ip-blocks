@@ -1,4 +1,4 @@
 # AS55482 (DIGITAL-WAVE-MY)
-# Proxy-registered aut-num object for GTC's Upstream Requirement
+# Sunway Digital Wave Sdn Bhd
 #
 2401:3140::/48

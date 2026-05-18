@@ -2,10 +2,10 @@
   "asn": 10030,
   "metadata": {
     "handle": "CELCOMNET-AP",
-    "description": "Proxy-registered aut-num object for GTC's Upstream Requirement",
+    "description": "Celcom Axiata Berhad",
     "countryCode": "MY",
     "country": "Malaysia",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

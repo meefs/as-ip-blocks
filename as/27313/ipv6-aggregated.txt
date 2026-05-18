@@ -1,3 +1,3 @@
 # AS27313 (SPENCER-STUART)
-# RIPE Object for Route Advertisments
+# Spencer Stuart
 #

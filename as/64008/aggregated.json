@@ -1,11 +1,11 @@
 {
   "asn": 64008,
   "metadata": {
-    "handle": "MAINTAINER-FOR-APNIC",
-    "description": "Maintainer for APNIC stub records",
-    "countryCode": "US",
-    "country": "United States",
-    "origin": "inferred",
+    "handle": "DSWD-PH",
+    "description": "Department of Social Welfare and Development",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "overlaid",
     "category": null,
     "networkRole": null
   },

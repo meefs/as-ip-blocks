@@ -1,5 +1,5 @@
 # AS10030 (CELCOMNET-AP)
-# Proxy-registered aut-num object for GTC's Upstream Requirement
+# Celcom Axiata Berhad
 #
 103.3.20.0/22
 183.171.0.0/16

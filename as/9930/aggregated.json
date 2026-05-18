@@ -2,10 +2,10 @@
   "asn": 9930,
   "metadata": {
     "handle": "TTNET-MY",
-    "description": "Proxy-registered aut-num object for GTC's Upstream Requirement",
+    "description": "TT dotCom Sdn Bhd",
     "countryCode": "MY",
     "country": "Malaysia",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "major_transit"
   },

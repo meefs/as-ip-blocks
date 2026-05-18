@@ -1,5 +1,5 @@
 # AS23600 (KRNIC-GDNS-AS)
-# DNS anycast AS object for .kr DNS service
+# Korea Internet Security Agency
 #
 1.18.132.0/22
 39.127.249.0/24

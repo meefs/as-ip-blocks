@@ -10,7 +10,7 @@
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ "186.227.68.0/22" ],
+    "ipv4": [ "186.227.70.0/24" ],
     "ipv6": [ "2804:8f98::/32" ]
   }
 }

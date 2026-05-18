@@ -2,10 +2,10 @@
   "asn": 32034,
   "metadata": {
     "handle": "NEWCOM-AS",
-    "description": "NEWCOM mirror object from ARIN",
+    "description": "Speedcast LATAM Inc.",
     "countryCode": "US",
     "country": "United States",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "access_provider"
   },

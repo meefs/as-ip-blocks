@@ -2,10 +2,10 @@
   "asn": 36866,
   "metadata": {
     "handle": "JTL-KE",
-    "description": "Jamii Telecommunications Limited AS Object",
+    "description": "Jamii Telecommunications Limited",
     "countryCode": "KE",
     "country": "Kenya",
-    "origin": "authoritative",
+    "origin": "overlaid",
     "category": "isp",
     "networkRole": "midsize_transit"
   },

@@ -1,5 +1,4 @@
 # AS197817 (NYCO-CLOUD-NETWORK)
 # Yunxiao Bai
 #
-2a14:ae00:50::/47
-2a14:ae00:52::/48
+2a14:ae00:50::/44

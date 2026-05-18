@@ -1,7 +1,5 @@
 # AS212513 (OSNET-TELEKOM)
 # Osnet Telekomunikasyon Dis Ticaret Limited Sirketi
 #
-2a10:fa80:1000::/42
-2a10:fa80:1040::/43
-2a10:fa80:1060::/46
+2a10:fa80:1000::/36
 2a10:fa81:600::/40
