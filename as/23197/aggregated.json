@@ -3,8 +3,8 @@
   "metadata": {
     "handle": "GENESYS-SAAS",
     "description": "UK",
-    "countryCode": "CA",
-    "country": "Canada",
+    "countryCode": "US",
+    "country": "United States",
     "origin": "authoritative",
     "category": "hosting",
     "networkRole": "stub"

@@ -1,4 +1,4 @@
 # AS8506 (INSTITUTION-OF-RUSSIAN)
-# Institution of Russian Science Academy of Irkutsk Scientific Centre of Siberian Department of RAN
+# Matrosov Institute for System Dynamics and Control Theory of Siberian Branch of Russian Academy of Sciences
 #
 84.237.16.0/20

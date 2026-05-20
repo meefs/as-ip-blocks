@@ -6,7 +6,7 @@
     "countryCode": "GM",
     "country": "Gambia",
     "origin": "authoritative",
-    "category": null,
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

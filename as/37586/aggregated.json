@@ -6,7 +6,7 @@
     "countryCode": "BI",
     "country": "Burundi",
     "origin": "overlaid",
-    "category": null,
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

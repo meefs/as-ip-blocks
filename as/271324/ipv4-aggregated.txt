@@ -1,4 +1,5 @@
 # AS271324 (LEDYVANHA-MENESES-ALENCAR)
 # Ledyvanha Meneses Alencar
 #
+179.43.11.0/24
 186.209.172.0/22

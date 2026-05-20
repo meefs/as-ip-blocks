@@ -1,5 +1,4 @@
 # AS211743 (MEOWCATTO-NETWORK)
 # Astijus Griguola
 #
-45.84.89.0/24
 206.109.198.0/24

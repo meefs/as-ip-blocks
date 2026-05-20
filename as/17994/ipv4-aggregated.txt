@@ -1,4 +1,3 @@
 # AS17994 (SPARK-AS-AP)
 # Spark New Zealand Trading Limited
 #
-103.250.224.0/22

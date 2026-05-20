@@ -1,5 +1,4 @@
 # AS400298 (CHICAGOSERVERS)
 # Madcityservers LLC
 #
-69.166.231.0/24
 172.99.249.0/24

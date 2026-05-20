@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "STCLAIRCCC-AS",
     "description": "St. Clair County Community College",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "68.67.121.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "HSCLOUD",
     "description": "HS Cloud LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "91.209.38.0/24" ],
+    "ipv6": [ ]
   }
 }

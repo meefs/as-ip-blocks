@@ -6,7 +6,7 @@
     "countryCode": "TN",
     "country": "Tunisia",
     "origin": "overlaid",
-    "category": null,
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

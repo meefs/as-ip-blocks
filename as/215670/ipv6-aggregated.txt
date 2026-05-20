@@ -1,4 +1,4 @@
 # AS215670 (FIRSTPAGE-AS)
-# LLP Internet company First Page
+# LLP Internet Company First Page
 #
 2001:146a::/40
