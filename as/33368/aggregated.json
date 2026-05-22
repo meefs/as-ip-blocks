@@ -1,12 +1,12 @@
 {
   "asn": 33368,
   "metadata": {
-    "handle": "FXSERVER",
+    "handle": "FXISP",
     "description": "Visual Trading Systems LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

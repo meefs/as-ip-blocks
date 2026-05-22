@@ -1,4 +1,4 @@
-# AS211227 (ATNORTH)
-# atNorth HPC AB
+# AS211227 (ADVANIA)
+# Advania Sverige AB
 #
 45.66.62.0/24

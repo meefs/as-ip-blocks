@@ -1,5 +1,5 @@
 # AS40342 (EARLYWARNINGSERVICES)
-# Early Warning Services
+# Early Warning Services LLC
 #
 8.40.122.0/24
 104.200.218.0/23

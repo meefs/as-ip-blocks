@@ -1,3 +1,0 @@
-# AS62078 (MEASUREMENT-NETWORK-SCAN)
-# Tobias Fiebig
-#

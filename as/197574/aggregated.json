@@ -1,0 +1,16 @@
+{
+  "asn": 197574,
+  "metadata": {
+    "handle": "EXPRESSHOST",
+    "description": "ExpressHost Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.83.129.0/24", "154.83.149.0/24", "154.83.208.0/24", "154.86.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

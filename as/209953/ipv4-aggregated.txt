@@ -1,4 +1,4 @@
 # AS209953 (KNSERVICES)
-# Maier Rainer trading as KN Services GmbH & Co. KG
+# Maier Rainer
 #
 212.107.8.0/22

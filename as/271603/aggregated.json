@@ -2,11 +2,11 @@
   "asn": 271603,
   "metadata": {
     "handle": "CARDOSO-COM-SERVICOS",
-    "description": "CARDOSO COM E SERVICOS DE INTERNET EIRELI - ME",
+    "description": "GIGANET TELECOM",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

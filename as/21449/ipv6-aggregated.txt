@@ -1,4 +1,4 @@
 # AS21449 (ETATGE)
-# ETAT DE GENEVE
+# Etat de Geneve
 #
 2a07:2911::/32

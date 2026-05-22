@@ -1,0 +1,16 @@
+{
+  "asn": 153622,
+  "metadata": {
+    "handle": "MADINAIT-AS-AP",
+    "description": "Madina IT",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.230.50.0/24", "74.1.46.0/24", "151.240.149.0/24", "212.134.25.0/24" ],
+    "ipv6": [ ]
+  }
+}

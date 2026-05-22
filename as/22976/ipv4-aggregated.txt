@@ -2,3 +2,4 @@
 # First-Citizens Bank & Trust Company
 #
 69.89.128.0/19
+206.212.80.0/21

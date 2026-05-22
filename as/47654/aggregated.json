@@ -2,11 +2,11 @@
   "asn": 47654,
   "metadata": {
     "handle": "VKS-INTERNET",
-    "description": "VKS-internet Ltd",
+    "description": "ARCTIC TELECOM Limited Liability Company",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

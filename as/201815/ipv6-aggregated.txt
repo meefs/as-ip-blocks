@@ -1,5 +1,4 @@
 # AS201815 (MEGADITTA)
 # ItalPetrolCemenTermoTessilFarmoMetalChimica LTD
 #
-2a0f:85c1:e2f::/48
 2a14:7584:4ec0::/44
