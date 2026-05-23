@@ -1,5 +1,5 @@
-# AS40593 (CCSI-AS)
-# Cloud Compliance Solutions
+# AS40593 (CORPTECH-AS)
+# Corporate Technologies LLC.
 #
 12.43.214.0/24
 12.156.76.0/24

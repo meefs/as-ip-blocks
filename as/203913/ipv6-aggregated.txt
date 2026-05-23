@@ -1,4 +1,3 @@
 # AS203913 (NUROHMAN)
 # Nurohman
 #
-2a0a:6045:7e00::/40

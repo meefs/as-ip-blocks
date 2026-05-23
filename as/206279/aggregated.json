@@ -2,11 +2,11 @@
   "asn": 206279,
   "metadata": {
     "handle": "BIRUANG-AS",
-    "description": "Aleksander Studzinski trading as Biruang IT KB",
+    "description": "Thomas Studzinski",
     "countryCode": "SE",
     "country": "Sweden",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

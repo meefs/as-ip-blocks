@@ -1,0 +1,16 @@
+{
+  "asn": 402547,
+  "metadata": {
+    "handle": "GOCODEIT-INC",
+    "description": "GoCodeIT Inc",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "153.76.4.0/24" ],
+    "ipv6": [ "2a0f:b240:80::/44" ]
+  }
+}

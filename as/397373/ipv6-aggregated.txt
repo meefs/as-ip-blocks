@@ -1,7 +1,6 @@
 # AS397373 (H4Y-TECHNOLOGIES)
 # H4Y Technologies LLC
 #
-2602:fcd5:8::/47
 2605:6c80::/47
 2605:6c80:2::/48
 2605:6c80:4::/47

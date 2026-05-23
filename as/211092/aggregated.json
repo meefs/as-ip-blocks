@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "UCOM-Q",
     "description": "Ucom CJSC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "185.213.241.0/24" ],
+    "ipv6": [ ]
   }
 }

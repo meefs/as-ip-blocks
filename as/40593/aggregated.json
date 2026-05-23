@@ -1,12 +1,12 @@
 {
   "asn": 40593,
   "metadata": {
-    "handle": "CCSI-AS",
-    "description": "Cloud Compliance Solutions",
+    "handle": "CORPTECH-AS",
+    "description": "Corporate Technologies LLC.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

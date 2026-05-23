@@ -2,11 +2,11 @@
   "asn": 27602,
   "metadata": {
     "handle": "PATHFINDER-ASN",
-    "description": "Pathfinder Broadband",
+    "description": "Pathfinder Internet",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

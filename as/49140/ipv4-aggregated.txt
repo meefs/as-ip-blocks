@@ -1,3 +1,4 @@
-# AS49140 (LOGITEL)
-# Logitel Ltd.
+# AS49140 (HALS-AS)
+# Hals-Development LLC
 #
+193.200.161.0/24

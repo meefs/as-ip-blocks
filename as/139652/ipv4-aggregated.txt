@@ -1,3 +1,4 @@
 # AS139652 (FUSIONNET-AS-AP)
 # Fusion Net Ltd
 #
+103.143.43.0/24

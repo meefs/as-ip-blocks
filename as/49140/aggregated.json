@@ -1,14 +1,16 @@
 {
   "asn": 49140,
   "metadata": {
-    "handle": "LOGITEL",
-    "description": "Logitel Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "HALS-AS",
+    "description": "Hals-Development LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "193.200.161.0/24" ],
+    "ipv6": [ ]
   }
 }
