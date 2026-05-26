@@ -1,3 +1,4 @@
-# AS12036 (DIXIE-NET)
-# ISP Associates, Inc. DBA Dixie-Net
+# AS12036 (POE)
+# Poe Foundation
 #
+2602:f4f9::/40

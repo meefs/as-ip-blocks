@@ -1,5 +1,5 @@
 # AS201550 (EXT-PDN-STE-AS)
 # Syrian Telecommunication Private Closed Joint Stock Company
 #
-188.133.80.0/20
-188.133.112.0/20
+188.133.32.0/19
+188.133.64.0/18

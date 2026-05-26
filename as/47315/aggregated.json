@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "NTN-AS",
     "description": "Television studio News service LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "194.0.218.0/24" ],
+    "ipv6": [ ]
   }
 }

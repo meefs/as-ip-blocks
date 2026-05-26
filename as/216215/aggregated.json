@@ -1,14 +1,16 @@
 {
   "asn": 216215,
   "metadata": {
-    "handle": "VIBIN",
-    "description": "WE BE VIBIN PTY LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "XANTHO-IT",
+    "description": "Xantho UAB",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a01:f140::/29" ]
   }
 }

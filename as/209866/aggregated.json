@@ -1,14 +1,16 @@
 {
   "asn": 209866,
   "metadata": {
-    "handle": "PIOTRMACHA",
+    "handle": "VRTSH",
     "description": "Piotr Macha",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:c62::/48" ]
   }
 }

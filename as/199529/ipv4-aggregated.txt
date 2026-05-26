@@ -1,4 +1,4 @@
-# AS199529 (LAGOM-AS)
+# AS199529 (VITALIJS-JURKEVICS)
 # Vitalijs Jurkevics
 #
 2.26.78.0/23

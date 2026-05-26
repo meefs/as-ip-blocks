@@ -1,5 +1,4 @@
 # AS32878 (PETRIEDGE)
 # PetriEdge LLC
 #
-5.102.37.0/24
 178.83.166.0/24

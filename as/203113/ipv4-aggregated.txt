@@ -1,3 +1,5 @@
 # AS203113 (ORG-BFL6-RIPE)
 # BlueWave Fibre Ltd
 #
+151.123.183.0/24
+151.244.220.0/24

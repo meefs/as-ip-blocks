@@ -2,3 +2,4 @@
 # Synergy Cross Corporation
 #
 85.8.160.0/24
+191.44.85.0/24

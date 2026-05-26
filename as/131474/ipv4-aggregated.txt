@@ -1,4 +1,4 @@
 # AS131474 (NETX-AS-AP)
-# Sajid Trading Ltd.
+# NETX
 #
 103.114.95.0/24

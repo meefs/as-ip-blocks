@@ -2,11 +2,11 @@
   "asn": 131474,
   "metadata": {
     "handle": "NETX-AS-AP",
-    "description": "Sajid Trading Ltd.",
+    "description": "NETX",
     "countryCode": "BD",
     "country": "Bangladesh",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

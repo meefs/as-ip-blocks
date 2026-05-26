@@ -2,4 +2,3 @@
 # CloudLink Communications LLC
 #
 82.153.54.0/24
-168.222.13.0/24
