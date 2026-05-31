@@ -1,4 +1,4 @@
-# AS398450 (CUSTOMCABLE-FISHERISLAND-2020)
-# Custom Cable LLLP
+# AS398450 (HOTWI-398450)
+# Hotwire Communications
 #
 208.80.176.0/22

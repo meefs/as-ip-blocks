@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "MUI-AS-AP",
     "description": "M/S UMARA INTERNATIONAL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "2.27.151.0/24", "31.77.252.0/24", "222.167.210.0/24" ],
+    "ipv6": [ ]
   }
 }

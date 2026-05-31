@@ -6,11 +6,11 @@
     "countryCode": "SA",
     "country": "Saudi Arabia",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "82.47.101.0/24", "82.47.102.0/24" ],
     "ipv6": [ "2a06:9801:74f::/48" ]
   }
 }

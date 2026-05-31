@@ -2,3 +2,4 @@
 # Wobscale Technologies LLC
 #
 2620:fc:c000::/47
+2620:fc:c002::/48

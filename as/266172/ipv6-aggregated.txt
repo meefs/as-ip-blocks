@@ -1,4 +1,4 @@
 # AS266172 (INTERNET-SERVICOS-EM)
-# Inter.Net Servicos em Telecom Ltda
+# BR364 SERVIÇOS DE TELECOMUNICAÇÕES LTDA
 #
 2804:3bd0::/32

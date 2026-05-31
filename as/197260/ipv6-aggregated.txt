@@ -1,4 +1,4 @@
-# AS197260 (LOHNES)
+# AS197260 (FUNDIN-AS)
 # Philipp Lohnes
 #
 2001:678:1294::/48

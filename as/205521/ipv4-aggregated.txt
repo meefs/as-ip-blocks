@@ -2,3 +2,4 @@
 # Rahyab Payam Gostaran Co. P.J.S
 #
 185.215.124.0/23
+185.215.126.0/24

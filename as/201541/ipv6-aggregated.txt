@@ -1,3 +1,5 @@
 # AS201541 (NEDASDOZOREC)
 # Nedas Dozorec
 #
+2a0d:d940:200e::/48
+2a14:7585:d0d0::/48

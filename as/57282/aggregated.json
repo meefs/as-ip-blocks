@@ -2,13 +2,15 @@
   "asn": 57282,
   "metadata": {
     "handle": "FIBRANODE",
-    "description": "Lars Friedrich",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "description": "fibranode UG (haftungsbeschraenkt)",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "185.148.251.0/24" ],
+    "ipv6": [ ]
   }
 }

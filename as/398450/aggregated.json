@@ -1,12 +1,12 @@
 {
   "asn": 398450,
   "metadata": {
-    "handle": "CUSTOMCABLE-FISHERISLAND-2020",
-    "description": "Custom Cable LLLP",
+    "handle": "HOTWI-398450",
+    "description": "Hotwire Communications",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

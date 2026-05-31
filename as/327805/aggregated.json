@@ -2,11 +2,11 @@
   "asn": 327805,
   "metadata": {
     "handle": "BUNDU-NETWORX",
-    "description": "Bundu NetworX",
+    "description": "Bundu NetworX (Pty) Ltd",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

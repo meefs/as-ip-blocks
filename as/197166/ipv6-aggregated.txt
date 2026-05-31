@@ -1,0 +1,4 @@
+# AS197166 (GOTSCHNA-AS)
+# Gotschna Limited
+#
+2a0d:5700::/48

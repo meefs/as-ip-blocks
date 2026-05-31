@@ -1,3 +1,4 @@
 # AS54953 (CALIBER-NODE)
 # Caliber Node LLC
 #
+2602:f69e::/40
