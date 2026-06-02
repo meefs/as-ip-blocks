@@ -1,4 +1,3 @@
 # AS61177 (NTG-AS)
 # NettiTieto Oy
 #
-185.16.96.0/23

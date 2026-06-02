@@ -2,4 +2,3 @@
 # Pronto Broadband Solutions Limited
 #
 102.212.252.0/23
-102.212.254.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 214647,
+  "metadata": {
+    "handle": "YADDA",
+    "description": "Yadda OU",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.83.44.0/24" ],
+    "ipv6": [ ]
+  }
+}

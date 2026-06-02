@@ -1,4 +1,4 @@
 # AS58222 (SERVERBASE)
-# ServerBase AG
+# synaforce Schweiz AG
 #
 2a03:da40::/31

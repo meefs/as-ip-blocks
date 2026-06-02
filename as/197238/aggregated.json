@@ -2,11 +2,11 @@
   "asn": 197238,
   "metadata": {
     "handle": "DYCKERHOFF-PL",
-    "description": "Dyckerhoff Polska Spolka z ograniczona odpowiedzialnoscia",
+    "description": "Dyckerhoff Polska Sp. z o.o.",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

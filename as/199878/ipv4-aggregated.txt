@@ -1,5 +1,5 @@
 # AS199878 (CH01)
-# LUKOIL Technology Services GmbH
+# Neobitint GmbH
 #
 82.118.146.0/23
 95.171.236.0/23

@@ -1,4 +1,4 @@
 # AS204177 (CVS)
-# CVS Mobile informacijske resitve d.d.
+# CVS MOBILE informacijske resitve d.o.o.
 #
 91.229.72.0/24

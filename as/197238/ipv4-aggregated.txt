@@ -1,4 +1,4 @@
 # AS197238 (DYCKERHOFF-PL)
-# Dyckerhoff Polska Spolka z ograniczona odpowiedzialnoscia
+# Dyckerhoff Polska Sp. z o.o.
 #
 91.217.158.0/24

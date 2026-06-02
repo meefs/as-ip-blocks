@@ -6,11 +6,11 @@
     "countryCode": "CD",
     "country": "Congo - Kinshasa",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "156.0.88.0/22" ],
     "ipv6": [ "2c0f:ee08::/48" ]
   }
 }

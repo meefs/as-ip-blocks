@@ -1,5 +1,5 @@
 # AS3260 (INTRACOM)
-# INTRACOM S.A. TELECOM SOLUTIONS
+# Intracom Single Member S.A. Telecom Solutions
 #
 146.124.0.0/16
 192.92.155.0/24

@@ -2,3 +2,4 @@
 # Administración de Redes Colomsat S.A.
 #
 2803:4860::/32
+2806:3d3::/32

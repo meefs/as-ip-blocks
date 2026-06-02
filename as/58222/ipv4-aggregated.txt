@@ -1,5 +1,5 @@
 # AS58222 (SERVERBASE)
-# ServerBase AG
+# synaforce Schweiz AG
 #
 89.43.116.0/22
 156.67.8.0/22
