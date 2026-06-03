@@ -1,12 +1,12 @@
 {
   "asn": 63441,
   "metadata": {
-    "handle": "AS63441",
-    "description": "Crown Castle Fiber LLC",
+    "handle": "ZAYO-CCF-AS63441",
+    "description": "Zayo Bandwidth",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

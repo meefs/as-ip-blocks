@@ -1,5 +1,5 @@
-# AS21687 (AS21687)
-# Crown Castle Fiber LLC
+# AS21687 (ZAYO-CCF-AS21687)
+# Zayo Bandwidth
 #
 2607:f7a8::/39
 2607:f7a8:c00::/39

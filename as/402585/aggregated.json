@@ -1,0 +1,16 @@
+{
+  "asn": 402585,
+  "metadata": {
+    "handle": "DIGITAINO-LLC",
+    "description": "Digitaino LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2620:23:2000::/48" ]
+  }
+}

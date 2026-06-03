@@ -1,5 +1,5 @@
-# AS30372 (AS30372)
-# Crown Castle Fiber LLC
+# AS30372 (ZAYO-CCF-AS30372)
+# Zayo Bandwidth
 #
 8.20.92.0/24
 8.41.192.0/24

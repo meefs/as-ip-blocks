@@ -1,12 +1,12 @@
 {
   "asn": 11074,
   "metadata": {
-    "handle": "CROWNCASTLE-AS11074",
-    "description": "Crown Castle Fiber LLC",
+    "handle": "ZAYO-CCF-AS11074",
+    "description": "Zayo Bandwidth",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

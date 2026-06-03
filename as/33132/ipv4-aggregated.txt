@@ -1,5 +1,5 @@
-# AS33132 (CROWNCASTLE-AS33132)
-# Crown Castle Fiber LLC
+# AS33132 (ZAYO-CCF-AS33132)
+# Zayo Bandwidth
 #
 45.42.56.0/21
 45.73.144.0/20

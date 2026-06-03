@@ -1,0 +1,16 @@
+{
+  "asn": 209018,
+  "metadata": {
+    "handle": "FALIX",
+    "description": "SIA Baltijas Pakalpojumi",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:c00::/48" ]
+  }
+}

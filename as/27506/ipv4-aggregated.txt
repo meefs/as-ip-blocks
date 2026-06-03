@@ -1,5 +1,5 @@
-# AS27506 (CROWNCASTLE-AS27506)
-# Crown Castle Fiber LLC
+# AS27506 (ZAYO-CCF-AS27506)
+# Zayo Bandwidth
 #
 64.20.160.0/19
 69.64.192.0/19

@@ -2,11 +2,11 @@
   "asn": 30813,
   "metadata": {
     "handle": "OSTROG-NET-AS",
-    "description": "Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
+    "description": "Fione Sp. z o.o.",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

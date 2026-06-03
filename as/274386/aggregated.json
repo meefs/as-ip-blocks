@@ -1,0 +1,16 @@
+{
+  "asn": 274386,
+  "metadata": {
+    "handle": "NOSSO-WI-FI",
+    "description": "NOSSO WI-FI LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9720::/32" ]
+  }
+}

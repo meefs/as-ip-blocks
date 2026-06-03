@@ -2,3 +2,4 @@
 # PT. Bintang Kejora Teknologi
 #
 103.147.52.0/24
+103.213.231.0/24

@@ -2,3 +2,4 @@
 # Rabik Bangun Nusantara PT
 #
 113.59.232.0/22
+113.59.236.0/24

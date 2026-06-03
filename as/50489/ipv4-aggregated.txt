@@ -1,5 +1,5 @@
 # AS50489 (ORIEDGE)
-# Ori Industries 1 Limited
+# Radiant Infrastructure 1 Limited
 #
 185.35.68.0/23
 185.35.70.0/24

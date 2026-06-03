@@ -6,11 +6,11 @@
     "countryCode": "JP",
     "country": "Japan",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a12:f8c2:600::/40" ]
+    "ipv6": [ ]
   }
 }

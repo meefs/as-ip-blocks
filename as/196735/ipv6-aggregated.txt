@@ -1,4 +1,4 @@
 # AS196735 (AS-JONCZ)
-# JON.CZ s.r.o.
+# PODA a.s.
 #
 2a01:b380::/32

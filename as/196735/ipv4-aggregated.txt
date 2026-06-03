@@ -1,4 +1,4 @@
 # AS196735 (AS-JONCZ)
-# JON.CZ s.r.o.
+# PODA a.s.
 #
 188.75.128.0/18
