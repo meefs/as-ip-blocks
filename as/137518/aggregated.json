@@ -1,13 +1,13 @@
 {
   "asn": 137518,
   "metadata": {
-    "handle": "MAINTAINER-FOR-APNIC",
-    "description": "Maintainer for APNIC stub records",
-    "countryCode": "BD",
-    "country": "Bangladesh",
-    "origin": "inferred",
+    "handle": "IDNIC-RSP-PERSAHABATAN-AS-ID",
+    "description": "Rumah Sakit Umum Persahabatan",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "103.111.124.0/24" ],

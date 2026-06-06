@@ -1,7 +1,6 @@
 # AS154402 (FREDYUN-AS-AP)
 # Shenzhen FredCloud Computing Technology Co. Ltd.
 #
-93.95.117.0/24
 143.20.246.0/24
 144.79.70.0/23
 177.0.140.0/24

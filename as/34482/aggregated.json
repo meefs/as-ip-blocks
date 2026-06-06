@@ -2,11 +2,11 @@
   "asn": 34482,
   "metadata": {
     "handle": "NUUDAY",
-    "description": "TDC Holding A/S",
+    "description": "TDC Brands A/S",
     "countryCode": "DK",
     "country": "Denmark",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

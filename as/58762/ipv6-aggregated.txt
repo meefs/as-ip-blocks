@@ -1,4 +1,6 @@
 # AS58762 (CANDOR-AS-IN)
 # Candor infosolution Pvt Ltd
 #
+2407:c140:100::/40
+2407:c140:200::/40
 2407:c140:a00::/39

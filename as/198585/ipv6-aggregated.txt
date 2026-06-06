@@ -2,3 +2,4 @@
 # LuraHosting Datacenter LTDA
 #
 2a0c:b641:ae0::/47
+2a0c:b641:ae2::/48

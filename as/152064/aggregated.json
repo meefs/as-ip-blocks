@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "IDNIC-M3NET-AS-ID",
     "description": "PT Mitratama Mahadirga Makmur",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "210.87.123.0/24" ],
+    "ipv6": [ ]
   }
 }

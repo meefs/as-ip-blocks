@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "A-S-DANTAS",
     "description": "A. S. DANTAS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2804:9468::/32" ]
   }
 }

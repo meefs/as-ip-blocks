@@ -2,5 +2,4 @@
 # ESTEBAN ROCHE
 #
 2a13:cc87:fe00::/48
-2a13:cc87:fef0::/48
 2a13:cc87:fefd::/48
