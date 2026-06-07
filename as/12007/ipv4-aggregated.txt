@@ -1,5 +1,5 @@
 # AS12007 (RAYASN)
-# Raytheon Company
+# RTX Corporation
 #
 128.13.0.0/16
 138.127.56.0/23

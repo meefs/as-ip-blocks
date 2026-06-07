@@ -1,4 +1,3 @@
 # AS431 (AFCONC-BLOCK1-AS)
 # Air Force Systems Networking
 #
-192.35.109.0/24

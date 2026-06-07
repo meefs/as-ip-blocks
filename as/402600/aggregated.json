@@ -1,13 +1,13 @@
 {
   "asn": 402600,
   "metadata": {
-    "handle": "UN9-LLC",
+    "handle": "UN9",
     "description": "UN9 LLC",
     "countryCode": "US",
     "country": "United States",
-    "origin": "inferred",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],

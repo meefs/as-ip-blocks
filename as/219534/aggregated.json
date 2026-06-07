@@ -1,16 +1,16 @@
 {
-  "asn": 396064,
+  "asn": 219534,
   "metadata": {
-    "handle": "BASTIAAN-MATHIJS-BRINK",
-    "description": "H2 Technologies LLC",
+    "handle": "US-PLUSINFO",
+    "description": "PlusInfo LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ ]
+    "ipv6": [ "2a01:a80::/32" ]
   }
 }
