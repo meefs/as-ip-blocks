@@ -1,3 +1,4 @@
-# AS137633 (GIGALINE)
+# AS137633 (GIGALINE-AS)
 # Gigaline Teleservices Opc Private Limited
 #
+103.189.244.0/24

@@ -2,4 +2,3 @@
 # Syrian Telecommunication Private Closed Joint Stock Company
 #
 188.133.0.0/17
-193.124.192.0/21
