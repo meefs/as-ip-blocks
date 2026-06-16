@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "185.221.62.0/24" ],
     "ipv6": [ ]
   }
 }

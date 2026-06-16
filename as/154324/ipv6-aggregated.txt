@@ -1,4 +1,4 @@
 # AS154324 (APL-AS-AP)
 # AltusCloud Pte. Ltd.
 #
-2602:f7cf::/47
+2602:f7cf:1::/48

@@ -1,4 +1,4 @@
-# AS34427 (COMSENSO)
+# AS34427 (RELIANCEIT)
 # Reliance B.V.
 #
 2a02:720::/32

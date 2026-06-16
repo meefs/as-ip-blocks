@@ -2,11 +2,11 @@
   "asn": 57535,
   "metadata": {
     "handle": "RTV-AS",
-    "description": "RTV Satellite Net SRL",
+    "description": "RTV HD SRL",
     "countryCode": "RO",
     "country": "Romania",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

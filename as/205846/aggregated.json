@@ -6,11 +6,11 @@
     "countryCode": "DK",
     "country": "Denmark",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "185.204.112.0/22" ],
+    "ipv4": [ ],
     "ipv6": [ "2a0a:fdc0::/29" ]
   }
 }

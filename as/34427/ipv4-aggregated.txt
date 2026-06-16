@@ -1,4 +1,4 @@
-# AS34427 (COMSENSO)
+# AS34427 (RELIANCEIT)
 # Reliance B.V.
 #
 77.87.160.0/21

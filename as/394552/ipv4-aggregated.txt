@@ -1,4 +1,4 @@
 # AS394552 (TRSTPT-AS)
 # TrustPoint International
 #
-64.84.2.0/23
+64.84.3.0/24
