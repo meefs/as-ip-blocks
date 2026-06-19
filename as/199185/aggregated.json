@@ -1,0 +1,16 @@
+{
+  "asn": 199185,
+  "metadata": {
+    "handle": "PLUSLAYER",
+    "description": "PLUSLAYER TECHNOLOGIES LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.2.51.0/24" ],
+    "ipv6": [ ]
+  }
+}

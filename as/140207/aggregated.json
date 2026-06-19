@@ -1,0 +1,16 @@
+{
+  "asn": 140207,
+  "metadata": {
+    "handle": "UNISTAR-AS",
+    "description": "United Stars Network Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.148.138.0/23" ],
+    "ipv6": [ ]
+  }
+}

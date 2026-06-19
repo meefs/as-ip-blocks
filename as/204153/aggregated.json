@@ -2,11 +2,11 @@
   "asn": 204153,
   "metadata": {
     "handle": "TELEKONIKA-IX-AS",
-    "description": "LLC Telekonika",
+    "description": "JOINT-STOCK COMPANY TELEPORT TELECOM",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

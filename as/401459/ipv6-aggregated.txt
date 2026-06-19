@@ -1,4 +1,3 @@
 # AS401459 (AS-UADA)
 # Division of Agriculture of the University of Arkansas
 #
-2602:f776::/40

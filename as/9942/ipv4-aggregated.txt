@@ -1,5 +1,5 @@
-# AS9942 (COMINDICO-AP)
-# TPG Internet Pty Ltd
+# AS9942 (AAPT-AS-AP)
+# AAPT Limited
 #
 125.254.0.0/19
 125.254.32.0/20

@@ -1,14 +1,16 @@
 {
   "asn": 147202,
   "metadata": {
-    "handle": "AIRNETF-IN",
+    "handle": "AIRNETF-AS-IN",
     "description": "AIRNET FIBER SOLUTIONS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.175.30.0/23" ],
+    "ipv6": [ ]
   }
 }

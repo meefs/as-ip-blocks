@@ -1,0 +1,16 @@
+{
+  "asn": 329537,
+  "metadata": {
+    "handle": "RADDY-DIGITAL-SOLUTION-LIMITED",
+    "description": "Raddy Digital Solution Limited",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.205.228.0/22" ],
+    "ipv6": [ ]
+  }
+}

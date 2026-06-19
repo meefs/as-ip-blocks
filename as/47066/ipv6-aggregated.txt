@@ -1,4 +1,4 @@
 # AS47066 (PRGMR)
-# prgmr.com Inc.
+# Tornado VPS Inc.
 #
 2605:2700::/32

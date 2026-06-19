@@ -1,0 +1,16 @@
+{
+  "asn": 40180,
+  "metadata": {
+    "handle": "VRC-NET",
+    "description": "van Ryck Communications LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.12.106.0/24" ],
+    "ipv6": [ ]
+  }
+}

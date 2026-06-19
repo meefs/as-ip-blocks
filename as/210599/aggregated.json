@@ -6,11 +6,11 @@
     "countryCode": "LV",
     "country": "Latvia",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "89.124.254.0/23" ],
     "ipv6": [ "2a14:f280::/32" ]
   }
 }

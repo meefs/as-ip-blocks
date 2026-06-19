@@ -1,6 +1,7 @@
 # AS56030 (VOYAGERNET-AS-AP)
 # Voyager Internet Ltd.
 #
+2001:df0:ac00::/44
 2400:6080::/32
 2402:2380::/32
 2402:2980::/32

@@ -1,3 +1,4 @@
 # AS210599 (UBIQUITI-LV)
 # Ubiquiti (Latvia) SIA
 #
+89.124.254.0/23

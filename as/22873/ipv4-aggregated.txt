@@ -1,4 +1,5 @@
 # AS22873 (NEIGHBOURHOOD-CONNECT)
 # Neighbourhood Connect
 #
+38.29.195.0/24
 199.87.240.0/22

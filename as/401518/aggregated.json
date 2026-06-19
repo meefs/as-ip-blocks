@@ -1,0 +1,16 @@
+{
+  "asn": 401518,
+  "metadata": {
+    "handle": "OAI-01",
+    "description": "OpenAI OpCo LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.47.142.0/23" ],
+    "ipv6": [ ]
+  }
+}

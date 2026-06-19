@@ -1,4 +1,5 @@
 # AS219518 (YIGITCANIRAKTAN)
 # Yigitcan Iraktan
 #
+45.145.152.0/24
 153.56.168.0/23

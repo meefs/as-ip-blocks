@@ -1,3 +1,4 @@
 # AS154146 (IDNIC-GLOBALASTA-AS-ID)
 # PT Global Asta Systelematika
 #
+2001:df5:ebc0::/48

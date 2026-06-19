@@ -1,4 +1,4 @@
 # AS61606 (GILVANI-RITTER)
-# Gilvani Ritter - ME
+# NETSET LTDA
 #
 187.109.120.0/24

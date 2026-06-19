@@ -1,5 +1,5 @@
-# AS24130 (TPG-AU)
-# TPG Internet Pty Ltd
+# AS24130 (AAPT-AS-AP)
+# AAPT Limited
 #
 103.15.204.0/22
 203.161.128.0/19

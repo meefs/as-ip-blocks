@@ -1,4 +1,4 @@
-# AS9416 (HOSHIN)
+# AS9416 (KBT)
 # Hoshin Multimedia Center Inc.
 #
 2001:d58::/32

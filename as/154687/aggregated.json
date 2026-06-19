@@ -1,0 +1,16 @@
+{
+  "asn": 154687,
+  "metadata": {
+    "handle": "IDNIC-BUMANET-ID",
+    "description": "PT BUMI MASPUL INTERNET",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.154.0/24" ],
+    "ipv6": [ ]
+  }
+}

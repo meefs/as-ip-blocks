@@ -1,4 +1,4 @@
-# AS9416 (HOSHIN)
+# AS9416 (KBT)
 # Hoshin Multimedia Center Inc.
 #
 58.114.0.0/15

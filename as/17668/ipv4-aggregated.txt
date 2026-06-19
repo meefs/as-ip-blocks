@@ -1,5 +1,5 @@
-# AS17668 (SPTEL-AP)
-# TPG Internet Pty Ltd
+# AS17668 (AAPT-AS-AP)
+# AAPT Limited
 #
 125.254.32.0/24
 125.254.34.0/24

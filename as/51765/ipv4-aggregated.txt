@@ -1,6 +1,7 @@
 # AS51765 (CREANOVA-AS)
 # Oy Crea Nova Hosting Solution Ltd
 #
+45.66.160.0/24
 50.114.220.0/22
 77.83.247.0/24
 77.90.176.0/24

@@ -2,11 +2,11 @@
   "asn": 47066,
   "metadata": {
     "handle": "PRGMR",
-    "description": "prgmr.com Inc.",
+    "description": "Tornado VPS Inc.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

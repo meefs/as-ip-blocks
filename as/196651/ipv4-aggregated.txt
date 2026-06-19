@@ -1,4 +1,4 @@
-# AS196651 (KSD)
+# AS196651 (ITSH)
 # Informatik Schaffhausen (ITSH)
 #
 195.246.244.0/23

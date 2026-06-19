@@ -1,4 +1,4 @@
-# AS398391 (PERIMETER-81-LLC)
+# AS398391 (CHECK-POINT-SASE)
 # Check Point Software Technologies Inc.
 #
 64.226.128.0/20

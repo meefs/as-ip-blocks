@@ -1,7 +1,7 @@
 {
   "asn": 43109,
   "metadata": {
-    "handle": "PITLINE-AS",
+    "handle": "CUSTOMER-AS",
     "description": "Pitline Ltd",
     "countryCode": "UA",
     "country": "Ukraine",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "45.81.112.0/24" ],
     "ipv6": [ ]
   }
 }

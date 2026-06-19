@@ -1,0 +1,16 @@
+{
+  "asn": 329634,
+  "metadata": {
+    "handle": "PLANTATIONS-ET-HUILERIES-DU-CONGO",
+    "description": "STE PLANTATIONS ET HUILERIES DU CONGO S.A.",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.126.0/24" ],
+    "ipv6": [ ]
+  }
+}

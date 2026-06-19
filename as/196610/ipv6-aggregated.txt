@@ -2,3 +2,4 @@
 # DE-CIX Management GmbH
 #
 2a02:c50:db8::/48
+2a0e:cc0::/48

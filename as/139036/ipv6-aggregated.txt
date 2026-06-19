@@ -1,4 +1,3 @@
 # AS139036 (EDGESPEED-AS-AP)
 # Edge Speed
 #
-2402:19a0::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 154534,
+  "metadata": {
+    "handle": "IDNIC-TSPNET-AS-ID",
+    "description": "PT Toparengnge Sinar Pelali",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.15.0/24" ],
+    "ipv6": [ ]
+  }
+}

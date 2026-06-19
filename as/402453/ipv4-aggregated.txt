@@ -2,3 +2,4 @@
 # Wealth Technologies LLC
 #
 64.83.74.0/24
+104.234.42.0/24

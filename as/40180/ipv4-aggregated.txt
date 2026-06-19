@@ -1,0 +1,4 @@
+# AS40180 (VRC-NET)
+# van Ryck Communications LLC
+#
+130.12.106.0/24

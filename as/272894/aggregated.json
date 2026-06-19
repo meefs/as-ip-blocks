@@ -1,0 +1,16 @@
+{
+  "asn": 272894,
+  "metadata": {
+    "handle": "MISTICOM-FIBRA-OPTICA",
+    "description": "MISTICOM FIBRA OPTICA S.A.C.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.10.104.0/22", "38.226.24.0/22", "45.177.196.0/23", "179.43.96.0/22" ],
+    "ipv6": [ ]
+  }
+}

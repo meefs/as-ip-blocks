@@ -1,0 +1,4 @@
+# AS54073 (DN-OH2)
+# Diebold Nixdorf Incorporated
+#
+193.143.24.0/24
