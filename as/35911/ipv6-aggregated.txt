@@ -1,4 +1,4 @@
 # AS35911 (BNQ-1)
-# Telebec
+# Bell Canada
 #
 2604:a280::/32

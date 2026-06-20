@@ -1,14 +1,16 @@
 {
   "asn": 56196,
   "metadata": {
-    "handle": "IBSSNET-NP",
-    "description": "Airwave Pvt. Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "IBSYS-AS-AP",
+    "description": "IBSS Nepal",
+    "countryCode": "NP",
+    "country": "Nepal",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.197.105.0/24" ],
+    "ipv6": [ ]
   }
 }

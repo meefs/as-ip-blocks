@@ -1,0 +1,4 @@
+# AS203114 (ETKINHOST)
+# Eray Maden trading as Etkin Host Bilisim ve Internet Hizmetleri
+#
+45.136.7.0/24

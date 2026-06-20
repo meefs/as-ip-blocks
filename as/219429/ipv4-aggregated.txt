@@ -1,4 +1,4 @@
-# AS219429 (VPN)
+# AS219429 (PROJECT)
 # TA Consulting & Services UG
 #
 5.145.177.0/24

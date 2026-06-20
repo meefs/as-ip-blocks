@@ -1,0 +1,16 @@
+{
+  "asn": 219401,
+  "metadata": {
+    "handle": "YEAH-AS",
+    "description": "Yeah Tech LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.30.90.0/23" ],
+    "ipv6": [ ]
+  }
+}

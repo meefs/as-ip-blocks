@@ -2,5 +2,4 @@
 # Maurice Funke
 #
 2a02:ff80::/32
-2a02:ff87:1ce::/48
-2a02:ff87:beef::/48
+2a02:ff87::/32

@@ -1,12 +1,12 @@
 {
   "asn": 201194,
   "metadata": {
-    "handle": "NAHOR-HADISH-DESIGN-AND-ARCHITECTURE-CO",
+    "handle": "DIGITALVPS",
     "description": "Nahor Hadish Design and Architecture Co. Ltd",
     "countryCode": "IR",
     "country": "Iran",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

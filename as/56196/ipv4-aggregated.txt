@@ -1,3 +1,4 @@
-# AS56196 (IBSSNET-NP)
-# Airwave Pvt. Ltd.
+# AS56196 (IBSYS-AS-AP)
+# IBSS Nepal
 #
+103.197.105.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 219493,
+  "metadata": {
+    "handle": "HOLZEDV-AS",
+    "description": "Holz-EDV UG (haftungsbeschrankt)",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.24.52.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,3 @@
 # AS197770 (AKTIVONLINE-AS)
 # comp.nets.go Gmbh
 #
-194.9.58.0/23

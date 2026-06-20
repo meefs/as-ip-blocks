@@ -1,0 +1,16 @@
+{
+  "asn": 219469,
+  "metadata": {
+    "handle": "PRIVATEBYTE-MNT",
+    "description": "PrivateByte Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.225.93.0/24" ],
+    "ipv6": [ ]
+  }
+}

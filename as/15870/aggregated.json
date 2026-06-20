@@ -2,11 +2,11 @@
   "asn": 15870,
   "metadata": {
     "handle": "BST-AS",
-    "description": "Bst Ltd.",
+    "description": "BS-Telecom llc",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

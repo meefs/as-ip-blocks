@@ -1,3 +1,4 @@
 # AS41869 (BLIXFIBER-AS)
 # Blix Group AS
 #
+2a02:20c8:5920::/44

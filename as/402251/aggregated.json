@@ -1,0 +1,16 @@
+{
+  "asn": 402251,
+  "metadata": {
+    "handle": "BOLD-ROOSEV-HED",
+    "description": "Apogee Telecom Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.80.145.0/24", "69.80.153.0/24" ],
+    "ipv6": [ ]
+  }
+}

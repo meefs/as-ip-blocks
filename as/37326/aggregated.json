@@ -1,12 +1,12 @@
 {
   "asn": 37326,
   "metadata": {
-    "handle": "GICO",
-    "description": "Global Internet Company",
+    "handle": "HORMUUD-TELECOM-SOMALIA",
+    "description": "Hormuud Telecom Somalia INC",
     "countryCode": "SO",
     "country": "Somalia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

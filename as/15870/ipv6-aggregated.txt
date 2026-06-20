@@ -1,4 +1,4 @@
 # AS15870 (BST-AS)
-# Bst Ltd.
+# BS-Telecom llc
 #
 2001:67c:1b28::/48

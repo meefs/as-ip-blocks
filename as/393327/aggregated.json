@@ -1,0 +1,16 @@
+{
+  "asn": 393327,
+  "metadata": {
+    "handle": "EREFIBER",
+    "description": "ERE FIber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.143.250.0/23" ],
+    "ipv6": [ "2604:6840::/32" ]
+  }
+}

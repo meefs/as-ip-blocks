@@ -1,0 +1,16 @@
+{
+  "asn": 219463,
+  "metadata": {
+    "handle": "THEBATTLE-GROUP-LTD",
+    "description": "THEBATTLE GROUP LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.123.172.0/24" ],
+    "ipv6": [ ]
+  }
+}

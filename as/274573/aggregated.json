@@ -1,0 +1,16 @@
+{
+  "asn": 274573,
+  "metadata": {
+    "handle": "CAMARA-MUNICIPAL-JOAO-PESSOA",
+    "description": "CAMARA MUNICIPAL DE JOAO PESSOA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:81:1b0::/48" ]
+  }
+}

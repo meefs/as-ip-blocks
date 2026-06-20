@@ -1,0 +1,16 @@
+{
+  "asn": 203114,
+  "metadata": {
+    "handle": "ETKINHOST",
+    "description": "Eray Maden trading as Etkin Host Bilisim ve Internet Hizmetleri",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.136.7.0/24" ],
+    "ipv6": [ ]
+  }
+}

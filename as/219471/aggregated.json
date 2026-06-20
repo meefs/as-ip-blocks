@@ -1,0 +1,16 @@
+{
+  "asn": 219471,
+  "metadata": {
+    "handle": "OPERAVPS-AS",
+    "description": "OPERA VPS HOSTING INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.214.98.0/24" ],
+    "ipv6": [ ]
+  }
+}
