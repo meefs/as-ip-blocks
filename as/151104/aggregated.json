@@ -1,0 +1,16 @@
+{
+  "asn": 151104,
+  "metadata": {
+    "handle": "GIGANETF-AS-IN",
+    "description": "Giganetwork Info Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "51.241.137.0/24", "65.86.199.0/24", "164.37.200.0/24", "188.220.119.0/24", "188.221.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS151198 (IDNIC-NEXZET-AS-ID)
+# PT Nexzet Network Digital
+#
+2001:df7:1940::/48

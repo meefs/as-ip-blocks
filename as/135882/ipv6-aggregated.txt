@@ -1,4 +1,3 @@
 # AS135882 (SPARKONLINE-AS-AP)
 # Spark Online
 #
-2400:1140::/32

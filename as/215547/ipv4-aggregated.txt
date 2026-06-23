@@ -1,4 +1,5 @@
 # AS215547 (MEGASPACE2)
 # Megaspace Internet Services GmbH
 #
+89.33.16.0/24
 185.91.24.0/22

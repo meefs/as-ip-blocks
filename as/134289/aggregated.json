@@ -1,14 +1,16 @@
 {
   "asn": 134289,
   "metadata": {
-    "handle": "GCNBROADBANDPRIVATELIMITED",
+    "handle": "GCNBROADBANDPRIVATELIMITED-AS",
     "description": "GCN BROADBAND PVT LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "46.202.70.0/24", "78.105.118.0/24", "82.26.197.0/24", "164.37.201.0/24", "188.220.125.0/24" ],
+    "ipv6": [ ]
   }
 }

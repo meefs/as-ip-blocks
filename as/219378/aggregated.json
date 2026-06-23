@@ -1,0 +1,16 @@
+{
+  "asn": 219378,
+  "metadata": {
+    "handle": "SAKARIN-NETWORK",
+    "description": "ZHANG XIYUAN",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7583:efff::/48" ]
+  }
+}

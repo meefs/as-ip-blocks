@@ -2,4 +2,5 @@
 # Centro de Investigación en Matemáticas A.C.
 #
 148.207.185.0/24
+148.207.187.0/24
 148.207.188.0/24

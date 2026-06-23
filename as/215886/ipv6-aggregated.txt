@@ -1,3 +1,4 @@
 # AS215886 (ZAINCO-CO-AS)
 # The Zainco Company for Internet Services and Information Technology JSC
 #
+2a01:f6c0::/29

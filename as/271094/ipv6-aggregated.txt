@@ -1,4 +1,5 @@
 # AS271094 (SOLUTI-FIBRA-TELECOMUNICACOES)
 # Soluti Fibra Telecomunicações Ltda
 #
+2804:762c:2000::/36
 2804:762c:6000::/36

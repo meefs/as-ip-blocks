@@ -2,6 +2,7 @@
 # Developed Methods LLC
 #
 2602:fbaf::/48
+2602:fbaf:202::/48
 2602:fbaf:20b::/48
 2602:fbaf:210::/48
 2602:fbaf:212::/47

@@ -2,4 +2,5 @@
 # Nanning Huifa Technology Co Ltd
 #
 91.239.148.0/24
+155.117.242.0/24
 189.73.19.0/24

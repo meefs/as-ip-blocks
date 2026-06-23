@@ -1,5 +1,5 @@
-# AS10110 (MITNZ-AS-AP)
-# Te Pukenga - New Zealand Institute of Skills and Technology
+# AS10110 (MIOTAU-AS-AP)
+# Manukau Institute of Technology and Unitec
 #
 202.14.216.0/24
 203.176.154.0/23

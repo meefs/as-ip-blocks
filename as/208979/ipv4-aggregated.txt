@@ -1,0 +1,4 @@
+# AS208979 (CANADA-TE-UA-AS)
+# Canada Network Group LLC
+#
+31.148.171.0/24

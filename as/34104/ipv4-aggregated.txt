@@ -1,0 +1,4 @@
+# AS34104 (GLOBAL-AS)
+# Superonline Iletisim Hizmetleri A.S.
+#
+213.226.117.0/24

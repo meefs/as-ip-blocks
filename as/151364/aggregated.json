@@ -1,0 +1,16 @@
+{
+  "asn": 151364,
+  "metadata": {
+    "handle": "IRINN-ARKCA-AS-IN",
+    "description": "ARKCA CORPORATE SOLUTION PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.97.0/24" ],
+    "ipv6": [ ]
+  }
+}

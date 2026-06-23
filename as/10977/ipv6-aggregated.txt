@@ -1,4 +1,4 @@
 # AS10977 (JIANYUELAB-AS)
 # JianyueLab
 #
-2a12:cb45:10::/44
+2a12:cb45::/43

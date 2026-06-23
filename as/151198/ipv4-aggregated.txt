@@ -1,0 +1,4 @@
+# AS151198 (IDNIC-NEXZET-AS-ID)
+# PT Nexzet Network Digital
+#
+162.4.219.0/24

@@ -1,3 +1,4 @@
 # AS209022 (TSCHAJERA-LIMITED)
 # Tschajera Limited
 #
+143.246.143.0/24

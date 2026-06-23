@@ -1,0 +1,4 @@
+# AS395727 (ASN-INTELLIC)
+# Intellicom Computer Consulting Inc.
+#
+199.36.118.0/24

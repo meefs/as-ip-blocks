@@ -1,0 +1,16 @@
+{
+  "asn": 219443,
+  "metadata": {
+    "handle": "DANEBERG-AS",
+    "description": "Ints Danebergs",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.183.169.0/24" ],
+    "ipv6": [ ]
+  }
+}

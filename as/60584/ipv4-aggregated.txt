@@ -1,4 +1,4 @@
 # AS60584 (PRIME-AS)
-# Prime Studio s.r.o.
+# IN8INITY GLOBAL LIMITED
 #
 193.200.243.0/24
