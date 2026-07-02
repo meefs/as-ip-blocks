@@ -1,4 +1,7 @@
 # AS27563 (SEGRA-UNITY)
 # Spirit Communications
 #
+2607:fc68:22::/48
 2607:fc68:24::/48
+2607:fc68:27::/48
+2607:fc68:28::/48

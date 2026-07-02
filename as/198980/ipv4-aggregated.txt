@@ -1,0 +1,4 @@
+# AS198980 (BDP-PT)
+# Banco de Portugal
+#
+194.125.242.0/23

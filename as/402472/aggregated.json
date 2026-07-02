@@ -1,0 +1,16 @@
+{
+  "asn": 402472,
+  "metadata": {
+    "handle": "POPCORN",
+    "description": "Popcorn",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.204.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

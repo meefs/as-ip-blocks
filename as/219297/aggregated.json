@@ -1,0 +1,16 @@
+{
+  "asn": 219297,
+  "metadata": {
+    "handle": "C0REDEV-AS",
+    "description": "Vadim Deynichenko",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:d940:67::/48" ]
+  }
+}

@@ -1,3 +1,4 @@
 # AS142216 (IDNIC-TRIDATA-AS-ID)
 # PT Tridata Network Indonesia
 #
+2001:df6:73c0::/48

@@ -1,5 +1,5 @@
 # AS49113 (CABLOTEL)
-# Petignat Jean-Charles trading as Cablotel Telereseaux
+# Cablotel S.A.
 #
 77.234.56.0/21
 91.201.148.0/22

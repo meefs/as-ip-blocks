@@ -1,16 +1,16 @@
 {
   "asn": 56367,
   "metadata": {
-    "handle": "HEXIT",
-    "description": "HEXIT (USA) LLC",
-    "countryCode": "US",
-    "country": "United States",
+    "handle": "ALUE-NET",
+    "description": "ALUE LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
     "origin": "authoritative",
     "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2602:f864:d00::/40" ]
+    "ipv6": [ "2602:f864:d00::/40", "2a0f:1cc5:4010::/48" ]
   }
 }

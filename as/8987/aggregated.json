@@ -1,10 +1,10 @@
 {
   "asn": 8987,
   "metadata": {
-    "handle": "AWS-GOVCLOUD",
-    "description": "Amazon Data Services Ireland Ltd",
-    "countryCode": "IE",
-    "country": "Ireland",
+    "handle": "GOVCLOUD",
+    "description": "Amazon Technologies Inc.",
+    "countryCode": "US",
+    "country": "United States",
     "origin": "authoritative",
     "category": "hosting",
     "networkRole": "access_provider"

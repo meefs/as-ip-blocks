@@ -1,0 +1,4 @@
+# AS219297 (C0REDEV-AS)
+# Vadim Deynichenko
+#
+2a0d:d940:67::/48

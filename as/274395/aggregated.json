@@ -1,0 +1,16 @@
+{
+  "asn": 274395,
+  "metadata": {
+    "handle": "MV-NET-TELECOM-CRISTAIS",
+    "description": "Mv Net Telecom Cristais LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9740::/32" ]
+  }
+}

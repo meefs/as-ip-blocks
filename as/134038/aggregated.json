@@ -1,0 +1,16 @@
+{
+  "asn": 134038,
+  "metadata": {
+    "handle": "JOISTERSHRISADGURU-AS-IN",
+    "description": "SHRI SADGURU BROADNET SERVICE",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.83.85.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS198733 (HELIKON)
+# Helikon Teknoloji ve Medya Ticaret Limited Sirketi
+#
+185.104.1.0/24

@@ -1,5 +1,4 @@
 # AS26639 (ACEDATACENTERS)
 # Ace Data Centers II L.L.C.
 #
-13.142.186.0/24
 144.225.59.0/24

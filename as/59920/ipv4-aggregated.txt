@@ -1,3 +1,4 @@
 # AS59920 (LUSORY)
 # Lusory Limited
 #
+169.128.48.0/24

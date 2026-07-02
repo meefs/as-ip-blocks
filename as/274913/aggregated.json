@@ -1,0 +1,16 @@
+{
+  "asn": 274913,
+  "metadata": {
+    "handle": "HCTERCOM-DOMINICANA",
+    "description": "HCTERCOM DOMINICANA SRL",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.88.180.0/23" ],
+    "ipv6": [ ]
+  }
+}

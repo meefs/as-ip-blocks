@@ -1,0 +1,16 @@
+{
+  "asn": 219340,
+  "metadata": {
+    "handle": "KUSIGMA",
+    "description": "KUSIGMA LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.190.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 132776,
+  "metadata": {
+    "handle": "VCONNECT-AS",
+    "description": "V CONNECT TECHNOLOGIES PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.113.179.0/24" ],
+    "ipv6": [ ]
+  }
+}

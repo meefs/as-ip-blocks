@@ -1,4 +1,3 @@
 # AS37424 (SPACETEL-BENIN)
 # SPACETEL Benin
 #
-2c0f:f9f8::/32

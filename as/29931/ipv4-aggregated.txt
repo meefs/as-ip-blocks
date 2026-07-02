@@ -1,5 +1,4 @@
 # AS29931 (ACE-ISP-BROADBAND)
 # Ace Data Centers II L.L.C.
 #
-13.142.189.0/24
 144.225.62.0/24

@@ -1,4 +1,4 @@
 # AS57098 (IMEDIA-AS)
-# Imedia Plus Group SA
+# iMedia Plus Group S.R.L.
 #
 31.14.18.0/24

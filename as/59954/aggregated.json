@@ -1,0 +1,16 @@
+{
+  "asn": 59954,
+  "metadata": {
+    "handle": "KEYPOINT-SPB",
+    "description": "Truenetwork LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.54.247.0/24" ],
+    "ipv6": [ ]
+  }
+}

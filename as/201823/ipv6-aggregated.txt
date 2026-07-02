@@ -1,0 +1,4 @@
+# AS201823 (IPGUARD)
+# Andrii Kovtun
+#
+2a0d:d940:6a::/48

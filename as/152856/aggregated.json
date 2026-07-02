@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "GENEX-AS-AP",
     "description": "Genex Infosys Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.159.210.0/23" ],
+    "ipv6": [ ]
   }
 }

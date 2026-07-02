@@ -2,3 +2,4 @@
 # Stiftelsen for Internetinfrastruktur
 #
 2001:67c:124c::/48
+2a10:ba00:30::/48

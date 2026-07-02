@@ -2,3 +2,4 @@
 # PT Indotech Mitra Digital
 #
 2405:1c0:6044::/48
+2405:1c0:f111::/48

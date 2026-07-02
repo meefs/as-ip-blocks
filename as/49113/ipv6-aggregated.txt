@@ -1,4 +1,4 @@
 # AS49113 (CABLOTEL)
-# Petignat Jean-Charles trading as Cablotel Telereseaux
+# Cablotel S.A.
 #
 2a00:cd40::/32

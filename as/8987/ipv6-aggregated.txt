@@ -1,5 +1,5 @@
-# AS8987 (AWS-GOVCLOUD)
-# Amazon Data Services Ireland Ltd
+# AS8987 (GOVCLOUD)
+# Amazon Technologies Inc.
 #
 2600:1f00:5000::/40
 2600:1f12::/36

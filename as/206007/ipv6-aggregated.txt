@@ -1,4 +1,4 @@
 # AS206007 (ROBERT-AS)
-# Suciu Robert Mihai
+# SG TECH SOLUTIONS SRL
 #
 2a14:7580:ff96::/48

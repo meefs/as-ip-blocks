@@ -1,0 +1,16 @@
+{
+  "asn": 219445,
+  "metadata": {
+    "handle": "ZEPHYR-AS",
+    "description": "LLC ZEFIR",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.130.224.0/23" ],
+    "ipv6": [ ]
+  }
+}

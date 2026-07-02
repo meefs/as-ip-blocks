@@ -1,0 +1,16 @@
+{
+  "asn": 134915,
+  "metadata": {
+    "handle": "GIGABYTESBROADBAND-AS",
+    "description": "Gigabytes Broadband Pvt Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.219.28.0/24" ],
+    "ipv6": [ ]
+  }
+}

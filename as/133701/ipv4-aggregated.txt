@@ -1,4 +1,4 @@
 # AS133701 (ACPL-AS)
 # Akhuratha Communications Pvt. ltd
 #
-31.57.155.0/24
+217.8.203.0/24

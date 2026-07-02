@@ -2,4 +2,3 @@
 # Heptasky Hong Kong Limited
 #
 2401:fd20::/32
-2602:f778::/40

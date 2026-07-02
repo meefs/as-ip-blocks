@@ -1,0 +1,16 @@
+{
+  "asn": 29160,
+  "metadata": {
+    "handle": "ACIS-AS",
+    "description": "Arabcircle Internet Services for Saudi Arabia",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "88.81.0.0/19" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,5 +1,5 @@
 # AS51815 (TEKNIKBYRAN)
-# GlobalConnect AB
+# Kustbandet AB
 #
 2001:67c:5f4::/48
 2001:67c:19a4::/48

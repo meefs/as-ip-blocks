@@ -6,11 +6,11 @@
     "countryCode": "GB",
     "country": "United Kingdom",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ ],
-    "ipv6": [ "2a07:54c1:5000::/48" ]
+    "ipv4": [ "169.128.48.0/24" ],
+    "ipv6": [ ]
   }
 }

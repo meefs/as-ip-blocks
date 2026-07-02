@@ -2,3 +2,4 @@
 # Nymbis Cloud Solutions Pty Ltd
 #
 102.208.36.0/22
+102.212.173.0/24
