@@ -6,11 +6,11 @@
     "countryCode": "LT",
     "country": "Lithuania",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "164.37.43.0/24" ],
     "ipv6": [ "2001:67c:24a4::/48" ]
   }
 }

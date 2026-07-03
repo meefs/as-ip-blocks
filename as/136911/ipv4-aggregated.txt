@@ -2,3 +2,4 @@
 # Asian University for Women
 #
 103.98.135.0/24
+160.236.45.0/24

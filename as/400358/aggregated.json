@@ -1,0 +1,16 @@
+{
+  "asn": 400358,
+  "metadata": {
+    "handle": "TOTALDATALOSS",
+    "description": "TOTALDATALOSS LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.80.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

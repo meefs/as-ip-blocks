@@ -1,0 +1,16 @@
+{
+  "asn": 4989,
+  "metadata": {
+    "handle": "NEXXEN-USEAST-02",
+    "description": "RhythmOne LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.208.208.0/22" ],
+    "ipv6": [ ]
+  }
+}

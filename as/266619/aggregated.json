@@ -2,7 +2,7 @@
   "asn": 266619,
   "metadata": {
     "handle": "LOGPLAY-TELECOM",
-    "description": "LOGPLAY TELECOM",
+    "description": "WEBVIVA TELECOMUNICACOES LTDA - SIGA FIBRA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
@@ -10,7 +10,7 @@
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ "45.7.217.0/24", "45.7.218.0/23", "177.137.169.0/24" ],
+    "ipv4": [ "45.7.217.0/24", "45.7.218.0/23" ],
     "ipv6": [ "2804:3ec4:110::/44" ]
   }
 }

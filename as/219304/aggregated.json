@@ -1,0 +1,16 @@
+{
+  "asn": 219304,
+  "metadata": {
+    "handle": "MARFEEL",
+    "description": "Marfeel Solutions S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.247.125.0/24" ],
+    "ipv6": [ ]
+  }
+}

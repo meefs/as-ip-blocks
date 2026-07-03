@@ -1,14 +1,16 @@
 {
   "asn": 131651,
   "metadata": {
-    "handle": "LOONGAMING-AS-TW",
-    "description": "loongaming",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "LAZCO",
+    "description": "Lazco Corporation",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2402:4f20:5::/48" ]
   }
 }

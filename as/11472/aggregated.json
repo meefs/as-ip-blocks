@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "YOUR-TOWN-ONLINE",
     "description": "Your Town Online",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "208.65.32.0/22", "216.7.64.0/20" ],
+    "ipv6": [ "2605:8480::/32" ]
   }
 }

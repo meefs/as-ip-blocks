@@ -1,0 +1,16 @@
+{
+  "asn": 266974,
+  "metadata": {
+    "handle": "SANTIAGO-FALCAO",
+    "description": "SANTIAGO & FALCAO LTDA - GIGA NET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.225.244.0/22" ],
+    "ipv6": [ "2804:4630::/32" ]
+  }
+}

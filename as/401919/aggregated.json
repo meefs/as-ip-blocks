@@ -1,0 +1,16 @@
+{
+  "asn": 401919,
+  "metadata": {
+    "handle": "AS401919",
+    "description": "Pinehurst Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f56d:1::/48", "2602:f56d:2::/48" ]
+  }
+}

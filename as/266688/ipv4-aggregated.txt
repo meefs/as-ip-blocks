@@ -1,4 +1,4 @@
 # AS266688 (CG-INVESTMENT-SOCIEDAD-ANONIMA)
-# CG Investment Sociedad Anonima
+# Blue Consulting Group S. A.
 #
 45.229.128.0/22

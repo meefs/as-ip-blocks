@@ -2,3 +2,4 @@
 # Mijad Technology Services Company OP LLC
 #
 45.194.45.0/24
+177.29.245.0/24

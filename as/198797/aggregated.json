@@ -1,0 +1,16 @@
+{
+  "asn": 198797,
+  "metadata": {
+    "handle": "BERENBERG",
+    "description": "BERENBERG Beteiligungsholding GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.218.167.0/24" ],
+    "ipv6": [ "2a12:e947::/32" ]
+  }
+}

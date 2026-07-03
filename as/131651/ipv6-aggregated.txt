@@ -1,3 +1,4 @@
-# AS131651 (LOONGAMING-AS-TW)
-# loongaming
+# AS131651 (LAZCO)
+# Lazco Corporation
 #
+2402:4f20:5::/48

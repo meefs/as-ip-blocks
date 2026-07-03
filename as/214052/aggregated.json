@@ -1,14 +1,16 @@
 {
   "asn": 214052,
   "metadata": {
-    "handle": "AS214052",
-    "description": "Unknown AS 214052",
-    "countryCode": null,
-    "country": null,
-    "origin": "none"
+    "handle": "TNCA",
+    "description": "TNCA LLC",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "84.38.5.0/24" ],
+    "ipv6": [ ]
   }
 }
