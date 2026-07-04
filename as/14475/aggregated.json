@@ -1,0 +1,16 @@
+{
+  "asn": 14475,
+  "metadata": {
+    "handle": "D4-NETW",
+    "description": "D4 Networks L.L.C.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.85.94.0/24" ],
+    "ipv6": [ "2602:f38e:2::/48" ]
+  }
+}

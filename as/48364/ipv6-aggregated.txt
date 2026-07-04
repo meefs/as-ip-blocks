@@ -1,4 +1,4 @@
 # AS48364 (ACVYSKOV-AS)
-# Radim Pytela trading as AC Vyskov
+# Pe3ny Net s.r.o.
 #
 2a02:40e0::/32

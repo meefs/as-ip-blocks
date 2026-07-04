@@ -1,14 +1,16 @@
 {
   "asn": 139552,
   "metadata": {
-    "handle": "ICONECT-IN",
+    "handle": "ICONECT-AS-IN",
     "description": "Iconnect",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "82.109.151.0/24" ],
+    "ipv6": [ ]
   }
 }

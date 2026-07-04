@@ -2,15 +2,15 @@
   "asn": 41157,
   "metadata": {
     "handle": "OXYMIUM",
-    "description": "Oxymium SARL",
+    "description": "oui.do/netsys SAS",
     "countryCode": "FR",
     "country": "France",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "81.201.176.0/20" ],
+    "ipv4": [ ],
     "ipv6": [ "2a02:2218::/29" ]
   }
 }

@@ -1,5 +1,4 @@
 # AS61621 (NORTENET-TELECOMUNICACOES)
 # Norte.Net Telecomunicações Ltda
 #
-2804:164:c000::/40
 2804:4d3c::/32

@@ -1,4 +1,4 @@
 # AS12619 (YEDIOT-AS)
-# Yediot Information Technologies ltd
+# Yediot Information Technologies Ltd.
 #
 192.115.80.0/22

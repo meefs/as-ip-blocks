@@ -1,0 +1,16 @@
+{
+  "asn": 139492,
+  "metadata": {
+    "handle": "GVTELECOM-AS-IN",
+    "description": "GV TELECOM",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.83.232.0/24", "192.102.133.0/24" ],
+    "ipv6": [ ]
+  }
+}

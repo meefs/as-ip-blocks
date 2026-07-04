@@ -1,4 +1,4 @@
-# AS135021 (PLATFORMPLUS-AS-AP)
-# PlatformPlus Limited
+# AS135021 (TMGCLOUDLAND-AS-AP)
+# TMG Cloudland Limited
 #
 103.167.56.0/23

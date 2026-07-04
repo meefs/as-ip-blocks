@@ -1,3 +1,4 @@
 # AS212996 (ZEROAV-CUST)
 # Zero Attack Vector LLC
 #
+176.10.89.0/24

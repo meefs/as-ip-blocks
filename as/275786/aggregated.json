@@ -1,0 +1,16 @@
+{
+  "asn": 275786,
+  "metadata": {
+    "handle": "INFRA-DIGITAL-TECNOLOGIA",
+    "description": "INFRA DIGITAL TECNOLOGIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:81:270::/48" ]
+  }
+}

@@ -1,14 +1,16 @@
 {
   "asn": 147288,
   "metadata": {
-    "handle": "SPIDERNT-IN",
+    "handle": "SPIDERNT-AS-IN",
     "description": "SPIDER NET",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "16.216.12.0/24", "83.98.198.0/24" ],
+    "ipv6": [ ]
   }
 }

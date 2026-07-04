@@ -1,3 +1,4 @@
 # AS136341 (SPRINTNET-AS)
 # Sprintnet
 #
+217.8.200.0/24

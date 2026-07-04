@@ -1,14 +1,16 @@
 {
   "asn": 138932,
   "metadata": {
-    "handle": "GNSB-AP",
-    "description": "GRIDCLOUD NETWORK SDN BHD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "IDNIC-HOTNET-ID",
+    "description": "PT BAGUS CITRA PERSADA UTAMA",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "165.99.150.0/24" ],
+    "ipv6": [ ]
   }
 }

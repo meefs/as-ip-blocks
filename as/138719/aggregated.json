@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "CONNECTO-AS",
     "description": "Connect Online",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "185.220.199.0/24", "192.6.164.0/24", "192.144.78.0/24" ],
+    "ipv6": [ ]
   }
 }

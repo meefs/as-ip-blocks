@@ -1,3 +1,5 @@
 # AS219297 (C0REDEV-AS)
 # Vadim Deynichenko
 #
+198.157.13.0/24
+198.157.18.0/24

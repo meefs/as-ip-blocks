@@ -1,4 +1,4 @@
 # AS41157 (OXYMIUM)
-# Oxymium SARL
+# oui.do/netsys SAS
 #
 2a02:2218::/29

@@ -2,4 +2,3 @@
 # Rede.com Telecom Ltda - ME
 #
 45.4.144.0/22
-170.78.16.0/24

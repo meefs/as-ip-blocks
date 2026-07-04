@@ -1,4 +1,3 @@
 # AS41157 (OXYMIUM)
-# Oxymium SARL
+# oui.do/netsys SAS
 #
-81.201.176.0/20

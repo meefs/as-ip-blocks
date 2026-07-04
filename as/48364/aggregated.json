@@ -2,11 +2,11 @@
   "asn": 48364,
   "metadata": {
     "handle": "ACVYSKOV-AS",
-    "description": "Radim Pytela trading as AC Vyskov",
+    "description": "Pe3ny Net s.r.o.",
     "countryCode": "CZ",
     "country": "Czechia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

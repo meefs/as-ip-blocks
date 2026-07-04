@@ -1,0 +1,16 @@
+{
+  "asn": 198308,
+  "metadata": {
+    "handle": "TIPTOP-AS",
+    "description": "TipTopNet Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "95.164.89.0/24", "95.164.117.0/24", "95.164.162.0/24" ],
+    "ipv6": [ ]
+  }
+}
