@@ -1,14 +1,16 @@
 {
   "asn": 137134,
   "metadata": {
-    "handle": "ZEACLOUD-IN",
+    "handle": "ZEACLOUD-AS-IN",
     "description": "ZEACLOUD SERVICES PRIVATE LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "144.79.226.0/24" ],
+    "ipv6": [ ]
   }
 }

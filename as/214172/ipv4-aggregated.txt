@@ -1,4 +1,4 @@
-# AS214172 (PURESERVERS)
+# AS214172 (DEPOWERED)
 # DePowered Limited
 #
 5.253.188.0/24

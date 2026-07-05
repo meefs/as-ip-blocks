@@ -1,0 +1,16 @@
+{
+  "asn": 151041,
+  "metadata": {
+    "handle": "INTERNETVILLAGE-AS-AP",
+    "description": "Internet Village",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.114.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,5 @@
 # AS264500 (SOULTELECOM-PROVEDOR-ACESSO)
 # SoulTelecom - Provedor de Acesso a Internet
 #
+38.236.165.0/24
 131.255.228.0/22

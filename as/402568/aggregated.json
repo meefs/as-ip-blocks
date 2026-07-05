@@ -1,0 +1,16 @@
+{
+  "asn": 402568,
+  "metadata": {
+    "handle": "AVERSON-IT",
+    "description": "Averson IT",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.17.242.0/24" ],
+    "ipv6": [ ]
+  }
+}

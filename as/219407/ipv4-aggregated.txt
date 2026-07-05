@@ -1,4 +1,4 @@
-# AS219407 (HAN)
+# AS219407 (RU-TRANSIT)
 # German Khanin
 #
 83.171.245.0/24

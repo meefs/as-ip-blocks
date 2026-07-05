@@ -1,3 +1,4 @@
 # AS136645 (LINKUP-AS-IN)
 # Linkup Networks Pvt Ltd
 #
+2401:760::/32

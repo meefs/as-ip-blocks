@@ -2,3 +2,4 @@
 # Aleksejs Pinajevs
 #
 2a0d:d940:110::/44
+2a0d:d940:150::/44
