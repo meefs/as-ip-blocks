@@ -1,0 +1,16 @@
+{
+  "asn": 135820,
+  "metadata": {
+    "handle": "HOSTPAPA",
+    "description": "HostPapa",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "72.11.129.0/24", "198.23.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

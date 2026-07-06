@@ -1,6 +1,7 @@
 # AS58232 (HADERAN)
 # Parsun Network Solutions PTY LTD
 #
+13.143.253.0/24
 45.135.195.0/24
 95.135.125.0/24
 144.225.243.0/24

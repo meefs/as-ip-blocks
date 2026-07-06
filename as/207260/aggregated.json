@@ -1,0 +1,16 @@
+{
+  "asn": 207260,
+  "metadata": {
+    "handle": "DIPLOMAT-SET",
+    "description": "Diplomat Distributors (1968) Ltd",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "147.234.82.0/24" ],
+    "ipv6": [ ]
+  }
+}

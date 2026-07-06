@@ -1,5 +1,5 @@
 # AS202294 (NETLOJIK-BT)
 # Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi
 #
-2a0f:6280:b00b::/48
+2a0f:6280:8000::/34
 2a0f:6284:8::/48

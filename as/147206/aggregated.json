@@ -1,14 +1,16 @@
 {
   "asn": 147206,
   "metadata": {
-    "handle": "SOUBHAGYA-IN",
+    "handle": "SOUBHAGYA-AS-IN",
     "description": "Khandual Nets Private Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "46.202.98.0/24", "92.112.47.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -2,13 +2,15 @@
   "asn": 16313,
   "metadata": {
     "handle": "LBB-AS",
-    "description": "Landesbank Berlin AG",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "description": "BSK 1818 AG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "193.31.160.0/19" ],
+    "ipv6": [ ]
   }
 }

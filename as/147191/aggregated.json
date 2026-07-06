@@ -1,0 +1,16 @@
+{
+  "asn": 147191,
+  "metadata": {
+    "handle": "MBPL-AS-IN",
+    "description": "K-Pix Networks",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.226.138.0/24" ],
+    "ipv6": [ ]
+  }
+}

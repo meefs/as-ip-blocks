@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "BONTEKOE",
     "description": "Wieger Bontekoe",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "2.26.169.0/24" ],
+    "ipv6": [ ]
   }
 }
