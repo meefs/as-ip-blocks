@@ -2,3 +2,4 @@
 # Xaviero Xaviel Kajafas trading as Internalhost
 #
 108.165.192.0/24
+172.82.89.0/24

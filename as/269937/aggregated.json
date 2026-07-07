@@ -1,0 +1,16 @@
+{
+  "asn": 269937,
+  "metadata": {
+    "handle": "POSITIVA-COMPANIA-SEGUROS",
+    "description": "POSITIVA COMPAÑIA DE SEGUROS S.A",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:16a::/44" ]
+  }
+}

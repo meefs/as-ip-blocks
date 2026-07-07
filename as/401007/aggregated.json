@@ -1,14 +1,16 @@
 {
   "asn": 401007,
   "metadata": {
-    "handle": "GIGANET-WIRELESS-PUERTO-RICO",
+    "handle": "SOLWAVE-NETWORKS-LLC",
     "description": "C&C Wireless Puerto Rico",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PR",
+    "country": "Puerto Rico",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "23.181.240.0/24" ],
+    "ipv6": [ "2602:fc7b::/36" ]
   }
 }

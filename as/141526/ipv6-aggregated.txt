@@ -1,4 +1,3 @@
 # AS141526 (JBNOPL-AS-IN)
 # Jbn Online Private Limited
 #
-2400:c020::/32

@@ -2,4 +2,3 @@
 # Phibee Telecom SAS
 #
 2a00:1bf8::/32
-2a02:c88::/32

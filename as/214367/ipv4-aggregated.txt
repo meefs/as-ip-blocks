@@ -1,4 +1,4 @@
 # AS214367 (RU-PAYGINE)
-# Pay Engine Limited
+# JSC Pay Engine
 #
 46.8.207.0/24

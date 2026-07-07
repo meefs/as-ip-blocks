@@ -1,0 +1,16 @@
+{
+  "asn": 219275,
+  "metadata": {
+    "handle": "PROJECTX",
+    "description": "TA Consulting & Services UG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.52.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

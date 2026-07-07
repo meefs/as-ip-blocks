@@ -2,3 +2,4 @@
 # Joint Stock Company Sirena-Travel
 #
 193.104.87.0/24
+194.84.25.0/24

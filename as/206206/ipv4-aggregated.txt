@@ -2,6 +2,7 @@
 # Kurdistan Net Company for Computer and Internet Ltd.
 #
 37.156.104.0/22
+46.243.21.0/24
 150.251.176.0/22
 185.24.60.0/22
 185.106.28.0/22

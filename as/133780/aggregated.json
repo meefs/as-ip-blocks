@@ -1,0 +1,16 @@
+{
+  "asn": 133780,
+  "metadata": {
+    "handle": "QMC-AS-AP",
+    "description": "Quantum Mesh Co. Ltd.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.51.0/24" ],
+    "ipv6": [ "2001:df6:6240::/48" ]
+  }
+}

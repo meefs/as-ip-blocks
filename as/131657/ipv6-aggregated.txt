@@ -1,4 +1,5 @@
 # AS131657 (AS-FASTLINE)
 # Hong Da Storage Equipment Co. Ltd.
 #
-2406:48c0::/32
+2406:48c0:1176::/47
+2406:48c0:1189::/48

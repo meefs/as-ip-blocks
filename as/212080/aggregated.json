@@ -6,11 +6,11 @@
     "countryCode": "IR",
     "country": "Iran",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "95.215.173.0/24", "194.33.106.0/24" ],
     "ipv6": [ "2a06:de06:385::/48" ]
   }
 }

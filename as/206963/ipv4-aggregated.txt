@@ -1,5 +1,5 @@
 # AS206963 (SPRINTCDN)
-# PE Brezhnev Daniil
+# SPRINTCDN LLC
 #
 62.76.227.0/24
 80.71.230.0/24

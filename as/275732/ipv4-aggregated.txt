@@ -1,3 +1,4 @@
 # AS275732 (NEWVOX-TELECOMUNICACOES)
 # Newvox Telecomunicações LTDA
 #
+178.92.217.0/24
