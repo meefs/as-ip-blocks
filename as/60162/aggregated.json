@@ -2,11 +2,11 @@
   "asn": 60162,
   "metadata": {
     "handle": "CLOUDDC-AS",
-    "description": "LLC IMT",
+    "description": "SIBINTEK DATA CENTER LLC",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

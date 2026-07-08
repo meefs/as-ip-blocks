@@ -1,4 +1,3 @@
 # AS134055 (GUJARATKUTCHNETWORK-AS)
 # Gtpl Broadband Pvt. Ltd
 #
-103.249.88.0/24

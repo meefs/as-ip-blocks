@@ -1,4 +1,5 @@
 # AS138764 (USERCHAI-AS)
 # Chaitali Communications Opc Private Limited
 #
+189.12.63.0/24
 189.31.221.0/24

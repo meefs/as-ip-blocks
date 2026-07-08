@@ -1,0 +1,16 @@
+{
+  "asn": 197700,
+  "metadata": {
+    "handle": "TK",
+    "description": "Techniker Krankenkasse",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.22.180.0/24" ],
+    "ipv6": [ ]
+  }
+}

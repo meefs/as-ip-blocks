@@ -1,0 +1,4 @@
+# AS219359 (EDGE-AS)
+# Edge Core FZE
+#
+45.86.60.0/24

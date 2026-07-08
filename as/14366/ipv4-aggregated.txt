@@ -2,3 +2,4 @@
 # Rogers Communications Canada Inc.
 #
 24.213.90.0/24
+24.213.92.0/24

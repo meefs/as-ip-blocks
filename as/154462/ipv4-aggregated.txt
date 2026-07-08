@@ -1,4 +1,4 @@
 # AS154462 (YOURNET-AS-AP)
 # Yournet Communications
 #
-144.79.220.0/24
+144.79.220.0/23

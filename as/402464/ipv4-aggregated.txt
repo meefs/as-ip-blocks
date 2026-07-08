@@ -1,0 +1,4 @@
+# AS402464 (CNET-PR-01)
+# Curetopia Networks Inc
+#
+23.157.164.0/24

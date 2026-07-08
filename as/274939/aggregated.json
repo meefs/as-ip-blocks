@@ -1,0 +1,16 @@
+{
+  "asn": 274939,
+  "metadata": {
+    "handle": "PETERS-FABIANO",
+    "description": "PETERS FABIANO (WI-FI TURBO-AR)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.19.102.0/23" ],
+    "ipv6": [ ]
+  }
+}

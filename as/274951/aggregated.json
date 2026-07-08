@@ -1,0 +1,16 @@
+{
+  "asn": 274951,
+  "metadata": {
+    "handle": "CASTNET",
+    "description": "CASTNET S.A",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:1930::/40" ]
+  }
+}

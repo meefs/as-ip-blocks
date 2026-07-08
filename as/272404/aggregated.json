@@ -1,0 +1,16 @@
+{
+  "asn": 272404,
+  "metadata": {
+    "handle": "SECRETARIA-MEDIO-AMBIENTE",
+    "description": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES COMISION NACIONAL DE AREAS NATURALES PROTEGIDAS",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:c4:2d2::/48" ]
+  }
+}

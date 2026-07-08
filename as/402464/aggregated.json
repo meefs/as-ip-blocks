@@ -1,0 +1,16 @@
+{
+  "asn": 402464,
+  "metadata": {
+    "handle": "CNET-PR-01",
+    "description": "Curetopia Networks Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.157.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

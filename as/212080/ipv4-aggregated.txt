@@ -1,5 +1,4 @@
 # AS212080 (NEGIN-AS)
 # Karafarini va FANAVARIHAYEH Novin Negin Pars Co PJS
 #
-95.215.173.0/24
 194.33.106.0/24

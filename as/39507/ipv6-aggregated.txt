@@ -1,3 +1,8 @@
 # AS39507 (IPIVISION-AS)
 # Biznes Swiatlowodem Sp. z o.o.
 #
+2a07:f080::/32
+2a0c:3540::/32
+2a0d:3100::/29
+2a0d:4a80::/32
+2a0d:9180::/32

@@ -1,4 +1,4 @@
-# AS36231 (TEMPEST-HOSTING)
+# AS36231 (TEMPEST)
 # Tempest Hosting LLC
 #
 45.88.228.0/22

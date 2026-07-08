@@ -1,5 +1,7 @@
 # AS45353 (NITC-AS-AP)
 # National Information Technology Center
 #
+103.69.124.0/23
+103.69.126.0/24
 103.175.192.0/23
 202.45.144.0/22

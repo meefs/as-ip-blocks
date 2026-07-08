@@ -1,5 +1,6 @@
 # AS37049 (SADV)
 # South African Digital Villages
 #
-2c0e:7e00::/28
-2c0f:fdc8::/32
+2c0f:fdc8::/40
+2c0f:fdc8:400::/40
+2c0f:fdc8:800::/40

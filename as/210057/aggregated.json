@@ -1,0 +1,16 @@
+{
+  "asn": 210057,
+  "metadata": {
+    "handle": "INFINITYWIFI",
+    "description": "INFINITY LINE SRL",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.182.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

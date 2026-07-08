@@ -1,0 +1,16 @@
+{
+  "asn": 197367,
+  "metadata": {
+    "handle": "IPPMC-AS",
+    "description": "Unitary Enterprise 'Industrial Park Property Management Company'",
+    "countryCode": "BY",
+    "country": "Belarus",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "95.130.82.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,4 @@
-# AS201640 (PSHOST-NET)
+# AS201640 (PSHOST-PL)
 # Patryk Kulikowski
 #
 96.62.223.0/24

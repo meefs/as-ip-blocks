@@ -1,4 +1,4 @@
-# AS7642 (DHIRAAGU-MV-AP)
-# Dhiraagu Pvt.Ltd.
+# AS7642 (DHIRAAGU-AS-AP)
+# Dhivehi Raajjeyge Gulhun Public Limited Company
 #
 2406:e400::/32

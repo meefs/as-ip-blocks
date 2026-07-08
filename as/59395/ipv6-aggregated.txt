@@ -1,6 +1,7 @@
 # AS59395 (EFAR-AS)
 # Southern Communications Ltd
 #
+2a00:11f0::/32
 2a02:73c0::/32
 2a05:4b80::/29
 2a05:4bc0::/29

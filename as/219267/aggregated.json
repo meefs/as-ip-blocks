@@ -1,0 +1,16 @@
+{
+  "asn": 219267,
+  "metadata": {
+    "handle": "BO-AS",
+    "description": "Bilotserkovets Oleksandr",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0b:4e07:a80::/44" ]
+  }
+}

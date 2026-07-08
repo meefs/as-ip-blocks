@@ -1,0 +1,16 @@
+{
+  "asn": 219359,
+  "metadata": {
+    "handle": "EDGE-AS",
+    "description": "Edge Core FZE",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.86.60.0/24" ],
+    "ipv6": [ "2a05:1640:1::/48" ]
+  }
+}

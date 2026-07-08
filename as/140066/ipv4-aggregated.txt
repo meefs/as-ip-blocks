@@ -1,0 +1,4 @@
+# AS140066 (IDNIC-LINTASNETWORK-AS-ID)
+# PT Lintas Network Akses
+#
+160.236.28.0/23

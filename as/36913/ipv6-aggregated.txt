@@ -1,3 +1,6 @@
 # AS36913 (BROADBAND-MALAWI)
 # BROADBAND-MALAWI
 #
+2c0f:fac0:1::/48
+2c0f:fac0:2::/47
+2c0f:fac0:4::/48

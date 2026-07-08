@@ -1,0 +1,16 @@
+{
+  "asn": 399892,
+  "metadata": {
+    "handle": "AS399892",
+    "description": "Axedale",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.73.152.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,14 +1,16 @@
 {
   "asn": 147197,
   "metadata": {
-    "handle": "AAVAIBSPL-IN",
+    "handle": "AAVAIBSPL-AS-IN",
     "description": "AAVAI BROADBAND COMMUNICATION PRIVATE LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "92.112.47.0/24" ],
+    "ipv6": [ ]
   }
 }

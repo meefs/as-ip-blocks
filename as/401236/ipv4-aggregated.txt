@@ -1,4 +1,3 @@
 # AS401236 (SBI)
 # South Bay Internet
 #
-38.135.129.0/24
