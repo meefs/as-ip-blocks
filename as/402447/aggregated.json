@@ -1,0 +1,16 @@
+{
+  "asn": 402447,
+  "metadata": {
+    "handle": "STREAMWAYS-CORE-ASN",
+    "description": "Streamways LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.246.188.0/22", "162.210.64.0/22", "169.128.0.0/22", "169.128.24.0/22", "169.128.72.0/22", "169.128.92.0/22", "169.128.196.0/22", "169.128.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

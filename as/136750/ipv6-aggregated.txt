@@ -1,4 +1,3 @@
 # AS136750 (CMI-CLOUD)
 # China Mobile International Limited
 #
-2402:4f00:f004::/48

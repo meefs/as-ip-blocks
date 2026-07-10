@@ -1,14 +1,16 @@
 {
   "asn": 202848,
   "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "ASLUBLINUW",
+    "description": "Lubelski Urzad Wojewodzki w Lublinie",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "69.46.41.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "asn": 275789,
+  "metadata": {
+    "handle": "RF-PROVEDORES-TECNOLIGIA",
+    "description": "RF PROVEDORES E TECNOLIGIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9994::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 219261,
+  "metadata": {
+    "handle": "OUNASKAIRA-AS",
+    "description": "Konsta Rantakangas trading as Ounaskaira",
+    "countryCode": "FI",
+    "country": "Finland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:7dc::/48" ]
+  }
+}

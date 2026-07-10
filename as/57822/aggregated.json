@@ -1,7 +1,7 @@
 {
   "asn": 57822,
   "metadata": {
-    "handle": "OTETE-RU",
+    "handle": "KEYPOINT-NSK",
     "description": "Truenetwork LLC",
     "countryCode": "RU",
     "country": "Russia",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "80.72.208.0/23", "94.247.106.0/24", "185.54.246.0/24" ],
+    "ipv4": [ "94.247.106.0/24", "185.54.246.0/24" ],
     "ipv6": [ ]
   }
 }

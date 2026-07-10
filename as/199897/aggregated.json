@@ -1,0 +1,16 @@
+{
+  "asn": 199897,
+  "metadata": {
+    "handle": "VEXTA-DATA-SOLUTIONS",
+    "description": "Vexta Data Solutions LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "201.3.226.0/24" ],
+    "ipv6": [ ]
+  }
+}

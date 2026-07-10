@@ -1,0 +1,16 @@
+{
+  "asn": 154738,
+  "metadata": {
+    "handle": "IDNIC-DATATRAN-AS-ID",
+    "description": "PT Sinergi Datatrans Nusantara",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.44.0/24" ],
+    "ipv6": [ "2001:df7:2a40::/48" ]
+  }
+}

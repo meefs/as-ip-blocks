@@ -1,14 +1,16 @@
 {
   "asn": 56421,
   "metadata": {
-    "handle": "UA-WEECOMI",
-    "description": "LLC WEECOMI UKRAINE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "EUROLIR-AS",
+    "description": "LLC 3D CLOUD COMMUNICATION",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "185.243.98.0/24" ],
+    "ipv6": [ ]
   }
 }

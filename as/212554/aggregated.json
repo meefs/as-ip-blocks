@@ -1,0 +1,16 @@
+{
+  "asn": 212554,
+  "metadata": {
+    "handle": "SALAM",
+    "description": "BV - Exclusive Properties Lda",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "84.252.88.0/22" ],
+    "ipv6": [ ]
+  }
+}

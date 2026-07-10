@@ -6,11 +6,11 @@
     "countryCode": "CN",
     "country": "China",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "78.154.108.0/24", "82.110.98.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ "2406:840:e10f::/48" ]
   }
 }

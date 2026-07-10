@@ -1,0 +1,5 @@
+# AS219271 (BERIFFANET)
+# Mathias Jellesmark Fiskbaek trading as Beriffa Group
+#
+2a06:9801:f12::/48
+2a0c:b641:910::/44

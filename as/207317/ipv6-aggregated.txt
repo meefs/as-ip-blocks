@@ -1,4 +1,3 @@
 # AS207317 (JQ-NETWORK)
 # Tiefu Chen
 #
-2a14:7581:3401::/48

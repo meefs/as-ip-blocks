@@ -1,7 +1,6 @@
 # AS47721 (BILGE-AS)
 # Verilink Bilisim Teknolojileri Anonim Sirketi
 #
-78.135.77.0/24
 78.135.90.0/24
 91.241.55.0/24
 91.247.164.0/24

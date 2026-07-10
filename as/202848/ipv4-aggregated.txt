@@ -1,3 +1,4 @@
-# AS202848 (RESERVED)
-# RIPE NCC ASN block
+# AS202848 (ASLUBLINUW)
+# Lubelski Urzad Wojewodzki w Lublinie
 #
+69.46.41.0/24

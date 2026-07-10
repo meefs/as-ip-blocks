@@ -1,4 +1,4 @@
-# AS55853 (MEGATEL-AS-AP)
-# Megatel
+# AS55853 (NOVAENERGYLTD-AS-AP)
+# Nova Energy LTD
 #
 2405:2200::/32

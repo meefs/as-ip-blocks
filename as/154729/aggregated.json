@@ -6,11 +6,11 @@
     "countryCode": "ID",
     "country": "Indonesia",
     "origin": "authoritative",
-    "category": null,
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "160.236.18.0/23" ],
-    "ipv6": [ ]
+    "ipv6": [ "2001:df7:2440::/48" ]
   }
 }

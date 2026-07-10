@@ -1,4 +1,3 @@
 # AS32346 (SARGASSO-US-AS)
 # Sargasso Networks Ltd.
 #
-209.248.36.0/22

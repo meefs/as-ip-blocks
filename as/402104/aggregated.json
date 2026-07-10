@@ -6,11 +6,11 @@
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "198.203.150.0/24" ],
     "ipv6": [ "2602:f47a::/48", "2602:f47a:80::/48", "2602:f47a:fe::/47" ]
   }
 }

@@ -1,0 +1,4 @@
+# AS154738 (IDNIC-DATATRAN-AS-ID)
+# PT Sinergi Datatrans Nusantara
+#
+2001:df7:2a40::/48

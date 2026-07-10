@@ -2,11 +2,11 @@
   "asn": 205774,
   "metadata": {
     "handle": "TONET",
-    "description": "TONet d.o.o.",
+    "description": "Tonet Telekom d.o.o.",
     "countryCode": "HR",
     "country": "Croatia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

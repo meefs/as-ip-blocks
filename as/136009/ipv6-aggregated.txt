@@ -1,3 +1,4 @@
 # AS136009 (SPEEDNET-AS-AP)
 # SpeedNet
 #
+2001:df6:d600::/48

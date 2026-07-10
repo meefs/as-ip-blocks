@@ -1,4 +1,3 @@
 # AS20775 (KPSDIGITAL)
 # KPS Transformation GmbH
 #
-2a02:22d8::/32

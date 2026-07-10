@@ -1,0 +1,16 @@
+{
+  "asn": 219288,
+  "metadata": {
+    "handle": "SOULFUL-AS",
+    "description": "SOULFUL HOSTING LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.123.101.0/24" ],
+    "ipv6": [ ]
+  }
+}

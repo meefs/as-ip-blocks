@@ -1,0 +1,16 @@
+{
+  "asn": 402542,
+  "metadata": {
+    "handle": "CLOUDFLARENET",
+    "description": "Cloudflare Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "162.159.82.0/24" ],
+    "ipv6": [ "2606:4700:114::/48" ]
+  }
+}

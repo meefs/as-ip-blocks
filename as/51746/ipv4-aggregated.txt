@@ -1,4 +1,4 @@
 # AS51746 (SCANDIA-AS)
-# Scandia Romana S.A.
+# Scandia Food SRL
 #
 91.220.86.0/24

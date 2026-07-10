@@ -1,0 +1,4 @@
+# AS402719 (MYCOMPUTING)
+# MYComputing Inc.
+#
+66.208.80.0/22

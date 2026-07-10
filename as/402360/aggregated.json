@@ -1,0 +1,16 @@
+{
+  "asn": 402360,
+  "metadata": {
+    "handle": "BRFLASHV",
+    "description": "BRF",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "209.131.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

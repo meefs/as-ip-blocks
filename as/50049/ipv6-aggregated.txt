@@ -2,3 +2,4 @@
 # RedSwitches Pty LTD.
 #
 2406:4fc0::/35
+2406:4fc0:3000::/36

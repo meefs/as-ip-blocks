@@ -1,4 +1,4 @@
-# AS24548 (BAYCITY-AS-AP)
-# BayCity Communications
+# AS24548 (ONENZ-NZ-TP-AP)
+# One New Zealand Group Limited
 #
 110.173.174.0/23

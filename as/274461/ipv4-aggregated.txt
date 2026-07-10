@@ -2,3 +2,5 @@
 # Dazsoft Desenvolvimento de Softwares Ltda ME
 #
 45.170.138.0/24
+186.195.166.0/24
+186.195.168.0/24

@@ -1,4 +1,3 @@
 # AS213832 (LAYERSENTRY-AS)
 # LayerSentry LLC
 #
-195.162.245.0/24

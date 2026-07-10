@@ -1,14 +1,16 @@
 {
   "asn": 150725,
   "metadata": {
-    "handle": "KHANBROADBAND-AP",
-    "description": "khanbroadband",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "NUS-AS-AP",
+    "description": "National University of Singapore",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "165.101.120.0/24" ],
+    "ipv6": [ ]
   }
 }

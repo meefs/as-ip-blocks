@@ -1,0 +1,16 @@
+{
+  "asn": 219326,
+  "metadata": {
+    "handle": "SULAVIL",
+    "description": "SULAVI LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.74.2.0/24" ],
+    "ipv6": [ ]
+  }
+}

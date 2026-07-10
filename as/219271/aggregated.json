@@ -1,0 +1,16 @@
+{
+  "asn": 219271,
+  "metadata": {
+    "handle": "BERIFFANET",
+    "description": "Mathias Jellesmark Fiskbaek trading as Beriffa Group",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:f12::/48", "2a0c:b641:910::/44" ]
+  }
+}

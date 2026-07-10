@@ -1,0 +1,16 @@
+{
+  "asn": 219284,
+  "metadata": {
+    "handle": "PAYLOAD-NETWORK",
+    "description": "Evgenii Konstantinov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.24.151.0/24" ],
+    "ipv6": [ ]
+  }
+}

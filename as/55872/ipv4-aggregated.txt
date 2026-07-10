@@ -1,5 +1,5 @@
-# AS55872 (BAYCITY-AS-AP)
-# BayCity Communications
+# AS55872 (ONENZ-NZ-TP-AP)
+# One New Zealand Group Limited
 #
 115.187.96.0/19
 118.82.128.0/17

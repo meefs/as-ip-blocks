@@ -1,6 +1,7 @@
 # AS58065 (PACKETEXCHANGE)
 # Orion Network Limited
 #
+5.34.241.0/24
 5.157.6.0/24
 5.157.11.0/24
 5.157.19.0/24

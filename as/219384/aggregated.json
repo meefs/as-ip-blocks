@@ -1,0 +1,16 @@
+{
+  "asn": 219384,
+  "metadata": {
+    "handle": "SATCORE",
+    "description": "Satcore LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.77.73.0/24" ],
+    "ipv6": [ ]
+  }
+}

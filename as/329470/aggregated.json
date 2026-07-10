@@ -1,0 +1,16 @@
+{
+  "asn": 329470,
+  "metadata": {
+    "handle": "AFRILAND-FIRST-BANK",
+    "description": "Afriland First Bank",
+    "countryCode": "CM",
+    "country": "Cameroon",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.208.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

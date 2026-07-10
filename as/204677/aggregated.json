@@ -1,7 +1,7 @@
 {
   "asn": 204677,
   "metadata": {
-    "handle": "CNIX",
+    "handle": "SDNET",
     "description": "Sky Digital Co. Ltd.",
     "countryCode": "TW",
     "country": "Taiwan",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "43.224.21.0/24", "43.224.22.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ ]
   }
 }

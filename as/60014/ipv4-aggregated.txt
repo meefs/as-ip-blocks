@@ -1,4 +1,4 @@
-# AS60014 (SG-AS)
+# AS60014 (ABRAMAD)
 # Abramad Technological Infrastructures Development Company PJS
 #
 78.31.232.0/22

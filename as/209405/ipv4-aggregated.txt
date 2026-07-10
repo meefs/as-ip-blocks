@@ -1,4 +1,4 @@
 # AS209405 (WESTFALEN)
-# Westfalen Aktiengesellschaft
+# Westfalen Beteiligungen Aktiengesellschaft
 #
 139.28.244.0/22

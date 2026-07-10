@@ -1,0 +1,4 @@
+# AS154738 (IDNIC-DATATRAN-AS-ID)
+# PT Sinergi Datatrans Nusantara
+#
+160.236.44.0/24

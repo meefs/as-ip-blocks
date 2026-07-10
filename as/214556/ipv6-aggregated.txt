@@ -1,5 +1,5 @@
 # AS214556 (VEXURA)
 # Vexura UG (Haftungsbeschraenkt)
 #
-2a0b:4e07:34::/46
 2a0e:97c0:440::/44
+2a13:c8c4:bf00::/40

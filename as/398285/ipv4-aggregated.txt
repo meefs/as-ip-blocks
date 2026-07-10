@@ -1,4 +1,3 @@
 # AS398285 (PRIS-MAIN)
 # Peace Region Internet Society
 #
-204.69.220.0/24

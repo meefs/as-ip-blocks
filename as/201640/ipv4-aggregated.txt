@@ -1,4 +1,4 @@
 # AS201640 (PSHOST-PL)
-# Patryk Kulikowski
+# Patryk Kulikowski trading as psHost
 #
 96.62.223.0/24

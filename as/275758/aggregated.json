@@ -1,0 +1,16 @@
+{
+  "asn": 275758,
+  "metadata": {
+    "handle": "BR-NET-TEC",
+    "description": "BR NET TEC DA INF E INFRAESTRUTURA DE REDES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9920::/32" ]
+  }
+}

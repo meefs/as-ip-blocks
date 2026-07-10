@@ -1,0 +1,16 @@
+{
+  "asn": 219249,
+  "metadata": {
+    "handle": "SHILNET",
+    "description": "Konstantinos Vlachos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:7fa::/48" ]
+  }
+}
