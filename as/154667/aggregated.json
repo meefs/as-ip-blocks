@@ -1,0 +1,16 @@
+{
+  "asn": 154667,
+  "metadata": {
+    "handle": "IRINN-TAKMEN-AS-IN",
+    "description": "Tak Men Global Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.102.0/24" ],
+    "ipv6": [ ]
+  }
+}

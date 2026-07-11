@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "BHARATIP-AP-IN",
     "description": "Bharat Digital Network Private Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "31.56.6.0/24", "79.182.33.0/24", "207.180.45.0/24" ],
+    "ipv6": [ ]
   }
 }

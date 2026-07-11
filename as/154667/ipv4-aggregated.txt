@@ -1,0 +1,4 @@
+# AS154667 (IRINN-TAKMEN-AS-IN)
+# Tak Men Global Private Limited
+#
+162.4.102.0/24

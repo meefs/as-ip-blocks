@@ -2,4 +2,5 @@
 # MakeNewMedia Communications GmbH
 #
 92.61.60.0/22
+94.127.18.0/24
 209.92.64.0/22

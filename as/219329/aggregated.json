@@ -1,0 +1,16 @@
+{
+  "asn": 219329,
+  "metadata": {
+    "handle": "ASN-FEIT",
+    "description": "FLASH EDGE INFORMATION TECHNOLOGY LLC",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.204.50.0/23", "68.166.196.0/22", "68.166.216.0/23", "74.1.26.0/23", "96.126.136.0/22", "155.117.180.0/23" ],
+    "ipv6": [ ]
+  }
+}

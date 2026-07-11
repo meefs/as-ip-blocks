@@ -1,0 +1,4 @@
+# AS208509 (DA-TEL-AS)
+# LLC Centr sistemy svyazi
+#
+111.88.78.0/24

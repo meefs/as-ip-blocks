@@ -2,3 +2,4 @@
 # PT Cloud Hosting Indonesia
 #
 2001:df7:7400::/48
+2401:8160::/32

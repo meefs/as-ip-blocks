@@ -1,0 +1,16 @@
+{
+  "asn": 274916,
+  "metadata": {
+    "handle": "HIESOFT",
+    "description": "HIESOFT S.R.L.",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.88.182.0/23" ],
+    "ipv6": [ ]
+  }
+}

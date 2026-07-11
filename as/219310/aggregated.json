@@ -1,0 +1,16 @@
+{
+  "asn": 219310,
+  "metadata": {
+    "handle": "KOZELTELECOM",
+    "description": "EMIRASLAN EMIRASLANOV",
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7580:ff9d::/48" ]
+  }
+}

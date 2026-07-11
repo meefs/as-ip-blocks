@@ -1,0 +1,16 @@
+{
+  "asn": 219268,
+  "metadata": {
+    "handle": "GEODEMAGROUP",
+    "description": "Geodema Group LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:6280:61a1::/48" ]
+  }
+}

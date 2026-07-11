@@ -1,4 +1,4 @@
-# AS6250 (NEONOVA-NET)
+# AS6250 (NRTC-SERVICES)
 # NeoNova Network Services LLC
 #
 67.58.80.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 219245,
+  "metadata": {
+    "handle": "DECENTRALIA-ASN",
+    "description": "DECENTRALIA LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "141.0.188.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,4 @@
-# AS4764 (WIDEBAND-AS-AP)
+# AS4764 (AUSSIEFIBRE-AS-AP)
 # Aussie Fibre Pty Ltd
 #
 2001:df0:201::/48

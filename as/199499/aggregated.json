@@ -1,0 +1,16 @@
+{
+  "asn": 199499,
+  "metadata": {
+    "handle": "ASN-HOLYSEE-2",
+    "description": "Holy See - Vatican City State",
+    "countryCode": "VA",
+    "country": "Vatican City",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.77.8.0/24" ],
+    "ipv6": [ "2a01:b9::/32" ]
+  }
+}

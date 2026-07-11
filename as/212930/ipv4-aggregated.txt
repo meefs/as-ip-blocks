@@ -1,0 +1,4 @@
+# AS212930 (DE-GOV-AA)
+# Bundesministerium des Innern und fuer Heimat
+#
+139.12.127.0/24

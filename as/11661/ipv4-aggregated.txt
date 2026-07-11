@@ -1,3 +1,5 @@
 # AS11661 (SEMICUBIC)
 # Semicubic Systems LLC
 #
+23.152.112.0/24
+162.248.172.0/22

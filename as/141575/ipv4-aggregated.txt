@@ -1,3 +1,6 @@
 # AS141575 (BHARATIP-AP-IN)
 # Bharat Digital Network Private Limited
 #
+31.56.6.0/24
+79.182.33.0/24
+207.180.45.0/24

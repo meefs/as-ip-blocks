@@ -1,0 +1,16 @@
+{
+  "asn": 147208,
+  "metadata": {
+    "handle": "SYSCOBB-AS-IN",
+    "description": "Sysco Broadband",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.107.83.0/24", "79.99.147.0/24" ],
+    "ipv6": [ ]
+  }
+}

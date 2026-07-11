@@ -1,0 +1,16 @@
+{
+  "asn": 274976,
+  "metadata": {
+    "handle": "WABEX",
+    "description": "WABEX S.R.L.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.43.92.0/24" ],
+    "ipv6": [ "2803:2480:25::/48" ]
+  }
+}

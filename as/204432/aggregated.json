@@ -1,0 +1,16 @@
+{
+  "asn": 204432,
+  "metadata": {
+    "handle": "PERSPEKTIVA",
+    "description": "Perspektiva IT ApS",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.242.167.0/24" ],
+    "ipv6": [ ]
+  }
+}
