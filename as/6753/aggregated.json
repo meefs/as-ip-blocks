@@ -1,0 +1,16 @@
+{
+  "asn": 6753,
+  "metadata": {
+    "handle": "KERNELHOST",
+    "description": "Hani Hussein trading as KernelHost",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.239.175.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,6 +1,7 @@
 # AS57588 (HAYAT-ISP-ASN)
 # Hayat for Internet & communication LLC
 #
+38.66.194.0/24
 176.241.80.0/22
 176.241.85.0/24
 176.241.86.0/23

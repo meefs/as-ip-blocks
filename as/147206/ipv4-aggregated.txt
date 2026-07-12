@@ -1,4 +1,5 @@
 # AS147206 (SOUBHAGYA-AS-IN)
 # Khandual Nets Private Limited
 #
+2.26.173.0/24
 46.202.98.0/24

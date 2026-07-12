@@ -1,0 +1,16 @@
+{
+  "asn": 274928,
+  "metadata": {
+    "handle": "CEXTEL",
+    "description": "CEXTEL SAS",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:1130::/32" ]
+  }
+}

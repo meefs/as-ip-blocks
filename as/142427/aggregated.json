@@ -1,0 +1,16 @@
+{
+  "asn": 142427,
+  "metadata": {
+    "handle": "IDNIC-INTRADATA-ID",
+    "description": "PT INTRADATA ANUGERAH BANUA",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.36.0/23" ],
+    "ipv6": [ ]
+  }
+}

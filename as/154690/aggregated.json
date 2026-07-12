@@ -1,0 +1,16 @@
+{
+  "asn": 154690,
+  "metadata": {
+    "handle": "VAYNE-AS-AP",
+    "description": "VAYNE NETWORK PTE. LTD.",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.172.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -2,3 +2,4 @@
 # MUFG Securities EMEA PLC
 #
 162.11.0.0/16
+193.104.4.0/24

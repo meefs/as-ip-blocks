@@ -2,4 +2,3 @@
 # Bls Services Tecnologia em Software Ltda
 #
 82.21.8.0/24
-151.243.16.0/24

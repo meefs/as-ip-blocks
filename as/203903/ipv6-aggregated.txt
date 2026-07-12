@@ -1,3 +1,4 @@
-# AS203903 (MIZBANTECH)
-# Mizban Ertebatat sabet Tech (Private Joint Stock Company)
+# AS203903 (BOLLARD-AS)
+# Nic Cantieni
 #
+2001:67c:22dc::/48

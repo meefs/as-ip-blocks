@@ -1,0 +1,4 @@
+# AS329716 (DMK-TELECOMMUNICATION-NIG)
+# DMK Telecommunication Nig LTD
+#
+102.202.240.0/22

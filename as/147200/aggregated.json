@@ -1,0 +1,16 @@
+{
+  "asn": 147200,
+  "metadata": {
+    "handle": "PARKERBB-AS-IN",
+    "description": "PARKER BROADBAND NETWORK",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.227.102.0/24", "151.245.166.0/24", "192.25.197.0/24" ],
+    "ipv6": [ ]
+  }
+}

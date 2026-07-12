@@ -1,0 +1,16 @@
+{
+  "asn": 23811,
+  "metadata": {
+    "handle": "JANOG58-NET",
+    "description": "University of Nagasaki",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.13.70.0/24" ],
+    "ipv6": [ "2001:c40::/32" ]
+  }
+}

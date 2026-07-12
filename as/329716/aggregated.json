@@ -1,0 +1,16 @@
+{
+  "asn": 329716,
+  "metadata": {
+    "handle": "DMK-TELECOMMUNICATION-NIG",
+    "description": "DMK Telecommunication Nig LTD",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

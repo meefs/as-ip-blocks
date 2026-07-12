@@ -1,0 +1,16 @@
+{
+  "asn": 274314,
+  "metadata": {
+    "handle": "TUYEROS-NETWORKS-CA",
+    "description": "TUYEROS NETWORKS C.A",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.74.52.0/24" ],
+    "ipv6": [ ]
+  }
+}

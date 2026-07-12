@@ -1,0 +1,4 @@
+# AS23811 (JANOG58-NET)
+# University of Nagasaki
+#
+2001:c40::/32
