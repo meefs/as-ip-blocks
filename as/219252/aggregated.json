@@ -1,0 +1,16 @@
+{
+  "asn": 219252,
+  "metadata": {
+    "handle": "JTHEBERG",
+    "description": "Kylian Schufreida-Careme",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:7f2::/48", "2a13:9500:18c::/48" ]
+  }
+}

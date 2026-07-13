@@ -1,4 +1,4 @@
-# AS219339 (OPENHADES-CLOUD-SERVICES-AS)
+# AS219339 (OPENHADES)
 # Konrad Moson trading as OpenHades Cloud Services
 #
 2001:678:12b4::/48

@@ -1,4 +1,4 @@
 # AS135337 (CHPL-AS-AP)
 # Cloud Himalaya Pvt. Ltd
 #
-2406:6840:100::/46
+2406:6840::/32

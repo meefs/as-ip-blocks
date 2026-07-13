@@ -1,0 +1,16 @@
+{
+  "asn": 274978,
+  "metadata": {
+    "handle": "NETTEL-SOLUTION",
+    "description": "NETTEL SOLUTION SRL",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.24.59.0/24" ],
+    "ipv6": [ "2803:8d30::/32" ]
+  }
+}
