@@ -1,4 +1,3 @@
 # AS402385 (SPICER-NETWORKS)
 # Spicer Networks LLC
 #
-2602:f3fe::/40

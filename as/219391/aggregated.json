@@ -1,0 +1,16 @@
+{
+  "asn": 219391,
+  "metadata": {
+    "handle": "UPPERCUT-AS",
+    "description": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a11:b44:c003::/48" ]
+  }
+}

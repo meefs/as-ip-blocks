@@ -1,0 +1,16 @@
+{
+  "asn": 154715,
+  "metadata": {
+    "handle": "CVACCESS-AS-AP",
+    "description": "CVACCESS NETWORK AND DATA SOLUTION",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.246.0/23" ],
+    "ipv6": [ ]
+  }
+}

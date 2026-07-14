@@ -1,4 +1,3 @@
 # AS134915 (GIGABYTESBROADBAND-AS)
 # Gigabytes Broadband Pvt Ltd
 #
-191.219.28.0/24

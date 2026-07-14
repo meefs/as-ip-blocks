@@ -1,0 +1,16 @@
+{
+  "asn": 219224,
+  "metadata": {
+    "handle": "NEONHOSTDATACENTER",
+    "description": "Neonhost Datacenter LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:e20::/44" ]
+  }
+}

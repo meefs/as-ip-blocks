@@ -1,4 +1,3 @@
 # AS139552 (ICONECT-AS-IN)
 # Iconnect
 #
-189.75.181.0/24

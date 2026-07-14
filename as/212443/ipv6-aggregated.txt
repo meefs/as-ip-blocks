@@ -1,3 +1,4 @@
 # AS212443 (LEONET-AS)
 # Leonet GmbH
 #
+2a01:a980:6::/47

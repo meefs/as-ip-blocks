@@ -2,3 +2,4 @@
 # United States Department of Defense (DoD)
 #
 55.188.0.0/16
+139.242.14.0/23

@@ -2,4 +2,3 @@
 # Atlas Premium Luggage Solutions LLC
 #
 16.5.222.0/24
-188.221.157.0/24

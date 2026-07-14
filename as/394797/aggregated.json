@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "MILLIK-ASN1",
     "description": "Millikin University",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "136.144.0.0/20" ],
+    "ipv6": [ ]
   }
 }

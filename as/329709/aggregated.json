@@ -1,0 +1,16 @@
+{
+  "asn": 329709,
+  "metadata": {
+    "handle": "METROREACH",
+    "description": "MetroReach Limited",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.100.0/22" ],
+    "ipv6": [ ]
+  }
+}

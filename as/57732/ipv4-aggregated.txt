@@ -1,5 +1,5 @@
 # AS57732 (IPPOY-AS)
-# Ikaalisten-Parkanon Puhelin Osakeyhtio Ltd
+# LennuNet Oy
 #
 37.98.128.0/20
 62.106.48.0/20

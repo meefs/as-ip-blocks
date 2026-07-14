@@ -2,4 +2,3 @@
 # Bombay Bullion Commmunication
 #
 87.76.214.0/24
-103.216.168.0/24

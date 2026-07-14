@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "FTOP",
     "description": "Maximize Marketing Agency Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "23.142.164.0/24", "23.143.92.0/24" ],
+    "ipv6": [ ]
   }
 }

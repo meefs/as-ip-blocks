@@ -1,5 +1,5 @@
 # AS205774 (TONET-TELEKOM)
-# Tonet Telekom d.o.o.
+# TONET TELEKOM d.o.o.
 #
 91.208.100.0/24
 91.233.36.0/23

@@ -1,3 +1,4 @@
 # AS59954 (KEYPOINT-SPB)
 # Truenetwork LLC
 #
+185.54.247.0/24

@@ -1,0 +1,4 @@
+# AS402694 (PRIMARY-ASN-1)
+# Primary
+#
+69.46.38.0/24

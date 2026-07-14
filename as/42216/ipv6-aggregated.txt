@@ -2,3 +2,4 @@
 # Netviser Bilisim Teknolojileri San. Ve Tic. Ltd. Sti.
 #
 2a10:9440::/47
+2a14:e180:4::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 13700,
+  "metadata": {
+    "handle": "NEXUSWAVE-COMMUNICATIONS-INC",
+    "description": "NexusWave",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.204.14.0/23", "192.220.252.0/23" ],
+    "ipv6": [ ]
+  }
+}

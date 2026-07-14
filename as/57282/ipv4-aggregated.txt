@@ -1,4 +1,4 @@
 # AS57282 (FIBRANODE)
-# fibranode UG (haftungsbeschraenkt)
+# fibranode Deutschland GmbH
 #
 185.148.251.0/24
