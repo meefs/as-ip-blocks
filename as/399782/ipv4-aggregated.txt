@@ -2,3 +2,4 @@
 # Western Alliance Bank
 #
 8.23.75.0/24
+38.29.192.0/24

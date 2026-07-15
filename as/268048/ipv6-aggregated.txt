@@ -1,4 +1,5 @@
 # AS268048 (SPEEDYNET-COMUNICACAO-MULTIMIDIA)
 # SpeedyNet Comunicacao Multimídia - Eireli
 #
+2804:5728:1100::/40
 2804:5728:1200::/40

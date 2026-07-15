@@ -1,0 +1,16 @@
+{
+  "asn": 152234,
+  "metadata": {
+    "handle": "GGSTS-AS",
+    "description": "GYEONGGI TRANSPORT CORPORATION",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "58.72.104.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 154756,
+  "metadata": {
+    "handle": "IRINN-AAE-AS-IN",
+    "description": "AAE COMMUNICATIONS PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.80.0/23" ],
+    "ipv6": [ "2001:df7:3040::/48" ]
+  }
+}

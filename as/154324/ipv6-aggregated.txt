@@ -1,4 +1,5 @@
 # AS154324 (APL-AS-AP)
 # AltusCloud Pte. Ltd.
 #
+2405:9800:ca12::/48
 2602:f7cf:1::/48

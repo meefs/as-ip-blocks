@@ -1,3 +1,0 @@
-# AS196691 (GET-NET-AS)
-# Get-Net LLC
-#

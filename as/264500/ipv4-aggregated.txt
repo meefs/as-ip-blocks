@@ -2,4 +2,5 @@
 # SoulTelecom - Provedor de Acesso a Internet
 #
 38.236.165.0/24
+38.236.166.0/24
 131.255.228.0/22

@@ -1,0 +1,4 @@
+# AS199495 (MABNATEJARAT)
+# Mabna Tejarat Economic Development Group Company-Ltd
+#
+91.223.146.0/24

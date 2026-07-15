@@ -1,0 +1,4 @@
+# AS219234 (OPENEMAIL)
+# OpenEmail SA
+#
+91.206.176.0/24

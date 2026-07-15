@@ -1,0 +1,16 @@
+{
+  "asn": 201439,
+  "metadata": {
+    "handle": "HAALAND",
+    "description": "Hans Christian Haaland",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:9a40:80f0::/48" ]
+  }
+}

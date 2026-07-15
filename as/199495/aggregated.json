@@ -1,0 +1,16 @@
+{
+  "asn": 199495,
+  "metadata": {
+    "handle": "MABNATEJARAT",
+    "description": "Mabna Tejarat Economic Development Group Company-Ltd",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.223.146.0/24" ],
+    "ipv6": [ ]
+  }
+}

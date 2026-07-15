@@ -1,0 +1,16 @@
+{
+  "asn": 219234,
+  "metadata": {
+    "handle": "OPENEMAIL",
+    "description": "OpenEmail SA",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.206.176.0/24" ],
+    "ipv6": [ ]
+  }
+}

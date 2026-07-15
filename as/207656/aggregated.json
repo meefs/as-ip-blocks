@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "EPINATURA",
     "description": "Epinatura LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:e586::/32" ]
   }
 }

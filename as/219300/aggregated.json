@@ -1,0 +1,16 @@
+{
+  "asn": 219300,
+  "metadata": {
+    "handle": "GEESEFLY-AS",
+    "description": "Yan Xiangdong",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:678:970::/48" ]
+  }
+}

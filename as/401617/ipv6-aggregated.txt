@@ -1,0 +1,4 @@
+# AS401617 (VIETTEL)
+# Viettell
+#
+2602:f72f::/36

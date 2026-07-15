@@ -1,0 +1,16 @@
+{
+  "asn": 197938,
+  "metadata": {
+    "handle": "DK-TLD-ANY-1",
+    "description": "Punktum dk A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.0.22.0/24" ],
+    "ipv6": [ ]
+  }
+}

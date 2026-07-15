@@ -1,0 +1,16 @@
+{
+  "asn": 154717,
+  "metadata": {
+    "handle": "IDNIC-PCR-ID",
+    "description": "Politeknik Caltex Riau",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.1.0/24" ],
+    "ipv6": [ ]
+  }
+}

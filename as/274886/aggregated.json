@@ -1,0 +1,16 @@
+{
+  "asn": 274886,
+  "metadata": {
+    "handle": "MAXICABLE-PARIAGUAN-TV-CA",
+    "description": "MAXICABLE PARIAGUAN TV C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:a630::/32" ]
+  }
+}

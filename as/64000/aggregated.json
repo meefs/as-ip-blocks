@@ -1,14 +1,16 @@
 {
   "asn": 64000,
   "metadata": {
-    "handle": "ATOS-AP",
+    "handle": "ATOS-AS-AP",
     "description": "ATOS (AUSTRALIA) PTY LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "69.162.2.0/24", "69.162.61.0/24" ],
+    "ipv6": [ ]
   }
 }

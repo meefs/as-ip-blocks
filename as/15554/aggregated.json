@@ -1,0 +1,16 @@
+{
+  "asn": 15554,
+  "metadata": {
+    "handle": "AS15554",
+    "description": "Hutchison Drei Austria GmbH",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.119.16.0/20", "77.119.176.0/20", "91.141.96.0/19", "178.115.80.0/20", "178.115.144.0/20" ],
+    "ipv6": [ ]
+  }
+}

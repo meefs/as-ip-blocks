@@ -1,14 +1,16 @@
 {
   "asn": 63172,
   "metadata": {
-    "handle": "S1SOL",
-    "description": "Source One Solutions, Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "VENTURE-COMM",
+    "description": "Venture Communications Cooperative",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "38.50.52.0/22", "38.67.248.0/21", "98.159.176.0/20", "208.53.224.0/21", "208.53.232.0/22", "208.53.236.0/23", "208.53.238.0/24", "208.53.253.0/24", "209.142.104.0/22", "216.249.244.0/22", "216.249.248.0/21" ],
+    "ipv6": [ "2605:4900::/32" ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "asn": 399596,
   "metadata": {
-    "handle": "APOG-MUSKINGUM",
+    "handle": "BOLD-RIDER-UNIVERSITY",
     "description": "Apogee Telecom Inc.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "education_research",
     "networkRole": "stub"
   },
   "prefixes": {

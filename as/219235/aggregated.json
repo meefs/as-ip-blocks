@@ -1,0 +1,16 @@
+{
+  "asn": 219235,
+  "metadata": {
+    "handle": "BRAEUNING",
+    "description": "Paul Braeuning",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a09:54c5:10f0::/44", "2a0c:9a40:85f0::/48" ]
+  }
+}
