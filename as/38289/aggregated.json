@@ -1,14 +1,16 @@
 {
   "asn": 38289,
   "metadata": {
-    "handle": "PIVIT-AU-AP",
+    "handle": "PIVIT-AS-AU-AP",
     "description": "Pivit",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "123.100.128.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "asn": 402702,
+  "metadata": {
+    "handle": "JASON",
+    "description": "Highlander Four Group LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.160.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

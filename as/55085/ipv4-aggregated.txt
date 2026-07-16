@@ -1,4 +1,3 @@
 # AS55085 (OLBANKING-PROD-AS)
 # Fiserv Solutions LLC
 #
-72.28.96.0/24

@@ -1,4 +1,3 @@
 # AS133292 (AMOL-AS-IN)
 # ADS Royalnet Communication Pvt Ltd
 #
-16.217.19.0/24

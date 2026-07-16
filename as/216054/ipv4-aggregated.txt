@@ -1,6 +1,7 @@
 # AS216054 (VIP-HOST)
 # Taymaz Gostaran Naghshe Almas Co. ( Ltd )
 #
+46.29.34.0/24
 185.60.59.0/24
 185.83.182.0/24
 185.235.196.0/23

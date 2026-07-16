@@ -1,3 +1,0 @@
-# AS153935 (MBNETWORK-AS-AP)
-# MB Network
-#

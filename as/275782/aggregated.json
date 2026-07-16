@@ -1,0 +1,16 @@
+{
+  "asn": 275782,
+  "metadata": {
+    "handle": "ALLIANT-TECNOLOGIA",
+    "description": "Alliant Tecnologia Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:997c::/32" ]
+  }
+}

@@ -1,3 +1,5 @@
 # AS213333 (CNPR-NETWORK)
 # Jacob Willem de Vos
 #
+167.150.86.0/24
+208.122.14.0/23

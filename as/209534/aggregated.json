@@ -1,0 +1,16 @@
+{
+  "asn": 209534,
+  "metadata": {
+    "handle": "OVIT",
+    "description": "OVIT Consulting AS",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a13:7f80::/29" ]
+  }
+}

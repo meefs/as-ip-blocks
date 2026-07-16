@@ -1,0 +1,16 @@
+{
+  "asn": 150791,
+  "metadata": {
+    "handle": "BMO-AS-AP",
+    "description": "BD Max Online",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.101.99.0/24" ],
+    "ipv6": [ ]
+  }
+}

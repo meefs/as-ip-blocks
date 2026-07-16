@@ -1,3 +1,4 @@
 # AS21051 (NIVAL-AS)
 # ASTRUM LLC
 #
+2a05:c3c0::/32

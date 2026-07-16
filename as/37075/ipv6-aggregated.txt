@@ -1,4 +1,3 @@
 # AS37075 (RS-AIRTELUG)
 # Airtel Uganda Routing Registry AS
 #
-2c0f:fbc8::/32

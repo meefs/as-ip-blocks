@@ -1,3 +1,3 @@
-# AS17391 (CPWR-DTW-ASN01)
-# BMC Software Inc.
+# AS17391 (HELX-AUSX)
+# BMC Helix Inc.
 #

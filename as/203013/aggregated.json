@@ -1,0 +1,16 @@
+{
+  "asn": 203013,
+  "metadata": {
+    "handle": "ORG-WTHR1-RIPE",
+    "description": "WEB THREE LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.130.249.0/24" ],
+    "ipv6": [ ]
+  }
+}

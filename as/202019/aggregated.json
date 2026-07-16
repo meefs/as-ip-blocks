@@ -1,0 +1,16 @@
+{
+  "asn": 202019,
+  "metadata": {
+    "handle": "BODEGA-HOSTING",
+    "description": "Eric Kelderman trading as Bodega ICT",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.219.6.0/24" ],
+    "ipv6": [ ]
+  }
+}

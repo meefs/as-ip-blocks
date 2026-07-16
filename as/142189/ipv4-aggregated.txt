@@ -1,3 +1,4 @@
 # AS142189 (IDNIC-TBA-AS-ID)
 # PT Teja Bala Abadi
 #
+144.79.228.0/24

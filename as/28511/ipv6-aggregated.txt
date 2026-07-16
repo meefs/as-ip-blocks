@@ -1,4 +1,5 @@
 # AS28511 (NETWORK-INFORMATION-CENTER)
 # Network Information Center México
 #
+2001:1250:b000::/44
 2001:1250:fe00::/48

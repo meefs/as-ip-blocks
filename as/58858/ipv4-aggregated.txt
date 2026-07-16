@@ -1,0 +1,4 @@
+# AS58858 (CNNIC-CRITICAL-AP)
+# China Internet Network Infomation Center
+#
+203.99.18.0/24

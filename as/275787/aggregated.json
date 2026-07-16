@@ -1,0 +1,16 @@
+{
+  "asn": 275787,
+  "metadata": {
+    "handle": "BARUQUE-REOBTH-EIRELI",
+    "description": "BARUQUE REOBTH EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:998c::/32" ]
+  }
+}

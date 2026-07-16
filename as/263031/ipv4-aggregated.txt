@@ -1,4 +1,6 @@
 # AS263031 (SCJ-INFO-COM)
 # SCJ Info Com. Serv. de Informatica Ltda
 #
-177.12.80.0/21
+177.12.80.0/22
+177.12.85.0/24
+177.12.86.0/23

@@ -2,3 +2,4 @@
 # TGS Management Company LLC
 #
 147.185.231.0/24
+204.107.154.0/24
