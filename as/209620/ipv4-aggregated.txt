@@ -1,4 +1,4 @@
-# AS209620 (MCGMBH)
+# AS209620 (LINSPACE)
 # Dr. Michaelis Consult GmbH
 #
 78.31.196.0/22

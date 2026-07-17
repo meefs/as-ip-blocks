@@ -1,0 +1,16 @@
+{
+  "asn": 219240,
+  "metadata": {
+    "handle": "YUKI-AS",
+    "description": "Yuki Haigner",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:67c:644::/48", "2a06:9801:7fe::/48" ]
+  }
+}

@@ -1,4 +1,5 @@
 # AS270314 (NNUMBERS-TECNOLOGIA)
 # Nnumbers Tecnologia Ltda
 #
+177.124.133.0/24
 192.195.56.0/24

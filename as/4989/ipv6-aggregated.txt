@@ -1,3 +1,4 @@
 # AS4989 (NEXXEN-USEAST-02)
 # RhythmOne LLC
 #
+2620:112:f002::/48

@@ -1,4 +1,4 @@
 # AS8968 (BT-ITALIA)
-# BT Italia S.p.A.
+# RETELIT-X S.R.L.
 #
 2a02:4d80::/32

@@ -1,5 +1,5 @@
 # AS59861 (ASCITINFNET)
-# Unitary Services Enterprise Urban Network System
+# LLC Setevye Innovatsii
 #
 93.125.59.0/24
 178.172.245.0/24

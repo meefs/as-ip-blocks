@@ -1,3 +1,4 @@
 # AS45580 (OMITECHINT-PH)
 # Omitech Int
 #
+182.239.32.0/23

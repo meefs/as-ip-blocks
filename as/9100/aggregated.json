@@ -2,11 +2,11 @@
   "asn": 9100,
   "metadata": {
     "handle": "ASPECTRA",
-    "description": "CONVOTIS Swiss Cloud AG",
+    "description": "Convotis Schweiz AG",
     "countryCode": "CH",
     "country": "Switzerland",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

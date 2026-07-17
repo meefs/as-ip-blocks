@@ -2,5 +2,6 @@
 # Mediateknik i Varberg AB
 #
 2001:67c:22e0::/48
+2001:67c:2ddc::/48
 2a00:c740::/32
 2a01:8e00::/29

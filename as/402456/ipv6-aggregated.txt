@@ -1,5 +1,5 @@
 # AS402456 (BJERKERUD)
 # Bjerkerud Inc.
 #
-2602:f3d4:7ba::/48
 2602:f3d4:b0b::/48
+2602:f3d4:e46::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 213731,
+  "metadata": {
+    "handle": "WESTFALEN-INFORMATIK",
+    "description": "Westfalen-Informatik AG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.210.230.0/24" ],
+    "ipv6": [ ]
+  }
+}

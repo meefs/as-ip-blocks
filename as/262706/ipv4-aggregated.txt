@@ -2,3 +2,4 @@
 # Ultranet Telecomunicações Ltda
 #
 187.109.32.0/20
+207.153.110.0/24

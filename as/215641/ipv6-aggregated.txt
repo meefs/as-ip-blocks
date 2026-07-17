@@ -1,4 +1,4 @@
 # AS215641 (MODAC)
-# Modell Aachen GmbH - Interaktive Managementsysteme
+# Ariadne GmbH
 #
 2a10:d900::/32

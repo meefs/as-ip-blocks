@@ -1,0 +1,16 @@
+{
+  "asn": 153742,
+  "metadata": {
+    "handle": "IRINN-LIVEMNC-AS-IN",
+    "description": "LIVEMNC.COM",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.140.0/24" ],
+    "ipv6": [ ]
+  }
+}

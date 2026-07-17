@@ -6,11 +6,11 @@
     "countryCode": "GB",
     "country": "United Kingdom",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a0f:6284:4::/48", "2a0f:6284:900::/40", "2a0f:85c1:cd8::/48" ]
+    "ipv6": [ ]
   }
 }

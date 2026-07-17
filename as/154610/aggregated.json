@@ -1,0 +1,16 @@
+{
+  "asn": 154610,
+  "metadata": {
+    "handle": "IBCSB-AS-AP",
+    "description": "IDA Business Consulting Sdn. Bhd.",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

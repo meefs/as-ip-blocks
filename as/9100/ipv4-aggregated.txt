@@ -1,5 +1,5 @@
 # AS9100 (ASPECTRA)
-# CONVOTIS Swiss Cloud AG
+# Convotis Schweiz AG
 #
 45.85.96.0/24
 45.85.98.0/24

@@ -1,4 +1,5 @@
 # AS38 (UIUC)
 # University of Illinois
 #
+2600:3900::/28
 2620:0:e00::/47

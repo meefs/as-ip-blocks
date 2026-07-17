@@ -1,4 +1,4 @@
 # AS211752 (VE)
-# Eurofiber Netz GmbH
+# mih Net Berlin GmbH
 #
 2a0a:fcc0::/29

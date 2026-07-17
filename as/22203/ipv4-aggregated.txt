@@ -1,4 +1,3 @@
 # AS22203 (NAVITAIRE)
 # administrative copy of ARIN registered ASN.
 #
-149.122.98.0/24

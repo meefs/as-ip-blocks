@@ -1,3 +1,6 @@
 # AS13362 (GENERAL-RESEARCH)
 # General Research Laboratories LLC
 #
+2602:f4f0::/47
+2602:f4f0:2::/48
+2602:f4f0:10::/48

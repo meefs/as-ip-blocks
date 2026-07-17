@@ -1,4 +1,4 @@
-# AS393523 (WIE-BLOCK)
+# AS393523 (TRUE-NORTH-NET-01)
 # Winnipeg Internet Exchange (WPGIX) INC.
 #
 192.31.228.0/24

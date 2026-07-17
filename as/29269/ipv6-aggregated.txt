@@ -1,3 +1,5 @@
 # AS29269 (CLOUDGLOBAL-AS)
 # Cloud Global S.L.
 #
+2a02:6480::/32
+2a12:ca40::/29

@@ -1,7 +1,7 @@
 {
   "asn": 209620,
   "metadata": {
-    "handle": "MCGMBH",
+    "handle": "LINSPACE",
     "description": "Dr. Michaelis Consult GmbH",
     "countryCode": "DE",
     "country": "Germany",
@@ -11,6 +11,6 @@
   },
   "prefixes": {
     "ipv4": [ "78.31.196.0/22", "193.58.88.0/22", "194.55.240.0/22" ],
-    "ipv6": [ "2a0c:94c0::/29", "2a0c:cbc0::/29" ]
+    "ipv6": [ "2a06:6880::/29", "2a0c:94c0::/29", "2a0c:cbc0::/29" ]
   }
 }

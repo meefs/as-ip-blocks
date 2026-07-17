@@ -2,3 +2,4 @@
 # Diyaaeldin Moustafa trading as Karmuz
 #
 85.155.150.0/24
+185.214.243.0/24

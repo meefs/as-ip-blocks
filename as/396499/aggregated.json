@@ -2,11 +2,11 @@
   "asn": 396499,
   "metadata": {
     "handle": "COREBRIDGE-US-ISP",
-    "description": "AIG Technologies Inc.",
+    "description": "Corebridge Financial Inc",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

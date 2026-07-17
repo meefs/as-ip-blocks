@@ -1,4 +1,5 @@
 # AS219309 (CODELOUNGE-NET)
 # CodeLounge Co. Ltd.
 #
+64.188.25.0/24
 104.234.54.0/23

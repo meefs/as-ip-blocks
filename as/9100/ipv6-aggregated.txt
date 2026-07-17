@@ -1,5 +1,5 @@
 # AS9100 (ASPECTRA)
-# CONVOTIS Swiss Cloud AG
+# Convotis Schweiz AG
 #
 2a02:e0c0:1000::/38
 2a02:e0c0:1c00::/38
