@@ -1,5 +1,4 @@
 # AS134494 (CFHIL-AS-AP)
 # Code For Host Inc Ltd
 #
-188.220.144.0/24
 189.75.181.0/24

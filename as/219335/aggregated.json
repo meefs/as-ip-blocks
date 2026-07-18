@@ -1,0 +1,16 @@
+{
+  "asn": 219335,
+  "metadata": {
+    "handle": "COREVANCE-AS",
+    "description": "COREVANCE LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "78.108.121.0/24" ],
+    "ipv6": [ ]
+  }
+}

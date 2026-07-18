@@ -1,3 +1,4 @@
 # AS44224 (MARNET)
 # Macedonian Academic Research Network Skopje
 #
+2a0d:a340::/29

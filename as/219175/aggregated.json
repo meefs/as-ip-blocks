@@ -1,0 +1,16 @@
+{
+  "asn": 219175,
+  "metadata": {
+    "handle": "OPERAS",
+    "description": "Hugo Pereira",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:f1a::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 219328,
+  "metadata": {
+    "handle": "VERSORI",
+    "description": "Versori LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.47.45.0/24" ],
+    "ipv6": [ ]
+  }
+}

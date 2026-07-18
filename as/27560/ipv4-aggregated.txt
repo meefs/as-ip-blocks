@@ -1,5 +1,5 @@
 # AS27560 (ULTCO)
 # Universal Leaf Tobacco Company Inc.
 #
-66.242.57.0/24
+66.242.56.0/23
 208.150.78.0/24

@@ -2,3 +2,4 @@
 # Bakhtin Evgenii Valerevich
 #
 31.40.202.0/24
+45.130.60.0/24

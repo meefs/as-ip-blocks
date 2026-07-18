@@ -1,14 +1,16 @@
 {
   "asn": 203716,
   "metadata": {
-    "handle": "SDS",
+    "handle": "AS-CDC",
     "description": "FOP Kushnarev Sergii Mikolayevich",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "193.169.135.0/24" ],
+    "ipv6": [ ]
   }
 }

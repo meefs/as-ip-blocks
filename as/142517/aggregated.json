@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "PRUD1782-AS",
     "description": "PRUDENT CORPORATE ADVISORY SERVICES LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "152.237.224.0/24", "186.241.176.0/24", "212.38.80.0/24" ],
+    "ipv6": [ ]
   }
 }

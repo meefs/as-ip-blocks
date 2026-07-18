@@ -1,4 +1,4 @@
 # AS200457 (MBG)
-# Mind Bridge Group LLC
+# Limited Liability Company New Travel Technologies
 #
 185.106.172.0/22

@@ -1,0 +1,16 @@
+{
+  "asn": 146871,
+  "metadata": {
+    "handle": "MRVPL-AS-IN",
+    "description": "MANAV RACHNA VIDYANATARIKSHA PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.77.119.0/24", "194.77.2.0/24", "212.180.108.0/24", "217.79.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

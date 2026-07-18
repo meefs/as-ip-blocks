@@ -6,11 +6,11 @@
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "education_research",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
-    "ipv6": [ "2602:f4f0::/47", "2602:f4f0:2::/48", "2602:f4f0:10::/48" ]
+    "ipv4": [ "198.153.213.0/24" ],
+    "ipv6": [ "2602:f4f0::/47", "2602:f4f0:2::/48" ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "asn": 402702,
   "metadata": {
-    "handle": "JASON",
+    "handle": "HIGHLANDER-FOUR-ISP",
     "description": "Highlander Four Group LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

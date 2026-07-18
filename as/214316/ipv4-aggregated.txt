@@ -1,4 +1,4 @@
 # AS214316 (TWEDIGITAL)
-# TWE Digital Verwaltungs- GmbH trading as TWE Digital GmbH & Co. KG
+# TWE Verwaltungs- GmbH trading as TWE Shared Services GmbH & Co. KG
 #
 156.67.61.0/24

@@ -1,12 +1,12 @@
 {
   "asn": 402285,
   "metadata": {
-    "handle": "MATTHEW",
+    "handle": "MATTHEW-ISP",
     "description": "Matthew Daniel Brown LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,4 +1,3 @@
 # AS54132 (FINDER)
 # Finder Networks LLC
 #
-198.11.12.0/24

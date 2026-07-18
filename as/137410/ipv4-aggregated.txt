@@ -2,5 +2,3 @@
 # MiM Digital Marketing Solution Ltd.
 #
 16.5.27.0/24
-64.112.98.0/24
-142.111.40.0/24

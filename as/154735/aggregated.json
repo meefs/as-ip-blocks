@@ -1,0 +1,16 @@
+{
+  "asn": 154735,
+  "metadata": {
+    "handle": "AXAPH-ASN-PL-AP",
+    "description": "AXA Philippines Life and General Insurance Company",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.177.75.0/24", "203.213.207.0/24" ],
+    "ipv6": [ ]
+  }
+}
