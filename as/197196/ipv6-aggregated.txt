@@ -2,5 +2,4 @@
 # PANSTAR CLOUD LIMITED
 #
 2a0f:1cc6:b221::/48
-2a0f:1cc6:b222::/47
-2a0f:1cc6:b224::/48
+2a0f:1cc6:b222::/48

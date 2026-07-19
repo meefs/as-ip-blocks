@@ -1,0 +1,16 @@
+{
+  "asn": 154755,
+  "metadata": {
+    "handle": "MULTILINK-AS-AP",
+    "description": "Multilink Communications Pvt Ltd",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.86.0/23" ],
+    "ipv6": [ ]
+  }
+}

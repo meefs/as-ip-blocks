@@ -1,4 +1,5 @@
 # AS150347 (PLANISWARE-AS-AP)
 # Planisware Singapore Pte. Ltd
 #
+103.67.251.0/24
 103.68.139.0/24

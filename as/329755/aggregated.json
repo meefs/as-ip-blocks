@@ -1,0 +1,16 @@
+{
+  "asn": 329755,
+  "metadata": {
+    "handle": "ENERGY-UTILITY-CORPORATION-EUCL-LTD",
+    "description": "ENERGY UTILITY CORPORATION (EUCL) Ltd",
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.79.0/24" ],
+    "ipv6": [ ]
+  }
+}

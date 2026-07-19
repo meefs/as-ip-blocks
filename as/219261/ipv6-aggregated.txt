@@ -2,3 +2,4 @@
 # Konsta Rantakangas trading as Ounaskaira
 #
 2a06:9801:7dc::/48
+2a06:9801:f60::/44

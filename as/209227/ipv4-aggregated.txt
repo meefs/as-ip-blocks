@@ -2,4 +2,3 @@
 # Green Web Samaneh Novin PJSC
 #
 185.252.84.0/24
-193.141.126.0/24

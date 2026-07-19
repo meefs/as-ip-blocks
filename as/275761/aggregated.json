@@ -1,0 +1,16 @@
+{
+  "asn": 275761,
+  "metadata": {
+    "handle": "HOSTEG-HOSPEDAGEM-SERVIDORES",
+    "description": "HOSTEG HOSPEDAGEM E SERVIDORES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:992c::/32" ]
+  }
+}

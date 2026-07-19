@@ -1,0 +1,4 @@
+# AS131624 (DOWTEK-AS-TW)
+# 13F.-2 No. 910 Sec. 2 Taiwan Blvd. Xitun Dist. Taichung City Taiwan (R.O.C.)
+#
+2402:4f20:7::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 17757,
+  "metadata": {
+    "handle": "HPAUS-AP",
+    "description": "SingTel Optus Pty Ltd",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.171.111.0/24" ],
+    "ipv6": [ ]
+  }
+}

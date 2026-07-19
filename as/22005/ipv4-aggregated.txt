@@ -1,3 +1,0 @@
-# AS22005 (VWR)
-# administrative copy of ARIN registered ASN.
-#
