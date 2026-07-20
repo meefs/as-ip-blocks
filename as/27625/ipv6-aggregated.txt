@@ -1,5 +1,4 @@
 # AS27625 (UBNT-AS)
 # Ubiquiti Networks Inc.
 #
-2404:5e40:3e8::/48
 2620:a5:c000::/48

@@ -1,3 +1,4 @@
 # AS202019 (BODEGA-HOSTING)
 # Eric Kelderman trading as Bodega ICT
 #
+185.219.6.0/24

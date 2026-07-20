@@ -1,0 +1,16 @@
+{
+  "asn": 402573,
+  "metadata": {
+    "handle": "GAIA-01",
+    "description": "GAIA Telecom LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "209.151.122.0/24" ],
+    "ipv6": [ ]
+  }
+}

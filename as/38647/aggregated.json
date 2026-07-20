@@ -1,0 +1,16 @@
+{
+  "asn": 38647,
+  "metadata": {
+    "handle": "GEEKN-NETLAB",
+    "description": "NEI's NetLab",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.25.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

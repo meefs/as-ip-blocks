@@ -1,0 +1,16 @@
+{
+  "asn": 329615,
+  "metadata": {
+    "handle": "CLOUD-RAPTOR",
+    "description": "Sharp Thoughts Proprietary Ltd t/a Cloud Raptor",
+    "countryCode": "BW",
+    "country": "Botswana",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.208.0/22" ],
+    "ipv6": [ ]
+  }
+}

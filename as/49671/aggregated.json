@@ -1,0 +1,16 @@
+{
+  "asn": 49671,
+  "metadata": {
+    "handle": "DODO-NET",
+    "description": "DODO K.K.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.48.0/23" ],
+    "ipv6": [ ]
+  }
+}

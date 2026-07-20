@@ -1,14 +1,16 @@
 {
   "asn": 199899,
   "metadata": {
-    "handle": "WIFIKLODZKO",
-    "description": "Artur Bogusz trading as WIFI.KLODZKO.PL Sp. J.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "GORIWEB",
+    "description": "GEOCOM LLC",
+    "countryCode": "GE",
+    "country": "Georgia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "113.203.224.0/24", "175.110.81.0/24", "175.110.83.0/24", "175.110.84.0/24", "175.110.87.0/24", "175.110.88.0/23", "180.178.178.0/23", "180.178.181.0/24", "180.178.182.0/23", "180.178.184.0/23", "180.178.186.0/24" ],
+    "ipv6": [ ]
   }
 }
