@@ -1,0 +1,4 @@
+# AS56097 (JOISTER-AS)
+# Joister Group of Companies
+#
+192.6.164.0/24

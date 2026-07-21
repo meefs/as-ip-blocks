@@ -1,4 +1,3 @@
 # AS149934 (IDNIC-PALINDONET-AS-ID)
 # PT Pangkalan Lintas Data
 #
-2401:4a60::/32

@@ -1,4 +1,4 @@
-# AS49911 (AS-CDNSQUARED)
+# AS49911 (DCNET)
 # DCNet Limited
 #
 185.76.48.0/23

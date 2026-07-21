@@ -1,4 +1,4 @@
 # AS134143 (PDKPL-AS-AP)
 # Kinetix Networks
 #
-2405:e180::/32
+2405:e180::/28

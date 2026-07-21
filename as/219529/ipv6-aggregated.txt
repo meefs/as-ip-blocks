@@ -2,3 +2,4 @@
 # Yulia Kurganova
 #
 2a0d:d940:60::/44
+2a0d:d940:3e00::/40

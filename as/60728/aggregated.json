@@ -2,11 +2,11 @@
   "asn": 60728,
   "metadata": {
     "handle": "FINK",
-    "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+    "description": "Andreas Fink",
     "countryCode": "CH",
     "country": "Switzerland",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

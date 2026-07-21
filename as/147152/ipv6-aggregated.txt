@@ -1,3 +1,4 @@
 # AS147152 (IDNIC-ISOAE-AS-ID)
 # PT Asli Isoae Solusine
 #
+2001:df7:23c0::/48

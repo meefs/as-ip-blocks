@@ -1,0 +1,16 @@
+{
+  "asn": 56097,
+  "metadata": {
+    "handle": "JOISTER-AS",
+    "description": "Joister Group of Companies",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.6.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

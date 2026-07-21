@@ -1,4 +1,5 @@
 # AS154480 (IDNIC-NETG-AS-ID)
 # PT Gerbang Nusantara Sakti
 #
+38.72.134.0/24
 198.15.22.0/24

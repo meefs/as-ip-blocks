@@ -1,0 +1,16 @@
+{
+  "asn": 400827,
+  "metadata": {
+    "handle": "HCDL-VIRGINIA-DATA-CENTER",
+    "description": "H5 Data Centers",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.250.130.0/24" ],
+    "ipv6": [ ]
+  }
+}

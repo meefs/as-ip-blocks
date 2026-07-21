@@ -1,14 +1,16 @@
 {
   "asn": 147276,
   "metadata": {
-    "handle": "SSB295500-IN",
+    "handle": "SSB295500-AS-IN",
     "description": "SSB INDUSTRIES",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "2.26.180.0/24" ],
+    "ipv6": [ ]
   }
 }

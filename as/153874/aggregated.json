@@ -1,0 +1,16 @@
+{
+  "asn": 153874,
+  "metadata": {
+    "handle": "CSU-AS-AP",
+    "description": "Caraga State University",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.103.0/24" ],
+    "ipv6": [ ]
+  }
+}

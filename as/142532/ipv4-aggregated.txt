@@ -1,4 +1,4 @@
 # AS142532 (MAAVE-AS)
 # Maa Vindhyawasini Enterprises
 #
-207.180.35.0/24
+78.105.124.0/24

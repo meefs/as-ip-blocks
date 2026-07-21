@@ -1,0 +1,16 @@
+{
+  "asn": 219259,
+  "metadata": {
+    "handle": "PLATFORMST-AS",
+    "description": "JSC Ploshchadka ST",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.130.144.0/23" ],
+    "ipv6": [ ]
+  }
+}

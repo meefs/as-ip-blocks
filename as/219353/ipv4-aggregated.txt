@@ -1,0 +1,4 @@
+# AS219353 (KZ-AIC-AS)
+# AsiaInterCom LLP
+#
+149.170.63.0/24

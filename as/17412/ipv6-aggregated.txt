@@ -1,3 +1,4 @@
 # AS17412 (NPIX-AS-AP)
 # Internet Exchange Nepal
 #
+2404:2c00:8000::/47

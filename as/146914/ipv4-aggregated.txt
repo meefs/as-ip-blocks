@@ -1,3 +1,4 @@
-# AS146914 (NETFAREBR)
+# AS146914 (NETFAREBR-AS)
 # Netfare Broadband (Opc) Pvt Ltd
 #
+212.60.158.0/24

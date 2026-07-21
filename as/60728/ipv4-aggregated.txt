@@ -1,4 +1,4 @@
 # AS60728 (FINK)
-# Andreas Fink trading as Fink Telecom Services GmbH
+# Andreas Fink
 #
 185.22.52.0/22

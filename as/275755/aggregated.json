@@ -1,0 +1,16 @@
+{
+  "asn": 275755,
+  "metadata": {
+    "handle": "JONATAS-FREITAS-RODRIGUES",
+    "description": "Jonatas de Freitas Rodrigues ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9914::/32" ]
+  }
+}

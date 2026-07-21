@@ -1,3 +1,4 @@
 # AS219319 (ZERTIX-AS)
 # Zertix LLC
 #
+144.31.225.0/24

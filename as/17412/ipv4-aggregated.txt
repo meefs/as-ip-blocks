@@ -1,4 +1,5 @@
 # AS17412 (NPIX-AS-AP)
 # Internet Exchange Nepal
 #
+36.0.4.0/22
 103.102.36.0/24

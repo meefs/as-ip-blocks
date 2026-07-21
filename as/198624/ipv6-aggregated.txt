@@ -1,4 +1,5 @@
 # AS198624 (HEXADO)
 # Petr Balek trading as Hexado.pro
 #
+2a06:9801:26e::/48
 2a14:7583:ea00::/40

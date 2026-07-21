@@ -1,0 +1,16 @@
+{
+  "asn": 401527,
+  "metadata": {
+    "handle": "APPALYTICS-MAIN",
+    "description": "Appalytics LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.248.157.0/24" ],
+    "ipv6": [ ]
+  }
+}

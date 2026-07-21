@@ -1,0 +1,4 @@
+# AS219259 (PLATFORMST-AS)
+# JSC Ploshchadka ST
+#
+188.130.144.0/23

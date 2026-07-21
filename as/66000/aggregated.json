@@ -1,0 +1,16 @@
+{
+  "asn": 66000,
+  "metadata": {
+    "handle": "VCU-HEALTH-SYSTEM-AUTHORITY",
+    "description": "VCU HEALTH SYSTEM AUTHORITY",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "199.87.192.0/22" ],
+    "ipv6": [ ]
+  }
+}
