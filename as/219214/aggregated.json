@@ -1,0 +1,16 @@
+{
+  "asn": 219214,
+  "metadata": {
+    "handle": "REDUX1",
+    "description": "Tobias Kickinger",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:7ff::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 274874,
+  "metadata": {
+    "handle": "LITHIUM-TELECOM-CA",
+    "description": "LITHIUM TELECOM C.A",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.51.125.0/24" ],
+    "ipv6": [ ]
+  }
+}

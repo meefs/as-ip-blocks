@@ -1,14 +1,16 @@
 {
   "asn": 208147,
   "metadata": {
-    "handle": "SOUTHWESTWARDTELECOM",
-    "description": "SOUTHWESTWARDTELECOM SOCIEDAD LIMITADA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "SNUGGLE",
+    "description": "Evie Snuggle",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "44.32.187.0/24" ],
+    "ipv6": [ "2001:67c:1970::/48" ]
   }
 }

@@ -1,4 +1,3 @@
 # AS11431 (NUCLEO-INF-COORD)
 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 #
-200.219.159.0/24

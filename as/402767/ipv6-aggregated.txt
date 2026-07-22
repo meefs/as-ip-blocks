@@ -1,0 +1,4 @@
+# AS402767 (ASPITEX-AS)
+# Aspitex LLC
+#
+2620:f2:4000::/48

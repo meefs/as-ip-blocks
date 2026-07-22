@@ -1,0 +1,16 @@
+{
+  "asn": 274313,
+  "metadata": {
+    "handle": "ENORAL",
+    "description": "ENORAL S.A",
+    "countryCode": "UY",
+    "country": "Uruguay",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.109.244.0/22", "154.9.113.0/24" ],
+    "ipv6": [ "2803:d430::/32" ]
+  }
+}

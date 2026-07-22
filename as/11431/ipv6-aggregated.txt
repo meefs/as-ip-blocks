@@ -1,4 +1,3 @@
 # AS11431 (NUCLEO-INF-COORD)
 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 #
-2001:12f8:c::/48

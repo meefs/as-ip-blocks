@@ -1,4 +1,4 @@
-# AS36625 (KGTLD)
+# AS36625 (DEFRA-7)
 # VeriSign Global Registry Services
 #
 192.33.14.0/24

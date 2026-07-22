@@ -1,0 +1,4 @@
+# AS197147 (SVYAZSERVICE-AS)
+# Svyazservice Ltd.
+#
+91.205.144.0/22

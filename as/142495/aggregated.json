@@ -1,14 +1,16 @@
 {
   "asn": 142495,
   "metadata": {
-    "handle": "VONENET",
+    "handle": "VONENET-AS",
     "description": "VONE NETWORK",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "31.77.114.0/24", "81.168.64.0/24" ],
+    "ipv6": [ ]
   }
 }

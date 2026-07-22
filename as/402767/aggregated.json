@@ -1,0 +1,16 @@
+{
+  "asn": 402767,
+  "metadata": {
+    "handle": "ASPITEX-AS",
+    "description": "Aspitex LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2620:f2:4000::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 40700,
+  "metadata": {
+    "handle": "WILINE-AI-EDGE-CLOUD",
+    "description": "WiLine Networks Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.207.117.0/24" ],
+    "ipv6": [ ]
+  }
+}

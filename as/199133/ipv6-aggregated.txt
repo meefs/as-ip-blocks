@@ -1,4 +1,4 @@
-# AS199133 (NYAIP)
+# AS199133 (NYAEU)
 # Yanislav Basiuk
 #
 2a06:de00:a3::/48

@@ -1,4 +1,4 @@
-# AS19836 (VERISIGNGRS)
+# AS19836 (USNYC-2)
 # VeriSign Infrastructure & Operations
 #
 2001:500:122::/47

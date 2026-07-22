@@ -6,11 +6,11 @@
     "countryCode": "FI",
     "country": "Finland",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a06:9801:228::/48" ]
+    "ipv6": [ ]
   }
 }

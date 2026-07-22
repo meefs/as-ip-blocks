@@ -1,0 +1,16 @@
+{
+  "asn": 274981,
+  "metadata": {
+    "handle": "GUZMAN-GUZMAN-LENIN-MARCELO",
+    "description": "GUZMAN GUZMAN LENIN MARCELO",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "181.78.247.0/24" ],
+    "ipv6": [ ]
+  }
+}

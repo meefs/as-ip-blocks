@@ -1,4 +1,4 @@
-# AS36625 (KGTLD)
+# AS36625 (DEFRA-7)
 # VeriSign Global Registry Services
 #
 2001:500:122::/48

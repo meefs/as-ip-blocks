@@ -1,4 +1,5 @@
 # AS12952 (KNOWLEDGE-PATH-ISP-ASN)
 # Knowledge Path for Information Technology and General Trading Ltd
 #
-185.118.128.0/22
+185.118.128.0/23
+185.118.130.0/24

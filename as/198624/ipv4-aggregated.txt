@@ -2,4 +2,3 @@
 # Petr Balek trading as Hexado.pro
 #
 87.76.158.0/24
-87.232.124.0/24

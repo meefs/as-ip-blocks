@@ -1,3 +1,0 @@
-# AS40176 (DATA-SUBSYSTEMS-INC-AS)
-# Data Subsystems Inc
-#

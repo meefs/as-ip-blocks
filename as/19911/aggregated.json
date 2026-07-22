@@ -1,12 +1,12 @@
 {
   "asn": 19911,
   "metadata": {
-    "handle": "SECURITYSERVICES",
-    "description": "Vercara LLC",
+    "handle": "ARBORCLOUD",
+    "description": "Arbor Cloud",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

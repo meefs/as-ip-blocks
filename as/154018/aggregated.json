@@ -1,0 +1,16 @@
+{
+  "asn": 154018,
+  "metadata": {
+    "handle": "RTNA-AS-AP",
+    "description": "Triplify Cloud (Thailand) Co. Ltd.",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.128.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,4 +1,5 @@
 # AS197761 (HOSTSLIM-AS)
 # Elkin Semyon Yuryevich
 #
+2a0f:6284:53::/48
 2a0f:6284:4219::/48

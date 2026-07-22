@@ -1,0 +1,16 @@
+{
+  "asn": 219546,
+  "metadata": {
+    "handle": "NCOP-P03-EDGAS",
+    "description": "Netcompany A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.175.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

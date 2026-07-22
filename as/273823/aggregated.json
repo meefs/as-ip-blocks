@@ -1,0 +1,16 @@
+{
+  "asn": 273823,
+  "metadata": {
+    "handle": "EMPRESA-TRANSPORTE-MASIVO",
+    "description": "EMPRESA DE TRANSPORTE MASIVO DEL VALLE DE ABURRA LTDA",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:175::/44" ]
+  }
+}

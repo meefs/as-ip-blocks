@@ -1,0 +1,16 @@
+{
+  "asn": 219434,
+  "metadata": {
+    "handle": "AIGARS-AS",
+    "description": "Aigars Praskevics",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.60.188.0/22" ],
+    "ipv6": [ ]
+  }
+}

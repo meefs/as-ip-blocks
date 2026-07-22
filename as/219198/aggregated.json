@@ -1,0 +1,16 @@
+{
+  "asn": 219198,
+  "metadata": {
+    "handle": "OMC-AT",
+    "description": "open mind consulting gmbh",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.228.89.0/24" ],
+    "ipv6": [ ]
+  }
+}

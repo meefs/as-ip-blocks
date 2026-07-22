@@ -2,4 +2,3 @@
 # Bharat Digital Network Private Limited
 #
 79.182.33.0/24
-207.180.45.0/24

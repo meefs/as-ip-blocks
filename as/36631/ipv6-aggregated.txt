@@ -1,4 +1,4 @@
-# AS36631 (ZGTLD)
+# AS36631 (USCHI-2)
 # VeriSign Global Registry Services
 #
 2001:500:121::/48

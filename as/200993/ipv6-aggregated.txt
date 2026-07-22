@@ -1,4 +1,4 @@
-# AS200993 (NYARU)
+# AS200993 (NYACORE)
 # Yanislav Basiuk
 #
 2001:678:978::/48

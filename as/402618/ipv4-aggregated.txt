@@ -1,0 +1,4 @@
+# AS402618 (TRICO-COOP-AZ)
+# Trico Electric Cooperative Inc.
+#
+68.169.64.0/20

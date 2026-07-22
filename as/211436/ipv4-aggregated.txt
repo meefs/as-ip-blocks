@@ -1,4 +1,3 @@
 # AS211436 (REGIONE-CAMPANIA-AS)
 # Regione Campania
 #
-91.242.250.0/24

@@ -1,5 +1,5 @@
 # AS21334 (ASN-ONE-HU)
-# One Hungary Ltd.
+# 2Connect Telecommunications Infrastructure & Network Services Ltd.
 #
 2a01:870::/32
 2a01:8f8::/32

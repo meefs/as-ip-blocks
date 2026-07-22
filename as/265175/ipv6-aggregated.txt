@@ -2,4 +2,3 @@
 # AS SISTEMAS LTDA
 #
 2804:2bc8::/32
-2804:2ca4::/32

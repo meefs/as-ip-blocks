@@ -2,11 +2,11 @@
   "asn": 268778,
   "metadata": {
     "handle": "MAYARA-B-G-FERNANDES",
-    "description": "MAYARA B G FERNANDES ME",
+    "description": "FTI NET",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

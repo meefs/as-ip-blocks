@@ -1,4 +1,4 @@
 # AS212841 (SM-AASS)
-# AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI
+# A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici
 #
 185.21.132.0/24
