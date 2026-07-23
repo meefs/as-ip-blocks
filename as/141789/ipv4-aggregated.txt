@@ -1,6 +1,5 @@
 # AS141789 (CFPL20-AS)
 # Cuisinable Foods Private Ltd
 #
-16.216.102.0/24
 152.237.225.0/24
 186.241.177.0/24

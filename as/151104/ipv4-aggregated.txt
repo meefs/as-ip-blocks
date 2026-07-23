@@ -1,4 +1,3 @@
 # AS151104 (GIGANETF-AS-IN)
 # Giganetwork Info Private Limited
 #
-188.221.164.0/24

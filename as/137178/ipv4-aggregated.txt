@@ -1,5 +1,4 @@
 # AS137178 (INVENSYS-AS)
 # Invensys Networks Pvt. Ltd.
 #
-51.241.133.0/24
 103.110.167.0/24

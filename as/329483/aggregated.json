@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "MALAWI-LIVERPOOL-WELLCOME-TRUST-CLINICAL-RESEARCH-PROGRAMME",
     "description": "Malawi-Liverpool-Wellcome Trust Clinical Research Programme",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "MW",
+    "country": "Malawi",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "102.208.52.0/24" ],
+    "ipv6": [ "2001:43fd:f000::/48" ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "asn": 274316,
+  "metadata": {
+    "handle": "CABLE-NET",
+    "description": "CABLE NET S.A.S",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.9.54.0/24" ],
+    "ipv6": [ ]
+  }
+}

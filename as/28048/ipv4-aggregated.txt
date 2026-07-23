@@ -1,6 +1,7 @@
 # AS28048 (INTERNET-PARA-TODOS)
 # Internet Para Todos - Gobierno de La Rioja
 #
+38.172.200.0/24
 38.210.128.0/19
 190.112.64.0/18
 191.103.0.0/18

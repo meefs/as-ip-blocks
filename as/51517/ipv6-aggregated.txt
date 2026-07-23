@@ -1,4 +1,3 @@
 # AS51517 (AS-ORANJEKOEK)
 # Arend Brouwer
 #
-2a10:e300::/32

@@ -1,4 +1,4 @@
 # AS24904 (KWAOO)
-# K-NET SARL
+# K-Net SAS
 #
 2a03:4980::/32

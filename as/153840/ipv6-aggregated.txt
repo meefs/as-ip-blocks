@@ -1,3 +1,4 @@
 # AS153840 (IDNIC-ASNETWORK-AS-ID)
 # PT Andalas Solusi Network
 #
+2001:df5:70c0::/48

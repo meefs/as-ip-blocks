@@ -1,4 +1,4 @@
-# AS25892 (VERTEX)
+# AS25892 (KLOUD-COMM)
 # VTX Telecom
 #
 2605:18c0::/32

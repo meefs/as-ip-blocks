@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "FEMSCI",
     "description": "Daniel Drozdz",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a14:6f45:c0de::/48" ]
   }
 }

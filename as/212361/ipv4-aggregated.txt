@@ -1,4 +1,4 @@
 # AS212361 (NETCURE)
-# Dror Katz trading as Netcure Computers/ D.P.O.
+# NET CURE COMPUTERS LTD
 #
 147.234.90.0/24

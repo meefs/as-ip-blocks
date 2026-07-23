@@ -1,4 +1,4 @@
 # AS203677 (TENNET)
-# Piotr Ekspedyt Frankowski trading as TEN.NET
+# HomeNet Technologies Sp. z o.o.
 #
 185.127.120.0/23

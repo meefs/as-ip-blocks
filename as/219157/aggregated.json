@@ -1,0 +1,16 @@
+{
+  "asn": 219157,
+  "metadata": {
+    "handle": "IPV6CLOUD",
+    "description": "IPV6 CLOUD Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:f1f::/48" ]
+  }
+}

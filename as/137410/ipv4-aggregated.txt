@@ -1,4 +1,3 @@
 # AS137410 (BAKA-NETWORK)
 # MiM Digital Marketing Solution Ltd.
 #
-16.5.27.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 35973,
+  "metadata": {
+    "handle": "CCWRD-AS",
+    "description": "Clark County Water Reclamation District",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.48.230.0/24" ],
+    "ipv6": [ ]
+  }
+}

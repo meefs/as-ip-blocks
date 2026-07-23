@@ -2,3 +2,4 @@
 # Pluxcon Network USA LLC
 #
 101.53.77.0/24
+194.242.158.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 35152,
+  "metadata": {
+    "handle": "AURORAINFRA-AS",
+    "description": "AURORA INFRASTRUCTURE EU Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "84.239.100.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS272105 (MEVATEL-LIMITADA)
+# Mevatel Limitada
+#
+200.112.236.0/24

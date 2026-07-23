@@ -1,0 +1,16 @@
+{
+  "asn": 154041,
+  "metadata": {
+    "handle": "QPSSI-AS-AP",
+    "description": "Qualfon Philippines Support Services Inc",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.90.0/24" ],
+    "ipv6": [ ]
+  }
+}

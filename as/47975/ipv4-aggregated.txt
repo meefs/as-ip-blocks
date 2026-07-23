@@ -1,3 +1,4 @@
-# AS47975 (KT)
+# AS47975 (FIREBIRD-AS-47975)
 # Supercom LLC
 #
+46.70.207.0/24

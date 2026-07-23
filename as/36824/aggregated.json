@@ -2,11 +2,11 @@
   "asn": 36824,
   "metadata": {
     "handle": "IDACORE",
-    "description": "Adtaq Internet LLC",
+    "description": "IDACORE",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

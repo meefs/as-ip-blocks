@@ -2,4 +2,4 @@
 # FiberConX Communications Ltd.
 #
 2001:1978:802::/48
-2602:fd51::/36
+2602:fd51::/40

@@ -1,0 +1,16 @@
+{
+  "asn": 272105,
+  "metadata": {
+    "handle": "MEVATEL-LIMITADA",
+    "description": "Mevatel Limitada",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.112.236.0/24" ],
+    "ipv6": [ ]
+  }
+}

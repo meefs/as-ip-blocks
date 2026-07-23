@@ -1,0 +1,16 @@
+{
+  "asn": 214601,
+  "metadata": {
+    "handle": "LABORALKUTXA",
+    "description": "CAJA LABORAL POPULAR COOP DE CREDITO",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.52.18.0/23" ],
+    "ipv6": [ ]
+  }
+}

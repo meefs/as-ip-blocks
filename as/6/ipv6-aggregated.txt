@@ -1,3 +1,4 @@
 # AS6 (BULL-NETWORK)
 # ATOS IT Solutions and Services, Inc.
 #
+2804:6838::/32

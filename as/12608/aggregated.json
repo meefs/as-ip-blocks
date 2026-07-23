@@ -1,14 +1,16 @@
 {
   "asn": 12608,
   "metadata": {
-    "handle": "DATALABS-TRANSPORT",
-    "description": "DATATECH LABS MIDDLE EAST DMCC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "IGLG-7F5-DATA",
+    "description": "IGLG Network CZ s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "89.207.155.0/24" ],
+    "ipv6": [ ]
   }
 }

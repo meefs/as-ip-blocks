@@ -1,0 +1,16 @@
+{
+  "asn": 274868,
+  "metadata": {
+    "handle": "COLAVITA-NESTOR-RODOLFO",
+    "description": "COLAVITA NESTOR RODOLFO (SINTEL NET)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.3.240.0/21" ],
+    "ipv6": [ ]
+  }
+}

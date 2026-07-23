@@ -1,0 +1,16 @@
+{
+  "asn": 402766,
+  "metadata": {
+    "handle": "MARKVD-NET",
+    "description": "Mark Van Daele Sole Proprietorship",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.238.17.0/24" ],
+    "ipv6": [ "2602:f340::/40" ]
+  }
+}

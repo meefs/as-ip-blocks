@@ -1,0 +1,16 @@
+{
+  "asn": 154714,
+  "metadata": {
+    "handle": "IRINN-ANSRJKT-AS-IN",
+    "description": "ANS PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.235.0/24" ],
+    "ipv6": [ ]
+  }
+}

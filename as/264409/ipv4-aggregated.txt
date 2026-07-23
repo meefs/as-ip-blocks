@@ -1,5 +1,5 @@
 # AS264409 (GRUPO-YAX)
-# GRUPO YAX
+# Huge Solucoes Corporativas Ltda
 #
 23.26.115.0/24
 45.149.95.0/24

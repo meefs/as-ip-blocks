@@ -1,0 +1,16 @@
+{
+  "asn": 51106,
+  "metadata": {
+    "handle": "TI8M",
+    "description": "ti&m AG",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.231.232.0/24" ],
+    "ipv6": [ "2a13:5400:1::/48" ]
+  }
+}

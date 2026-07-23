@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "PS-QUINTIEZ",
     "description": "Quintiez Alfa General Trading Co.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PS",
+    "country": "Palestinian Territories",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "217.147.2.0/24" ],
+    "ipv6": [ ]
   }
 }

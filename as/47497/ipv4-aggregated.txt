@@ -1,0 +1,4 @@
+# AS47497 (NASV-AS)
+# Hetman Petro Sahaidachnyi National Army Academy
+#
+195.191.39.0/24
