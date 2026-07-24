@@ -2,11 +2,11 @@
   "asn": 262469,
   "metadata": {
     "handle": "WISP-ICONECTA-SERVICOS",
-    "description": "WISP ICONECTA SERVICOS DE REDE LTDA",
+    "description": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

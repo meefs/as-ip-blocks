@@ -1,0 +1,4 @@
+# AS402160 (AS-TCMSD-001)
+# Truth or Consequences Municipal Schools
+#
+23.149.220.0/24

@@ -1,5 +1,5 @@
 # AS393483 (YEO-YEO)
-# Yeo & Yeo CPAs & Business Consultants
+# YEO & YEO CPAS & ADVISORS
 #
 23.153.220.0/24
 47.45.8.0/24

@@ -1,4 +1,3 @@
 # AS141482 (KOINFOCM-AS)
 # Ko Infocom Private Limited
 #
-92.112.71.0/24

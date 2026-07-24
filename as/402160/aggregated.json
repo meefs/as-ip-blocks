@@ -1,0 +1,16 @@
+{
+  "asn": 402160,
+  "metadata": {
+    "handle": "AS-TCMSD-001",
+    "description": "Truth or Consequences Municipal Schools",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.149.220.0/24" ],
+    "ipv6": [ ]
+  }
+}

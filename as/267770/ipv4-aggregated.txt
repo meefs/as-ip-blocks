@@ -2,4 +2,4 @@
 # COTEGUA LTDA (Coop. de Telecomunicaciones Guayaramerin Ltda.)
 #
 186.0.157.0/24
-186.0.158.0/23
+186.0.159.0/24

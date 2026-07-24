@@ -1,14 +1,16 @@
 {
   "asn": 198926,
   "metadata": {
-    "handle": "FAZEL",
+    "handle": "FAZED",
     "description": "Fazel Rezaei Kalantari",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "94.184.32.0/24" ],
+    "ipv6": [ ]
   }
 }

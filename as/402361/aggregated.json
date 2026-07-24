@@ -1,0 +1,16 @@
+{
+  "asn": 402361,
+  "metadata": {
+    "handle": "PEI-99",
+    "description": "Perry Ellis International Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.126.99.0/24" ],
+    "ipv6": [ ]
+  }
+}

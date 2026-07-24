@@ -1,0 +1,16 @@
+{
+  "asn": 6570,
+  "metadata": {
+    "handle": "CNCS",
+    "description": "AmeriCorps",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f804::/40" ]
+  }
+}

@@ -1,7 +1,6 @@
 # AS47288 (FIXNET)
 # FIXNET Telekomunikasyon Limited Sirketi
 #
-80.91.81.0/24
 93.184.144.0/21
 93.184.152.0/24
 93.184.155.0/24

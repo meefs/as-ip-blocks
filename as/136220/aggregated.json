@@ -1,0 +1,16 @@
+{
+  "asn": 136220,
+  "metadata": {
+    "handle": "IDNIC-UNTAG-ID",
+    "description": "Universitas 17 Agustus 1945 Semarang",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

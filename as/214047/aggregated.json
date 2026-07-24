@@ -1,0 +1,16 @@
+{
+  "asn": 214047,
+  "metadata": {
+    "handle": "NMPL",
+    "description": "New Media Production Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "79.142.100.0/23" ],
+    "ipv6": [ ]
+  }
+}

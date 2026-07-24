@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "SUPEROPTIPTYLTD-AS-AP",
     "description": "Superopti",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "160.191.152.0/23" ],
+    "ipv6": [ "2001:df4:8840::/48" ]
   }
 }

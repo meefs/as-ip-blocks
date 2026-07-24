@@ -1,5 +1,5 @@
 # AS213671 (FOURTHUTILITY-AS)
-# Vision Fibre Media LTD
+# Vision Fibre Media Ltd.
 #
 2a05:b100:1000::/36
 2a05:b100:2000::/35

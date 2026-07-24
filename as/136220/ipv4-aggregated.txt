@@ -1,0 +1,4 @@
+# AS136220 (IDNIC-UNTAG-ID)
+# Universitas 17 Agustus 1945 Semarang
+#
+160.236.21.0/24

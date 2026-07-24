@@ -2,3 +2,4 @@
 # Elkin Semyon Yuryevich
 #
 144.48.81.0/24
+204.10.195.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 274423,
+  "metadata": {
+    "handle": "RED-SAN-FELIPE-DIGITAL",
+    "description": "Red San Felipe Digital S.A. de C.V.",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2806:469::/32" ]
+  }
+}

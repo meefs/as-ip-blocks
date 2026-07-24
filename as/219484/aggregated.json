@@ -1,0 +1,16 @@
+{
+  "asn": 219484,
+  "metadata": {
+    "handle": "RIPE-HJC-AS-ID",
+    "description": "PT HOBIMU JADI CUAN",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.67.21.0/24" ],
+    "ipv6": [ "2a06:9801:793::/48" ]
+  }
+}

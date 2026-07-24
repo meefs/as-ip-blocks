@@ -1,3 +1,4 @@
-# AS198926 (FAZEL)
+# AS198926 (FAZED)
 # Fazel Rezaei Kalantari
 #
+94.184.32.0/24

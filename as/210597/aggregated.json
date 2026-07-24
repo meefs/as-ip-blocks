@@ -1,0 +1,16 @@
+{
+  "asn": 210597,
+  "metadata": {
+    "handle": "HAOXIANGYONG",
+    "description": "HONGKONG HAO XIANG YONG TECHNOLOGY CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.180.168.0/23" ],
+    "ipv6": [ ]
+  }
+}

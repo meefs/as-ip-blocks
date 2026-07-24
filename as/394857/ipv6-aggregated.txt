@@ -2,3 +2,4 @@
 # Riverwalk Consulting LLC
 #
 2602:f33e::/42
+2602:f33e:fc::/48

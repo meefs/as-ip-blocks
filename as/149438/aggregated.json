@@ -1,13 +1,13 @@
 {
   "asn": 149438,
   "metadata": {
-    "handle": "FM-NETWORKS",
-    "description": "FM Networks",
-    "countryCode": "BD",
-    "country": "Bangladesh",
-    "origin": "inferred",
-    "category": null,
-    "networkRole": null
+    "handle": "PYRUMAS-AS-AP",
+    "description": "Pyrumas Software (Bangalore) Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "103.179.152.0/23" ],

@@ -1,0 +1,16 @@
+{
+  "asn": 275807,
+  "metadata": {
+    "handle": "INOVA-FIBRA-TELECOM",
+    "description": "INOVA FIBRA TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:99d4::/32" ]
+  }
+}

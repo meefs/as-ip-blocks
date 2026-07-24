@@ -1,0 +1,16 @@
+{
+  "asn": 215684,
+  "metadata": {
+    "handle": "BLUEF-ASN",
+    "description": "BLUE FIBER IKE",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.35.95.0/24" ],
+    "ipv6": [ ]
+  }
+}

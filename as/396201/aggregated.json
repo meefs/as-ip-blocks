@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "CCCAS1",
     "description": "Contra Costa County",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "198.245.232.0/22" ],
+    "ipv6": [ ]
   }
 }
